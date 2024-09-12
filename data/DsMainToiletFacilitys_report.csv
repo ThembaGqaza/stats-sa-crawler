@@ -1,0 +1,1279 @@
+timeSeriesDesc,geoLevelDesc,geoLevelValueDesc,label,countsPercentage,Province,District,Municipality,ReportType
+Census 2022,Municipality,Matatiele,Flush toilet,28.1,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Matatiele,Chemical toilet,5.5,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Matatiele,Pit toilet,58.0,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Matatiele,Bucket toilet,1.5,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Matatiele,Other,2.7,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Matatiele,None,4.2,Eastern Cape,Alfred Nzo,Matatiele,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,Flush toilet,19.6,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,Chemical toilet,12.7,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,Pit toilet,56.7,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,Bucket toilet,1.3,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,Other,1.6,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Ntabankulu,None,8.2,Eastern Cape,Alfred Nzo,Ntabankulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,Flush toilet,26.7,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,Chemical toilet,11.3,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,Pit toilet,54.4,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,Bucket toilet,1.1,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,Other,1.7,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimvubu,None,4.7,Eastern Cape,Alfred Nzo,Umzimvubu,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,Flush toilet,16.1,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,Chemical toilet,5.4,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,Pit toilet,67.2,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,Bucket toilet,0.9,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,Other,4.2,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Winnie Madikizela-Mandela,None,6.2,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,Flush toilet,46.4,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,Chemical toilet,1.9,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,Pit toilet,48.3,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,Bucket toilet,0.4,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,Other,1.4,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Amahlathi,None,1.5,Eastern Cape,Amathole,Amahlathi,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,Flush toilet,50.4,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,Chemical toilet,7.1,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,Pit toilet,37.2,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,Bucket toilet,0.4,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,Other,2.5,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Great Kei,None,2.5,Eastern Cape,Amathole,Great Kei,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,Flush toilet,26.5,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,Chemical toilet,10.5,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,Pit toilet,57.7,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,Bucket toilet,2.3,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,Other,1.8,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mbhashe,None,1.2,Eastern Cape,Amathole,Mbhashe,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,Flush toilet,34.1,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,Chemical toilet,6.0,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,Pit toilet,55.2,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,Bucket toilet,0.3,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,Other,3.5,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Mnquma,None,0.9,Eastern Cape,Amathole,Mnquma,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,Flush toilet,28.6,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,Chemical toilet,5.5,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,Pit toilet,61.2,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,Bucket toilet,0.2,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,Other,3.0,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ngqushwa,None,1.3,Eastern Cape,Amathole,Ngqushwa,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,Flush toilet,60.1,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,Chemical toilet,2.9,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,Pit toilet,33.7,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,Bucket toilet,0.8,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,Other,1.7,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Raymond Mhlaba,None,0.9,Eastern Cape,Amathole,Raymond Mhlaba,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,Flush toilet,80.7,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,Chemical toilet,1.2,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,Pit toilet,16.0,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,Bucket toilet,0.7,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,Other,0.6,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Buffalo City,None,0.8,Eastern Cape,Buffalo City,Buffalo City,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Flush toilet,38.6,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Chemical toilet,5.0,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Pit toilet,39.7,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Bucket toilet,1.2,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Other,3.2,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,None,12.4,Eastern Cape,Chris Hani,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,Flush toilet,28.7,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,Chemical toilet,8.2,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,Pit toilet,47.4,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,Bucket toilet,2.2,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,Other,3.5,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Engcobo,None,10.1,Eastern Cape,Chris Hani,Engcobo,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,Flush toilet,72.2,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,Chemical toilet,1.7,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,Pit toilet,22.4,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,Bucket toilet,0.8,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,Other,0.9,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Enoch Mgijima,None,2.1,Eastern Cape,Chris Hani,Enoch Mgijima,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,Flush toilet,31.9,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,Chemical toilet,9.2,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,Pit toilet,48.2,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,Bucket toilet,0.7,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,Other,3.5,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Intsika Yethu,None,6.5,Eastern Cape,Chris Hani,Intsika Yethu,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,Flush toilet,95.3,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,Chemical toilet,0.6,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,Pit toilet,1.0,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,Bucket toilet,0.5,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,Other,0.4,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Inxuba Yethemba,None,2.2,Eastern Cape,Chris Hani,Inxuba Yethemba,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,Flush toilet,44.9,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,Chemical toilet,7.5,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,Pit toilet,40.2,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,Bucket toilet,0.3,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,Other,1.0,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Sakhisizwe,None,6.0,Eastern Cape,Chris Hani,Sakhisizwe,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,Flush toilet,40.5,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,Chemical toilet,4.9,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,Pit toilet,47.7,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,Bucket toilet,1.5,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,Other,1.9,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Elundini,None,3.5,Eastern Cape,Joe Gqabi,Elundini,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,Flush toilet,40.4,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,Chemical toilet,2.2,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,Pit toilet,50.2,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,Bucket toilet,1.3,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,Other,2.4,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Senqu,None,3.5,Eastern Cape,Joe Gqabi,Senqu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,Flush toilet,89.7,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,Chemical toilet,0.6,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,Pit toilet,5.1,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,Bucket toilet,1.0,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,Other,0.3,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Walter Sisulu,None,3.3,Eastern Cape,Joe Gqabi,Walter Sisulu,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,Flush toilet,93.5,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,Chemical toilet,0.6,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,Pit toilet,1.0,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,Bucket toilet,3.7,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,Other,0.2,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Nelson Mandela Bay,None,1.0,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,Flush toilet,47.6,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,Chemical toilet,3.3,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,Pit toilet,41.8,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,Bucket toilet,0.9,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,Other,2.0,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,King Sabata Dalindyebo,None,4.4,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,Flush toilet,26.4,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,Chemical toilet,8.1,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,Pit toilet,55.8,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,Bucket toilet,0.7,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,Other,1.8,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Mhlontlo,None,7.3,Eastern Cape,O.R. Tambo,Mhlontlo,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,Flush toilet,17.9,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,Chemical toilet,13.5,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,Pit toilet,56.2,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,Bucket toilet,2.7,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,Other,4.2,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Ngquza Hill,None,5.4,Eastern Cape,O.R. Tambo,Ngquza Hill,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,Flush toilet,23.7,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,Chemical toilet,5.9,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,Pit toilet,60.4,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,Bucket toilet,1.4,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,Other,2.1,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Nyandeni,None,6.6,Eastern Cape,O.R. Tambo,Nyandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,Flush toilet,19.4,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,Chemical toilet,9.4,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,Pit toilet,58.7,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,Bucket toilet,1.9,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,Other,4.9,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Port St Johns,None,5.6,Eastern Cape,O.R. Tambo,Port St Johns,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,Flush toilet,87.2,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,Chemical toilet,0.5,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,Pit toilet,5.0,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,Bucket toilet,2.2,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,Other,1.0,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Blue Crane Route,None,4.2,Eastern Cape,Sarah Baartman,Blue Crane Route,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,Flush toilet,96.1,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,Chemical toilet,0.5,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,Pit toilet,1.0,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,Bucket toilet,0.9,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,Other,0.2,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Beyers Naude,None,1.4,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,Flush toilet,91.5,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,Chemical toilet,0.4,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,Pit toilet,2.7,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,Bucket toilet,3.0,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,Other,1.5,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kou-Kamma,None,0.9,Eastern Cape,Sarah Baartman,Kou-Kamma,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,Flush toilet,84.7,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,Chemical toilet,0.4,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,Pit toilet,3.1,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,Bucket toilet,9.0,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,Other,0.9,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Kouga,None,1.9,Eastern Cape,Sarah Baartman,Kouga,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,Flush toilet,89.7,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,Chemical toilet,0.4,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,Pit toilet,6.3,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,Bucket toilet,1.6,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,Other,0.4,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Makana,None,1.6,Eastern Cape,Sarah Baartman,Makana,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,Flush toilet,85.1,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,Chemical toilet,1.9,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,Pit toilet,9.0,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,Bucket toilet,2.2,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,Other,1.0,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndlambe,None,0.8,Eastern Cape,Sarah Baartman,Ndlambe,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,Flush toilet,81.5,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,Chemical toilet,0.6,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,Pit toilet,9.9,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,Bucket toilet,3.2,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,Other,2.4,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Sundays River Valley,None,2.5,Eastern Cape,Sarah Baartman,Sundays River Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,Flush toilet,95.4,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,Chemical toilet,0.1,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,Pit toilet,0.8,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,Bucket toilet,2.7,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,Other,0.2,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Mafube,None,0.7,Free State,Fezile Dabi,Mafube,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,Flush toilet,83.9,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,Chemical toilet,0.7,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,Pit toilet,11.1,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,Bucket toilet,3.1,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,Other,0.2,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Metsimaholo,None,0.9,Free State,Fezile Dabi,Metsimaholo,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,Flush toilet,91.7,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,Chemical toilet,0.9,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,Pit toilet,5.0,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,Bucket toilet,1.4,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,Other,0.2,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Moqhaka,None,0.8,Free State,Fezile Dabi,Moqhaka,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,Flush toilet,89.2,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,Chemical toilet,0.2,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,Pit toilet,5.2,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,Bucket toilet,4.2,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,Other,0.6,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Ngwathe,None,0.7,Free State,Fezile Dabi,Ngwathe,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,Flush toilet,90.5,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,Chemical toilet,0.2,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,Pit toilet,2.6,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,Bucket toilet,4.8,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,Other,0.7,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Masilonyana,None,1.1,Free State,Lejweleputswa,Masilonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,Flush toilet,87.1,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,Chemical toilet,0.2,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,Pit toilet,7.9,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,Bucket toilet,2.4,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,Other,0.8,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Matjhabeng,None,1.6,Free State,Lejweleputswa,Matjhabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,Flush toilet,88.5,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,Chemical toilet,0.3,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,Pit toilet,4.7,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,Bucket toilet,5.2,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,Other,0.3,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Nala,None,1.0,Free State,Lejweleputswa,Nala,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,Flush toilet,61.2,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,Chemical toilet,4.5,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,Pit toilet,22.7,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,Bucket toilet,7.2,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,Other,1.7,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tokologo,None,2.6,Free State,Lejweleputswa,Tokologo,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,Flush toilet,83.2,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,Chemical toilet,1.1,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,Pit toilet,10.9,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,Bucket toilet,1.6,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,Other,0.5,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tswelopele,None,2.7,Free State,Lejweleputswa,Tswelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,Flush toilet,71.0,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,Chemical toilet,0.7,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,Pit toilet,22.0,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,Bucket toilet,3.3,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,Other,0.7,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Mangaung,None,2.4,Free State,Mangaung,Mangaung,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,Flush toilet,91.2,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,Chemical toilet,0.4,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,Pit toilet,6.1,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,Bucket toilet,1.4,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,Other,0.3,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Dihlabeng,None,0.5,Free State,Thabo Mofutsanyane,Dihlabeng,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,Flush toilet,42.9,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,Chemical toilet,3.5,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,Pit toilet,46.5,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,Bucket toilet,2.8,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,Other,2.7,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Maluti a Phofung,None,1.6,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,Flush toilet,87.5,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,Chemical toilet,2.6,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,Pit toilet,4.3,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,Bucket toilet,2.5,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,Other,0.3,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Mantsopa,None,2.8,Free State,Thabo Mofutsanyane,Mantsopa,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,Flush toilet,76.7,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,Chemical toilet,3.6,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,Pit toilet,8.3,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,Bucket toilet,8.3,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,Other,1.4,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Nketoana,None,1.6,Free State,Thabo Mofutsanyane,Nketoana,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,Flush toilet,75.1,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,Chemical toilet,1.6,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,Pit toilet,14.5,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,Bucket toilet,1.9,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,Other,4.9,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Phumelela,None,2.1,Free State,Thabo Mofutsanyane,Phumelela,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,Flush toilet,78.3,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,Chemical toilet,0.5,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,Pit toilet,4.6,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,Bucket toilet,14.3,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,Other,0.6,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Setsoto,None,1.6,Free State,Thabo Mofutsanyane,Setsoto,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,Flush toilet,96.0,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,Chemical toilet,0.0,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,Pit toilet,0.9,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,Bucket toilet,0.4,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,Other,0.3,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Kopanong,None,2.4,Free State,Xhariep,Kopanong,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,Flush toilet,82.5,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,Chemical toilet,0.7,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,Pit toilet,8.0,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,Bucket toilet,4.3,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,Other,0.2,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Letsemeng,None,4.2,Free State,Xhariep,Letsemeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,Flush toilet,86.6,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,Chemical toilet,1.2,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,Pit toilet,4.5,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,Bucket toilet,4.9,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,Other,0.6,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,Mohokare,None,2.2,Free State,Xhariep,Mohokare,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,Flush toilet,93.0,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,Chemical toilet,1.2,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,Pit toilet,3.4,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,Bucket toilet,2.0,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,Other,0.2,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Johannesburg,None,0.3,Gauteng,City of Johannesburg,City of Johannesburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,Flush toilet,81.5,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,Chemical toilet,1.0,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,Pit toilet,14.2,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,Bucket toilet,2.2,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,Other,0.3,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,City of Tshwane,None,0.7,Gauteng,City of Tshwane,City of Tshwane,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,Flush toilet,91.2,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,Chemical toilet,2.6,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,Pit toilet,1.7,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,Bucket toilet,4.1,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,Other,0.1,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Ekurhuleni,None,0.4,Gauteng,Ekurhuleni,Ekurhuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,Flush toilet,95.2,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,Chemical toilet,0.6,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,Pit toilet,2.3,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,Bucket toilet,1.2,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,Other,0.1,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emfuleni,None,0.5,Gauteng,Sedibeng,Emfuleni,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,Flush toilet,97.0,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,Chemical toilet,0.1,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,Pit toilet,2.5,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,Bucket toilet,0.2,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,Other,0.1,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Lesedi,None,0.1,Gauteng,Sedibeng,Lesedi,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,Flush toilet,94.1,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,Chemical toilet,1.3,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,Pit toilet,2.1,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,Bucket toilet,1.8,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,Other,0.2,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Midvaal,None,0.3,Gauteng,Sedibeng,Midvaal,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,Flush toilet,94.1,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,Chemical toilet,0.1,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,Pit toilet,3.8,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,Bucket toilet,1.3,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,Other,0.4,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Merafong City,None,0.3,Gauteng,West Rand,Merafong City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,Flush toilet,89.4,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,Chemical toilet,3.5,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,Pit toilet,4.0,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,Bucket toilet,2.5,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,Other,0.4,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Mogale City,None,0.3,Gauteng,West Rand,Mogale City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,Flush toilet,90.3,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,Chemical toilet,1.1,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,Pit toilet,5.9,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,Bucket toilet,1.7,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,Other,0.2,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Rand West City,None,0.8,Gauteng,West Rand,Rand West City,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,Flush toilet,23.8,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,Chemical toilet,5.0,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,Pit toilet,68.1,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,Bucket toilet,0.9,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,Other,0.9,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Dannhauser,None,1.4,KwaZulu-Natal,Amajuba,Dannhauser,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,Flush toilet,43.0,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,Chemical toilet,5.9,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,Pit toilet,46.3,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,Bucket toilet,0.2,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,Other,2.5,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emadlangeni,None,2.0,KwaZulu-Natal,Amajuba,Emadlangeni,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,Flush toilet,75.6,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,Chemical toilet,2.2,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,Pit toilet,19.1,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,Bucket toilet,0.9,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,Other,0.7,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,Newcastle,None,1.5,KwaZulu-Natal,Amajuba,Newcastle,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,Flush toilet,80.4,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,Chemical toilet,5.8,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,Pit toilet,10.3,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,Bucket toilet,1.2,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,Other,1.2,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,eThekwini,None,1.1,KwaZulu-Natal,eThekwini,eThekwini,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Flush toilet,31.5,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Chemical toilet,9.4,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Pit toilet,54.5,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Bucket toilet,0.6,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Other,3.1,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,None,0.8,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,Flush toilet,79.5,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,Chemical toilet,7.5,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,Pit toilet,9.6,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,Bucket toilet,1.2,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,Other,1.1,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Kokstad,None,1.1,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,Flush toilet,24.9,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,Chemical toilet,8.8,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,Pit toilet,59.5,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,Bucket toilet,0.5,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,Other,3.2,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuhlebezwe,None,3.1,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,Flush toilet,24.8,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,Chemical toilet,6.8,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,Pit toilet,56.5,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,Bucket toilet,0.7,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,Other,7.0,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzimkhulu,None,4.1,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,Flush toilet,58.0,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,Chemical toilet,8.0,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,Pit toilet,31.7,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,Bucket toilet,0.3,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,Other,1.3,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,KwaDukuza,None,0.7,KwaZulu-Natal,iLembe,KwaDukuza,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,Flush toilet,43.4,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,Chemical toilet,9.4,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,Pit toilet,40.9,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,Bucket toilet,2.9,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,Other,1.3,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Mandeni,None,2.1,KwaZulu-Natal,iLembe,Mandeni,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,Flush toilet,16.5,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,Chemical toilet,7.5,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,Pit toilet,65.0,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,Bucket toilet,0.9,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,Other,7.3,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Maphumulo,None,2.8,KwaZulu-Natal,iLembe,Maphumulo,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,Flush toilet,22.2,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,Chemical toilet,15.8,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,Pit toilet,49.4,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,Bucket toilet,2.1,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,Other,7.8,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Ndwedwe,None,2.7,KwaZulu-Natal,iLembe,Ndwedwe,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,Flush toilet,26.0,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,Chemical toilet,12.3,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,Pit toilet,52.7,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,Bucket toilet,1.1,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,Other,5.2,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mfolozi,None,2.7,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,Flush toilet,37.3,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,Chemical toilet,19.3,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,Pit toilet,29.4,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,Bucket toilet,3.7,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,Other,4.4,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Mthonjaneni,None,6.0,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,Flush toilet,16.7,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,Chemical toilet,12.1,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,Pit toilet,64.6,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,Bucket toilet,1.0,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,Other,3.0,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,Nkandla,None,2.5,KwaZulu-Natal,King Cetshwayo,Nkandla,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,Flush toilet,62.5,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,Chemical toilet,7.7,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,Pit toilet,28.5,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,Bucket toilet,0.2,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,Other,0.5,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMhlathuze,None,0.7,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,Flush toilet,30.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,Chemical toilet,12.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,Pit toilet,46.3,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,Bucket toilet,1.2,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,Other,6.0,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,uMlalazi,None,2.7,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,Flush toilet,43.7,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,Chemical toilet,7.5,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,Pit toilet,42.8,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,Bucket toilet,1.3,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,Other,3.1,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Ray Nkonyeni,None,1.7,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,Flush toilet,43.7,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,Chemical toilet,11.2,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,Pit toilet,35.8,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,Bucket toilet,5.5,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,Other,3.3,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,Umdoni,None,0.6,KwaZulu-Natal,Ugu,Umdoni,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,Flush toilet,23.6,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,Chemical toilet,3.1,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,Pit toilet,64.7,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,Bucket toilet,0.1,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,Other,5.9,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,uMuziwabantu,None,2.6,KwaZulu-Natal,Ugu,uMuziwabantu,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,Flush toilet,20.6,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,Chemical toilet,13.1,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,Pit toilet,55.8,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,Bucket toilet,1.2,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,Other,7.6,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Umzumbe,None,1.7,KwaZulu-Natal,Ugu,Umzumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,Flush toilet,15.8,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,Chemical toilet,0.8,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,Pit toilet,71.4,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,Bucket toilet,0.3,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,Other,11.2,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Impendle,None,0.6,KwaZulu-Natal,Umgungundlovu,Impendle,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,Flush toilet,25.3,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,Chemical toilet,11.9,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,Pit toilet,58.3,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,Bucket toilet,0.2,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,Other,1.7,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhambathini,None,2.6,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,Flush toilet,80.2,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,Chemical toilet,1.9,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,Pit toilet,14.7,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,Bucket toilet,0.6,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,Other,2.2,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Mpofana,None,0.4,KwaZulu-Natal,Umgungundlovu,Mpofana,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,Flush toilet,22.7,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,Chemical toilet,12.2,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,Pit toilet,62.5,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,Bucket toilet,0.1,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,Other,1.0,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,Richmond,None,1.6,KwaZulu-Natal,Umgungundlovu,Richmond,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,Flush toilet,63.0,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,Chemical toilet,3.5,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,Pit toilet,30.7,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,Bucket toilet,0.4,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,Other,1.9,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,The Msunduzi,None,0.6,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,Flush toilet,83.0,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,Chemical toilet,1.6,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,Pit toilet,11.1,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,Bucket toilet,1.6,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,Other,1.4,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMngeni,None,1.3,KwaZulu-Natal,Umgungundlovu,uMngeni,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,Flush toilet,32.1,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,Chemical toilet,4.6,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,Pit toilet,54.1,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,Bucket toilet,0.9,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,Other,5.4,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,uMshwathi,None,3.0,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,Flush toilet,20.3,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,Chemical toilet,11.0,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,Pit toilet,53.0,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,Bucket toilet,2.1,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,Other,6.1,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Big Five Hlabisa,None,7.5,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,Flush toilet,24.1,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,Chemical toilet,11.0,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,Pit toilet,53.4,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,Bucket toilet,1.9,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,Other,5.9,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Jozini,None,3.6,KwaZulu-Natal,Umkhanyakude,Jozini,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,Flush toilet,29.8,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,Chemical toilet,16.6,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,Pit toilet,42.4,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,Bucket toilet,2.8,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,Other,4.6,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Mtubatuba,None,3.9,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,Flush toilet,26.0,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,Chemical toilet,14.7,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,Pit toilet,50.4,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,Bucket toilet,1.1,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,Other,3.7,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Umhlabuyalingana,None,4.1,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,Flush toilet,81.9,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,Chemical toilet,0.9,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,Pit toilet,13.1,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,Bucket toilet,0.9,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,Other,2.1,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Endumeni,None,1.1,KwaZulu-Natal,Umzinyathi,Endumeni,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,Flush toilet,12.0,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,Chemical toilet,11.0,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,Pit toilet,65.5,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,Bucket toilet,1.5,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,Other,1.6,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Msinga,None,8.5,KwaZulu-Natal,Umzinyathi,Msinga,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,Flush toilet,20.1,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,Chemical toilet,8.9,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,Pit toilet,58.9,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,Bucket toilet,1.8,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,Other,6.3,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Nqutu,None,4.0,KwaZulu-Natal,Umzinyathi,Nqutu,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,Flush toilet,40.6,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,Chemical toilet,10.3,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,Pit toilet,34.0,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,Bucket toilet,2.4,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,Other,9.1,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Umvoti,None,3.6,KwaZulu-Natal,Umzinyathi,Umvoti,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,Flush toilet,59.5,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,Chemical toilet,3.6,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,Pit toilet,32.7,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,Bucket toilet,0.7,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,Other,2.5,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Alfred Duma,None,1.0,KwaZulu-Natal,Uthukela,Alfred Duma,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,Flush toilet,33.3,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,Chemical toilet,9.7,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,Pit toilet,48.3,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,Bucket toilet,0.7,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,Other,5.1,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Inkosi Langalibalele,None,2.9,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,Flush toilet,26.1,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,Chemical toilet,5.9,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,Pit toilet,60.1,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,Bucket toilet,1.1,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,Other,3.9,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Okhahlamba,None,2.8,KwaZulu-Natal,Uthukela,Okhahlamba,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,Flush toilet,54.0,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,Chemical toilet,4.8,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,Pit toilet,32.1,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,Bucket toilet,2.4,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,Other,4.2,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,Abaqulusi,None,2.6,KwaZulu-Natal,Zululand,Abaqulusi,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,Flush toilet,24.7,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,Chemical toilet,10.8,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,Pit toilet,60.3,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,Bucket toilet,0.8,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,Other,0.8,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,eDumbe,None,2.6,KwaZulu-Natal,Zululand,eDumbe,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,Flush toilet,17.8,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,Chemical toilet,17.6,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,Pit toilet,44.7,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,Bucket toilet,1.8,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,Other,8.2,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Nongoma,None,9.9,KwaZulu-Natal,Zululand,Nongoma,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,Flush toilet,38.6,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,Chemical toilet,12.9,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,Pit toilet,35.6,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,Bucket toilet,2.1,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,Other,8.6,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,Ulundi,None,2.2,KwaZulu-Natal,Zululand,Ulundi,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,Flush toilet,32.3,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,Chemical toilet,7.6,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,Pit toilet,49.1,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,Bucket toilet,0.7,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,Other,5.1,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,uPhongolo,None,5.4,KwaZulu-Natal,Zululand,uPhongolo,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,Flush toilet,30.9,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,Chemical toilet,1.0,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,Pit toilet,62.3,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,Bucket toilet,1.9,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,Other,1.8,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Blouberg,None,2.0,Limpopo,Capricorn,Blouberg,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,Flush toilet,34.7,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,Chemical toilet,1.6,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,Pit toilet,59.4,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,Bucket toilet,1.8,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,Other,1.7,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Lepele-Nkumpi,None,0.8,Limpopo,Capricorn,Lepele-Nkumpi,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,Flush toilet,32.9,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,Chemical toilet,0.7,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,Pit toilet,60.7,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,Bucket toilet,3.7,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,Other,0.4,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Molemole,None,1.6,Limpopo,Capricorn,Molemole,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,Flush toilet,48.3,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,Chemical toilet,0.9,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,Pit toilet,48.5,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,Bucket toilet,0.7,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,Other,0.4,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Polokwane,None,1.3,Limpopo,Capricorn,Polokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,Flush toilet,48.8,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,Chemical toilet,1.7,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,Pit toilet,42.5,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,Bucket toilet,1.6,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,Other,1.2,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Ba-Phalaborwa,None,4.2,Limpopo,Mopani,Ba-Phalaborwa,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,Flush toilet,24.3,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,Chemical toilet,3.3,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,Pit toilet,64.5,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,Bucket toilet,2.4,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,Other,1.1,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Giyani,None,4.4,Limpopo,Mopani,Greater Giyani,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,Flush toilet,20.0,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,Chemical toilet,1.2,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,Pit toilet,71.2,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,Bucket toilet,2.3,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,Other,2.1,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Letaba,None,3.2,Limpopo,Mopani,Greater Letaba,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,Flush toilet,29.0,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,Chemical toilet,1.3,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,Pit toilet,64.4,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,Bucket toilet,1.1,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,Other,1.2,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Tzaneen,None,3.0,Limpopo,Mopani,Greater Tzaneen,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,Flush toilet,26.5,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,Chemical toilet,1.9,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,Pit toilet,64.3,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,Bucket toilet,1.7,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,Other,3.4,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Maruleng,None,2.2,Limpopo,Mopani,Maruleng,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,Flush toilet,31.4,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,Chemical toilet,2.4,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,Pit toilet,59.7,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,Bucket toilet,2.5,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,Other,2.9,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Elias Motsoaledi,None,1.1,Limpopo,Sekhukhune,Elias Motsoaledi,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,Flush toilet,26.1,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,Chemical toilet,1.6,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,Pit toilet,66.6,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,Bucket toilet,1.7,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,Other,2.7,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Ephraim Mogale,None,1.1,Limpopo,Sekhukhune,Ephraim Mogale,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,Flush toilet,23.7,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,Chemical toilet,2.0,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,Pit toilet,69.0,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,Bucket toilet,1.7,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,Other,1.7,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Fetakgomo Tubatse,None,1.9,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,Flush toilet,17.9,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,Chemical toilet,1.2,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,Pit toilet,77.0,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,Bucket toilet,1.3,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,Other,1.6,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Makhuduthamaga,None,0.9,Limpopo,Sekhukhune,Makhuduthamaga,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,Flush toilet,19.0,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,Chemical toilet,2.6,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,Pit toilet,65.8,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,Bucket toilet,1.9,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,Other,3.0,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Collins Chabane,None,7.7,Limpopo,Vhembe,Collins Chabane,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,Flush toilet,29.7,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,Chemical toilet,0.3,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,Pit toilet,64.8,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,Bucket toilet,1.8,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,Other,1.4,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Makhado,None,2.0,Limpopo,Vhembe,Makhado,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,Flush toilet,56.4,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,Chemical toilet,2.7,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,Pit toilet,32.1,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,Bucket toilet,2.9,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,Other,1.5,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Musina,None,4.3,Limpopo,Vhembe,Musina,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,Flush toilet,28.1,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,Chemical toilet,0.7,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,Pit toilet,66.0,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,Bucket toilet,1.5,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,Other,1.5,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Thulamela,None,2.2,Limpopo,Vhembe,Thulamela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,Flush toilet,79.5,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,Chemical toilet,0.2,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,Pit toilet,18.5,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,Bucket toilet,0.9,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,Other,0.3,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Bela-Bela,None,0.6,Limpopo,Waterberg,Bela-Bela,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,Flush toilet,49.3,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,Chemical toilet,1.0,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,Pit toilet,45.7,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,Bucket toilet,1.1,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,Other,1.5,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Lephalale,None,1.5,Limpopo,Waterberg,Lephalale,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,Flush toilet,78.5,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,Chemical toilet,1.9,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,Pit toilet,13.0,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,Bucket toilet,3.3,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,Other,1.2,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Modimolle-Mookgophong,None,2.2,Limpopo,Waterberg,Modimolle-Mookgophong,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,Flush toilet,42.7,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,Chemical toilet,1.2,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,Pit toilet,53.7,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,Bucket toilet,0.7,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,Other,0.7,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Mogalakwena,None,1.1,Limpopo,Waterberg,Mogalakwena,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,Flush toilet,77.4,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,Chemical toilet,2.2,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,Pit toilet,13.4,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,Bucket toilet,2.5,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,Other,0.5,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Thabazimbi,None,3.9,Limpopo,Waterberg,Thabazimbi,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,Flush toilet,23.4,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,Chemical toilet,2.7,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,Pit toilet,68.6,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,Bucket toilet,1.8,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,Other,0.8,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,Bushbuckridge,None,2.6,Mpumalanga,Ehlanzeni,Bushbuckridge,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,Flush toilet,45.7,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,Chemical toilet,4.0,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,Pit toilet,45.9,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,Bucket toilet,1.2,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,Other,1.7,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,City of Mbombela,None,1.5,Mpumalanga,Ehlanzeni,City of Mbombela,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,Flush toilet,26.7,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,Chemical toilet,3.1,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,Pit toilet,63.9,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,Bucket toilet,1.1,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,Other,2.3,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Nkomazi,None,2.9,Mpumalanga,Ehlanzeni,Nkomazi,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,Flush toilet,71.1,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,Chemical toilet,1.2,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,Pit toilet,24.8,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,Bucket toilet,0.8,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,Other,0.4,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Thaba Chweu,None,1.7,Mpumalanga,Ehlanzeni,Thaba Chweu,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,Flush toilet,39.9,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,Chemical toilet,5.5,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,Pit toilet,49.7,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,Bucket toilet,0.5,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,Other,2.4,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Chief Albert Luthuli,None,2.0,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,Flush toilet,89.6,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,Chemical toilet,0.3,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,Pit toilet,6.2,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,Bucket toilet,1.3,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,Other,0.9,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dipaleseng,None,1.6,Mpumalanga,Gert Sibande,Dipaleseng,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Flush toilet,77.4,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Chemical toilet,2.1,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Pit toilet,15.0,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Bucket toilet,0.9,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Other,2.0,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,None,2.6,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,Flush toilet,92.0,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,Chemical toilet,1.3,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,Pit toilet,4.1,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,Bucket toilet,1.3,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,Other,0.3,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Govan Mbeki,None,1.1,Mpumalanga,Gert Sibande,Govan Mbeki,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,Flush toilet,91.4,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,Chemical toilet,1.3,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,Pit toilet,3.9,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,Bucket toilet,1.1,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,Other,0.5,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa,None,1.9,Mpumalanga,Gert Sibande,Lekwa,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,Flush toilet,51.3,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,Chemical toilet,6.4,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,Pit toilet,33.9,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,Bucket toilet,1.2,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,Other,3.4,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Mkhondo,None,3.9,Mpumalanga,Gert Sibande,Mkhondo,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,Flush toilet,79.0,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,Chemical toilet,1.5,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,Pit toilet,14.5,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,Bucket toilet,1.8,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,Other,1.4,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Msukaligwa,None,1.8,Mpumalanga,Gert Sibande,Msukaligwa,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,Flush toilet,30.8,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,Chemical toilet,0.4,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,Pit toilet,64.9,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,Bucket toilet,1.0,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,Other,2.1,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Dr JS Moroka,None,0.8,Mpumalanga,Nkangala,Dr JS Moroka,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,Flush toilet,93.0,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,Chemical toilet,0.6,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,Pit toilet,4.2,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,Bucket toilet,0.5,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,Other,0.3,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emakhazeni,None,1.3,Mpumalanga,Nkangala,Emakhazeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Flush toilet,78.5,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Chemical toilet,1.2,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Pit toilet,18.0,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Bucket toilet,0.9,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,Other,0.6,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Emalahleni,None,0.8,Mpumalanga,Nkangala,Emalahleni,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,Flush toilet,87.1,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,Chemical toilet,0.4,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,Pit toilet,9.5,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,Bucket toilet,2.2,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,Other,0.7,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Steve Tshwete,None,0.2,Mpumalanga,Nkangala,Steve Tshwete,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,Flush toilet,27.7,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,Chemical toilet,1.6,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,Pit toilet,68.0,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,Bucket toilet,0.6,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,Other,1.0,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Thembisile,None,1.1,Mpumalanga,Nkangala,Thembisile,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,Flush toilet,84.8,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,Chemical toilet,0.6,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,Pit toilet,11.3,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,Bucket toilet,1.2,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,Other,0.2,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Victor Khanye,None,2.0,Mpumalanga,Nkangala,Victor Khanye,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,Flush toilet,88.6,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,Chemical toilet,0.5,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,Pit toilet,7.2,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,Bucket toilet,0.2,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,Other,0.4,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Kgetlengrivier,None,3.2,North West,Bojanala,Kgetlengrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,Flush toilet,51.2,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,Chemical toilet,1.3,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,Pit toilet,44.2,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,Bucket toilet,0.6,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,Other,1.0,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Madibeng,None,1.7,North West,Bojanala,Madibeng,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,Flush toilet,18.9,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,Chemical toilet,1.1,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,Pit toilet,75.9,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,Bucket toilet,0.4,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,Other,2.6,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moretele,None,1.0,North West,Bojanala,Moretele,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,Flush toilet,32.6,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,Chemical toilet,1.0,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,Pit toilet,63.8,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,Bucket toilet,0.7,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,Other,0.9,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Moses Kotane,None,1.0,North West,Bojanala,Moses Kotane,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,Flush toilet,72.8,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,Chemical toilet,0.9,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,Pit toilet,24.0,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,Bucket toilet,0.5,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,Other,0.3,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,Rustenburg,None,1.4,North West,Bojanala,Rustenburg,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,Flush toilet,92.3,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,Chemical toilet,0.3,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,Pit toilet,4.7,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,Bucket toilet,1.1,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,Other,0.2,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,City of Matlosana,None,1.4,North West,Dr Kenneth Kaunda,City of Matlosana,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,Flush toilet,80.2,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,Chemical toilet,0.2,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,Pit toilet,11.9,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,Bucket toilet,1.8,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,Other,0.7,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,JB Marks,None,5.2,North West,Dr Kenneth Kaunda,JB Marks,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,Flush toilet,89.1,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,Chemical toilet,0.1,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,Pit toilet,2.1,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,Bucket toilet,2.0,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,Other,0.7,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Maquassi Hills,None,6.0,North West,Dr Kenneth Kaunda,Maquassi Hills,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,Flush toilet,27.9,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,Chemical toilet,1.7,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,Pit toilet,65.6,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,Bucket toilet,2.2,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,Other,1.1,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Greater Taung,None,1.5,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,Flush toilet,26.7,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,Chemical toilet,1.8,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,Pit toilet,68.8,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,Bucket toilet,0.5,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,Other,0.6,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Kagisano/Molopo,None,1.7,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,Flush toilet,96.5,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,Chemical toilet,0.2,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,Pit toilet,1.4,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,Bucket toilet,0.3,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,Other,0.1,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Lekwa-Teemane,None,1.5,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,Flush toilet,67.4,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,Chemical toilet,0.1,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,Pit toilet,28.8,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,Bucket toilet,0.7,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,Other,0.5,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Mamusa,None,2.5,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,Flush toilet,81.6,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,Chemical toilet,0.3,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,Pit toilet,13.4,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,Bucket toilet,0.7,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,Other,1.2,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Naledi,None,2.8,North West,Dr Ruth Segomotsi Mompati,Naledi,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,Flush toilet,66.3,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,Chemical toilet,1.5,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,Pit toilet,28.9,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,Bucket toilet,1.4,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,Other,0.3,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Ditsobotla,None,1.6,North West,Ngaka Modiri Molema,Ditsobotla,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,Flush toilet,50.8,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,Chemical toilet,1.2,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,Pit toilet,45.8,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,Bucket toilet,0.5,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,Other,0.7,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Mafikeng,None,0.9,North West,Ngaka Modiri Molema,Mafikeng,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,Flush toilet,40.3,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,Chemical toilet,1.3,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,Pit toilet,55.2,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,Bucket toilet,0.4,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,Other,0.9,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ramotshere Moiloa,None,1.9,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,Flush toilet,21.1,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,Chemical toilet,0.2,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,Pit toilet,68.6,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,Bucket toilet,0.9,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,Other,1.4,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Ratlou,None,7.8,North West,Ngaka Modiri Molema,Ratlou,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,Flush toilet,50.2,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,Chemical toilet,0.5,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,Pit toilet,42.8,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,Bucket toilet,1.6,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,Other,1.1,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Tswaing,None,3.9,North West,Ngaka Modiri Molema,Tswaing,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,Flush toilet,82.1,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,Chemical toilet,0.1,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,Pit toilet,8.1,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,Bucket toilet,2.5,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,Other,0.5,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Dikgatlong,None,6.8,Northern Cape,Frances Baard,Dikgatlong,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,Flush toilet,87.7,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,Chemical toilet,0.0,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,Pit toilet,9.5,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,Bucket toilet,1.2,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,Other,0.6,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Magareng,None,1.0,Northern Cape,Frances Baard,Magareng,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,Flush toilet,77.1,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,Chemical toilet,1.6,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,Pit toilet,14.5,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,Bucket toilet,0.7,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,Other,1.2,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Phokwane,None,5.0,Northern Cape,Frances Baard,Phokwane,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,Flush toilet,86.9,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,Chemical toilet,0.6,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,Pit toilet,3.7,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,Bucket toilet,4.8,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,Other,1.0,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Sol Plaatje,None,3.0,Northern Cape,Frances Baard,Sol Plaatje,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,Flush toilet,34.2,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,Chemical toilet,1.0,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,Pit toilet,58.1,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,Bucket toilet,1.3,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,Other,1.0,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Ga-Segonyana,None,4.4,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,Flush toilet,89.3,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,Chemical toilet,0.2,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,Pit toilet,4.6,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,Bucket toilet,0.7,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,Other,1.5,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Gamagara,None,3.7,Northern Cape,John Taolo Gaetsewe,Gamagara,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,Flush toilet,16.3,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,Chemical toilet,2.7,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,Pit toilet,60.6,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,Bucket toilet,9.9,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,Other,4.5,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Joe Morolong,None,6.0,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,Flush toilet,88.6,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,Chemical toilet,0.0,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,Pit toilet,3.7,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,Bucket toilet,4.8,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,Other,1.0,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Hantam,None,1.8,Northern Cape,Namakwa,Hantam,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,Flush toilet,58.5,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,Chemical toilet,0.8,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,Pit toilet,35.1,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,Bucket toilet,0.8,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,Other,0.2,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kamiesberg,None,4.7,Northern Cape,Namakwa,Kamiesberg,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,Flush toilet,69.7,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,Chemical toilet,0.0,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,Pit toilet,25.1,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,Bucket toilet,4.5,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,Other,0.1,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Karoo Hoogland,None,0.6,Northern Cape,Namakwa,Karoo Hoogland,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,Flush toilet,83.1,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,Chemical toilet,0.3,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,Pit toilet,7.1,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,Bucket toilet,3.3,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,Other,4.8,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Khâi-Ma,None,1.5,Northern Cape,Namakwa,Khâi-Ma,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,Flush toilet,87.4,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,Chemical toilet,0.5,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,Pit toilet,8.6,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,Bucket toilet,1.5,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,Other,0.4,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Nama Khoi,None,1.5,Northern Cape,Namakwa,Nama Khoi,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,Flush toilet,93.3,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,Chemical toilet,0.1,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,Pit toilet,4.3,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,Bucket toilet,0.4,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,Other,0.8,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Richtersveld,None,1.1,Northern Cape,Namakwa,Richtersveld,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,Flush toilet,97.6,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,Chemical toilet,0.0,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,Pit toilet,0.5,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,Bucket toilet,0.6,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,Other,0.1,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Emthanjeni,None,1.2,Northern Cape,Pixley ka Seme,Emthanjeni,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,Flush toilet,80.7,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,Chemical toilet,0.1,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,Pit toilet,10.4,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,Bucket toilet,3.5,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,Other,0.0,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Kareeberg,None,5.1,Northern Cape,Pixley ka Seme,Kareeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,Flush toilet,93.1,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,Chemical toilet,0.1,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,Pit toilet,0.6,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,Bucket toilet,1.6,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,Other,0.3,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Renosterberg,None,4.2,Northern Cape,Pixley ka Seme,Renosterberg,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,Flush toilet,73.9,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,Chemical toilet,0.2,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,Pit toilet,9.7,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,Bucket toilet,9.6,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,Other,0.3,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyancuma,None,6.4,Northern Cape,Pixley ka Seme,Siyancuma,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,Flush toilet,85.1,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,Chemical toilet,2.0,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,Pit toilet,4.7,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,Bucket toilet,4.3,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,Other,2.3,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Siyathemba,None,1.5,Northern Cape,Pixley ka Seme,Siyathemba,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,Flush toilet,69.2,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,Chemical toilet,0.6,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,Pit toilet,21.2,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,Bucket toilet,1.4,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,Other,0.9,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Thembelihle,None,6.8,Northern Cape,Pixley ka Seme,Thembelihle,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,Flush toilet,92.5,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,Chemical toilet,0.9,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,Pit toilet,1.2,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,Bucket toilet,2.2,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,Other,0.2,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Ubuntu,None,2.9,Northern Cape,Pixley ka Seme,Ubuntu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,Flush toilet,91.7,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,Chemical toilet,2.1,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,Pit toilet,2.5,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,Bucket toilet,0.7,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,Other,0.4,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,Umsobomvu,None,2.6,Northern Cape,Pixley ka Seme,Umsobomvu,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,Flush toilet,49.9,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,Chemical toilet,0.4,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,Pit toilet,29.0,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,Bucket toilet,7.2,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,Other,1.7,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,!Kheis,None,11.8,Northern Cape,Z F Mgcawu,!Kheis,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,Flush toilet,73.3,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,Chemical toilet,0.1,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,Pit toilet,7.0,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,Bucket toilet,11.6,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,Other,0.4,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Dawid Kruiper,None,7.6,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,Flush toilet,77.2,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,Chemical toilet,0.7,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,Pit toilet,7.1,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,Bucket toilet,4.9,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,Other,1.8,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kai !Garib,None,8.3,Northern Cape,Z F Mgcawu,Kai !Garib,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,Flush toilet,94.9,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,Chemical toilet,0.6,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,Pit toilet,1.5,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,Bucket toilet,1.3,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,Other,1.0,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Kgatelopele,None,0.7,Northern Cape,Z F Mgcawu,Kgatelopele,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,Flush toilet,85.4,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,Chemical toilet,0.5,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,Pit toilet,2.5,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,Bucket toilet,4.9,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,Other,0.5,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Tsantsabane,None,6.2,Northern Cape,Z F Mgcawu,Tsantsabane,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,Flush toilet,94.9,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,Chemical toilet,0.9,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,Pit toilet,0.7,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,Bucket toilet,2.4,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,Other,0.3,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Breede Valley,None,0.7,Western Cape,Cape Winelands,Breede Valley,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,Flush toilet,96.7,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,Chemical toilet,0.2,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,Pit toilet,0.1,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,Bucket toilet,2.5,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,Other,0.1,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Drakenstein,None,0.3,Western Cape,Cape Winelands,Drakenstein,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,Flush toilet,96.3,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,Chemical toilet,0.1,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,Pit toilet,0.2,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,Bucket toilet,1.2,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,Other,0.8,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Langeberg,None,1.2,Western Cape,Cape Winelands,Langeberg,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,Flush toilet,96.8,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,Chemical toilet,0.1,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,Pit toilet,0.2,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,Bucket toilet,0.8,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,Other,0.3,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Stellenbosch,None,1.7,Western Cape,Cape Winelands,Stellenbosch,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,Flush toilet,96.1,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,Chemical toilet,0.1,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,Pit toilet,0.2,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,Bucket toilet,1.2,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,Other,0.3,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Witzenberg,None,2.2,Western Cape,Cape Winelands,Witzenberg,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,Flush toilet,98.0,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,Chemical toilet,0.0,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,Pit toilet,0.6,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,Bucket toilet,0.6,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,Other,0.1,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Beaufort West,None,0.7,Western Cape,Central Karoo,Beaufort West,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,Flush toilet,95.6,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,Chemical toilet,0.0,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,Pit toilet,1.9,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,Bucket toilet,0.4,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,Other,0.7,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Laingsburg,None,1.4,Western Cape,Central Karoo,Laingsburg,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,Flush toilet,96.7,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,Chemical toilet,0.1,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,Pit toilet,0.5,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,Bucket toilet,2.0,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,Other,0.3,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,Prince Albert,None,0.4,Western Cape,Central Karoo,Prince Albert,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,Flush toilet,93.4,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,Chemical toilet,1.5,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,Pit toilet,0.3,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,Bucket toilet,3.7,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,Other,0.2,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,City of Cape Town,None,1.0,Western Cape,City of Cape Town,City of Cape Town,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,Flush toilet,97.3,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,Chemical toilet,0.1,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,Pit toilet,1.2,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,Bucket toilet,0.6,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,Other,0.5,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,Bitou,None,0.4,Western Cape,Garden Route,Bitou,DsMainToiletFacilitys
+Census 2022,Municipality,George,Flush toilet,93.4,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,George,Chemical toilet,1.9,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,George,Pit toilet,0.8,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,George,Bucket toilet,3.2,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,George,Other,0.3,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,George,None,0.5,Western Cape,Garden Route,George,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,Flush toilet,97.5,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,Chemical toilet,0.1,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,Pit toilet,0.8,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,Bucket toilet,0.8,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,Other,0.5,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Hessequa,None,0.3,Western Cape,Garden Route,Hessequa,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,Flush toilet,86.9,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,Chemical toilet,1.4,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,Pit toilet,5.0,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,Bucket toilet,3.9,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,Other,1.1,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Kannaland,None,1.6,Western Cape,Garden Route,Kannaland,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,Flush toilet,90.6,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,Chemical toilet,2.7,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,Pit toilet,2.3,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,Bucket toilet,2.7,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,Other,0.3,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Knysna,None,1.4,Western Cape,Garden Route,Knysna,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,Flush toilet,97.1,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,Chemical toilet,0.2,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,Pit toilet,0.4,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,Bucket toilet,0.9,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,Other,0.4,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Mossel Bay,None,0.9,Western Cape,Garden Route,Mossel Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,Flush toilet,88.5,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,Chemical toilet,1.6,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,Pit toilet,1.6,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,Bucket toilet,4.2,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,Other,1.7,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Oudtshoorn,None,2.4,Western Cape,Garden Route,Oudtshoorn,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,Flush toilet,98.6,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,Chemical toilet,0.2,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,Pit toilet,0.0,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,Bucket toilet,0.6,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,Other,0.0,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Cape Agulhas,None,0.6,Western Cape,Overberg,Cape Agulhas,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,Flush toilet,99.0,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,Chemical toilet,0.2,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,Pit toilet,0.1,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,Bucket toilet,0.4,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,Other,0.1,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Overstrand,None,0.1,Western Cape,Overberg,Overstrand,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,Flush toilet,96.0,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,Chemical toilet,0.1,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,Pit toilet,0.6,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,Bucket toilet,2.1,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,Other,0.6,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Swellendam,None,0.6,Western Cape,Overberg,Swellendam,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,Flush toilet,84.0,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,Chemical toilet,0.6,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,Pit toilet,0.2,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,Bucket toilet,2.9,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,Other,1.4,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Theewaterskloof,None,10.9,Western Cape,Overberg,Theewaterskloof,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,Flush toilet,97.7,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,Chemical toilet,0.2,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,Pit toilet,0.2,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,Bucket toilet,1.2,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,Other,0.2,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Bergrivier,None,0.6,Western Cape,West Coast,Bergrivier,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,Flush toilet,88.3,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,Chemical toilet,0.1,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,Pit toilet,0.4,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,Bucket toilet,3.1,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,Other,2.3,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Cederberg,None,5.8,Western Cape,West Coast,Cederberg,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,Flush toilet,94.0,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,Chemical toilet,0.1,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,Pit toilet,0.8,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,Bucket toilet,2.9,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,Other,0.4,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Matzikama,None,1.9,Western Cape,West Coast,Matzikama,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,Flush toilet,93.2,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,Chemical toilet,0.4,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,Pit toilet,0.9,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,Bucket toilet,3.5,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,Other,0.5,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Saldanha Bay,None,1.5,Western Cape,West Coast,Saldanha Bay,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,Flush toilet,96.8,Western Cape,West Coast,Swartland,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,Chemical toilet,0.2,Western Cape,West Coast,Swartland,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,Pit toilet,0.3,Western Cape,West Coast,Swartland,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,Bucket toilet,2.1,Western Cape,West Coast,Swartland,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,Other,0.2,Western Cape,West Coast,Swartland,DsMainToiletFacilitys
+Census 2022,Municipality,Swartland,None,0.3,Western Cape,West Coast,Swartland,DsMainToiletFacilitys

@@ -1,0 +1,427 @@
+timeSeriesDesc,geoLevelDesc,geoLevelValueDesc,label,counts,countsPercentage,countsMales,countsPercentageMales,countsFemales,countsPercentageFemales,Province,District,Municipality,ReportType
+Census 2022,Municipality,Matatiele,MALE,105977,47.0,,,,,Eastern Cape,Alfred Nzo,Matatiele,DsSexes
+Census 2022,Municipality,Matatiele,FEMALE,119585,53.0,,,,,Eastern Cape,Alfred Nzo,Matatiele,DsSexes
+Census 2022,Municipality,Ntabankulu,MALE,68964,47.1,,,,,Eastern Cape,Alfred Nzo,Ntabankulu,DsSexes
+Census 2022,Municipality,Ntabankulu,FEMALE,77459,52.9,,,,,Eastern Cape,Alfred Nzo,Ntabankulu,DsSexes
+Census 2022,Municipality,Umzimvubu,MALE,100626,46.9,,,,,Eastern Cape,Alfred Nzo,Umzimvubu,DsSexes
+Census 2022,Municipality,Umzimvubu,FEMALE,113850,53.1,,,,,Eastern Cape,Alfred Nzo,Umzimvubu,DsSexes
+Census 2022,Municipality,Winnie Madikizela-Mandela,MALE,163889,46.8,,,,,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsSexes
+Census 2022,Municipality,Winnie Madikizela-Mandela,FEMALE,186111,53.2,,,,,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsSexes
+Census 2022,Municipality,Amahlathi,MALE,56463,48.8,,,,,Eastern Cape,Amathole,Amahlathi,DsSexes
+Census 2022,Municipality,Amahlathi,FEMALE,59240,51.2,,,,,Eastern Cape,Amathole,Amahlathi,DsSexes
+Census 2022,Municipality,Great Kei,MALE,17491,48.6,,,,,Eastern Cape,Amathole,Great Kei,DsSexes
+Census 2022,Municipality,Great Kei,FEMALE,18499,51.4,,,,,Eastern Cape,Amathole,Great Kei,DsSexes
+Census 2022,Municipality,Mbhashe,MALE,111137,46.3,,,,,Eastern Cape,Amathole,Mbhashe,DsSexes
+Census 2022,Municipality,Mbhashe,FEMALE,128883,53.7,,,,,Eastern Cape,Amathole,Mbhashe,DsSexes
+Census 2022,Municipality,Mnquma,MALE,111374,47.8,,,,,Eastern Cape,Amathole,Mnquma,DsSexes
+Census 2022,Municipality,Mnquma,FEMALE,121619,52.2,,,,,Eastern Cape,Amathole,Mnquma,DsSexes
+Census 2022,Municipality,Ngqushwa,MALE,32614,47.8,,,,,Eastern Cape,Amathole,Ngqushwa,DsSexes
+Census 2022,Municipality,Ngqushwa,FEMALE,35686,52.2,,,,,Eastern Cape,Amathole,Ngqushwa,DsSexes
+Census 2022,Municipality,Raymond Mhlaba,MALE,85924,48.1,,,,,Eastern Cape,Amathole,Raymond Mhlaba,DsSexes
+Census 2022,Municipality,Raymond Mhlaba,FEMALE,92671,51.9,,,,,Eastern Cape,Amathole,Raymond Mhlaba,DsSexes
+Census 2022,Municipality,Buffalo City,MALE,461693,47.3,,,,,Eastern Cape,Buffalo City,Buffalo City,DsSexes
+Census 2022,Municipality,Buffalo City,FEMALE,513562,52.7,,,,,Eastern Cape,Buffalo City,Buffalo City,DsSexes
+Census 2022,Municipality,Emalahleni,MALE,62702,48.7,,,,,Eastern Cape,Chris Hani,Emalahleni,DsSexes
+Census 2022,Municipality,Emalahleni,FEMALE,66171,51.3,,,,,Eastern Cape,Chris Hani,Emalahleni,DsSexes
+Census 2022,Municipality,Engcobo,MALE,63403,47.7,,,,,Eastern Cape,Chris Hani,Engcobo,DsSexes
+Census 2022,Municipality,Engcobo,FEMALE,69396,52.3,,,,,Eastern Cape,Chris Hani,Engcobo,DsSexes
+Census 2022,Municipality,Enoch Mgijima,MALE,140782,47.4,,,,,Eastern Cape,Chris Hani,Enoch Mgijima,DsSexes
+Census 2022,Municipality,Enoch Mgijima,FEMALE,156273,52.6,,,,,Eastern Cape,Chris Hani,Enoch Mgijima,DsSexes
+Census 2022,Municipality,Intsika Yethu,MALE,62202,48.6,,,,,Eastern Cape,Chris Hani,Intsika Yethu,DsSexes
+Census 2022,Municipality,Intsika Yethu,FEMALE,65899,51.4,,,,,Eastern Cape,Chris Hani,Intsika Yethu,DsSexes
+Census 2022,Municipality,Inxuba Yethemba,MALE,36323,46.8,,,,,Eastern Cape,Chris Hani,Inxuba Yethemba,DsSexes
+Census 2022,Municipality,Inxuba Yethemba,FEMALE,41254,53.2,,,,,Eastern Cape,Chris Hani,Inxuba Yethemba,DsSexes
+Census 2022,Municipality,Sakhisizwe,MALE,31226,48.8,,,,,Eastern Cape,Chris Hani,Sakhisizwe,DsSexes
+Census 2022,Municipality,Sakhisizwe,FEMALE,32755,51.2,,,,,Eastern Cape,Chris Hani,Sakhisizwe,DsSexes
+Census 2022,Municipality,Elundini,MALE,68768,48.5,,,,,Eastern Cape,Joe Gqabi,Elundini,DsSexes
+Census 2022,Municipality,Elundini,FEMALE,72994,51.5,,,,,Eastern Cape,Joe Gqabi,Elundini,DsSexes
+Census 2022,Municipality,Senqu,MALE,68342,46.5,,,,,Eastern Cape,Joe Gqabi,Senqu,DsSexes
+Census 2022,Municipality,Senqu,FEMALE,78731,53.5,,,,,Eastern Cape,Joe Gqabi,Senqu,DsSexes
+Census 2022,Municipality,Walter Sisulu,MALE,49461,47.5,,,,,Eastern Cape,Joe Gqabi,Walter Sisulu,DsSexes
+Census 2022,Municipality,Walter Sisulu,FEMALE,54752,52.5,,,,,Eastern Cape,Joe Gqabi,Walter Sisulu,DsSexes
+Census 2022,Municipality,Nelson Mandela Bay,MALE,563211,47.3,,,,,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsSexes
+Census 2022,Municipality,Nelson Mandela Bay,FEMALE,627285,52.7,,,,,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsSexes
+Census 2022,Municipality,King Sabata Dalindyebo,MALE,223728,46.9,,,,,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsSexes
+Census 2022,Municipality,King Sabata Dalindyebo,FEMALE,252830,53.1,,,,,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsSexes
+Census 2022,Municipality,Mhlontlo,MALE,88564,47.5,,,,,Eastern Cape,O.R. Tambo,Mhlontlo,DsSexes
+Census 2022,Municipality,Mhlontlo,FEMALE,97827,52.5,,,,,Eastern Cape,O.R. Tambo,Mhlontlo,DsSexes
+Census 2022,Municipality,Ngquza Hill,MALE,167830,47.3,,,,,Eastern Cape,O.R. Tambo,Ngquza Hill,DsSexes
+Census 2022,Municipality,Ngquza Hill,FEMALE,186743,52.7,,,,,Eastern Cape,O.R. Tambo,Ngquza Hill,DsSexes
+Census 2022,Municipality,Nyandeni,MALE,143295,47.0,,,,,Eastern Cape,O.R. Tambo,Nyandeni,DsSexes
+Census 2022,Municipality,Nyandeni,FEMALE,161561,53.0,,,,,Eastern Cape,O.R. Tambo,Nyandeni,DsSexes
+Census 2022,Municipality,Port St Johns,MALE,84382,47.1,,,,,Eastern Cape,O.R. Tambo,Port St Johns,DsSexes
+Census 2022,Municipality,Port St Johns,FEMALE,94943,52.9,,,,,Eastern Cape,O.R. Tambo,Port St Johns,DsSexes
+Census 2022,Municipality,Blue Crane Route,MALE,24191,48.5,,,,,Eastern Cape,Sarah Baartman,Blue Crane Route,DsSexes
+Census 2022,Municipality,Blue Crane Route,FEMALE,25691,51.5,,,,,Eastern Cape,Sarah Baartman,Blue Crane Route,DsSexes
+Census 2022,Municipality,Dr Beyers Naude,MALE,47720,47.2,,,,,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsSexes
+Census 2022,Municipality,Dr Beyers Naude,FEMALE,53281,52.8,,,,,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsSexes
+Census 2022,Municipality,Kou-Kamma,MALE,17703,48.5,,,,,Eastern Cape,Sarah Baartman,Kou-Kamma,DsSexes
+Census 2022,Municipality,Kou-Kamma,FEMALE,18784,51.5,,,,,Eastern Cape,Sarah Baartman,Kou-Kamma,DsSexes
+Census 2022,Municipality,Kouga,MALE,50690,47.4,,,,,Eastern Cape,Sarah Baartman,Kouga,DsSexes
+Census 2022,Municipality,Kouga,FEMALE,56325,52.6,,,,,Eastern Cape,Sarah Baartman,Kouga,DsSexes
+Census 2022,Municipality,Makana,MALE,45885,46.9,,,,,Eastern Cape,Sarah Baartman,Makana,DsSexes
+Census 2022,Municipality,Makana,FEMALE,51930,53.1,,,,,Eastern Cape,Sarah Baartman,Makana,DsSexes
+Census 2022,Municipality,Ndlambe,MALE,41327,47.1,,,,,Eastern Cape,Sarah Baartman,Ndlambe,DsSexes
+Census 2022,Municipality,Ndlambe,FEMALE,46470,52.9,,,,,Eastern Cape,Sarah Baartman,Ndlambe,DsSexes
+Census 2022,Municipality,Sundays River Valley,MALE,26157,49.1,,,,,Eastern Cape,Sarah Baartman,Sundays River Valley,DsSexes
+Census 2022,Municipality,Sundays River Valley,FEMALE,27099,50.9,,,,,Eastern Cape,Sarah Baartman,Sundays River Valley,DsSexes
+Census 2022,Municipality,Mafube,MALE,28707,46.9,,,,,Free State,Fezile Dabi,Mafube,DsSexes
+Census 2022,Municipality,Mafube,FEMALE,32443,53.1,,,,,Free State,Fezile Dabi,Mafube,DsSexes
+Census 2022,Municipality,Metsimaholo,MALE,77992,49.2,,,,,Free State,Fezile Dabi,Metsimaholo,DsSexes
+Census 2022,Municipality,Metsimaholo,FEMALE,80399,50.8,,,,,Free State,Fezile Dabi,Metsimaholo,DsSexes
+Census 2022,Municipality,Moqhaka,MALE,74579,48.0,,,,,Free State,Fezile Dabi,Moqhaka,DsSexes
+Census 2022,Municipality,Moqhaka,FEMALE,80831,52.0,,,,,Free State,Fezile Dabi,Moqhaka,DsSexes
+Census 2022,Municipality,Ngwathe,MALE,63460,47.0,,,,,Free State,Fezile Dabi,Ngwathe,DsSexes
+Census 2022,Municipality,Ngwathe,FEMALE,71502,53.0,,,,,Free State,Fezile Dabi,Ngwathe,DsSexes
+Census 2022,Municipality,Masilonyana,MALE,30652,48.0,,,,,Free State,Lejweleputswa,Masilonyana,DsSexes
+Census 2022,Municipality,Masilonyana,FEMALE,33148,52.0,,,,,Free State,Lejweleputswa,Masilonyana,DsSexes
+Census 2022,Municipality,Matjhabeng,MALE,210469,47.9,,,,,Free State,Lejweleputswa,Matjhabeng,DsSexes
+Census 2022,Municipality,Matjhabeng,FEMALE,228565,52.1,,,,,Free State,Lejweleputswa,Matjhabeng,DsSexes
+Census 2022,Municipality,Nala,MALE,43429,48.0,,,,,Free State,Lejweleputswa,Nala,DsSexes
+Census 2022,Municipality,Nala,FEMALE,47132,52.0,,,,,Free State,Lejweleputswa,Nala,DsSexes
+Census 2022,Municipality,Tokologo,MALE,14199,48.2,,,,,Free State,Lejweleputswa,Tokologo,DsSexes
+Census 2022,Municipality,Tokologo,FEMALE,15256,51.8,,,,,Free State,Lejweleputswa,Tokologo,DsSexes
+Census 2022,Municipality,Tswelopele,MALE,27428,48.2,,,,,Free State,Lejweleputswa,Tswelopele,DsSexes
+Census 2022,Municipality,Tswelopele,FEMALE,29468,51.8,,,,,Free State,Lejweleputswa,Tswelopele,DsSexes
+Census 2022,Municipality,Mangaung,MALE,385812,47.5,,,,,Free State,Mangaung,Mangaung,DsSexes
+Census 2022,Municipality,Mangaung,FEMALE,425620,52.5,,,,,Free State,Mangaung,Mangaung,DsSexes
+Census 2022,Municipality,Dihlabeng,MALE,60864,46.7,,,,,Free State,Thabo Mofutsanyane,Dihlabeng,DsSexes
+Census 2022,Municipality,Dihlabeng,FEMALE,69571,53.3,,,,,Free State,Thabo Mofutsanyane,Dihlabeng,DsSexes
+Census 2022,Municipality,Maluti a Phofung,MALE,184386,46.3,,,,,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsSexes
+Census 2022,Municipality,Maluti a Phofung,FEMALE,214074,53.7,,,,,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsSexes
+Census 2022,Municipality,Mantsopa,MALE,26361,47.2,,,,,Free State,Thabo Mofutsanyane,Mantsopa,DsSexes
+Census 2022,Municipality,Mantsopa,FEMALE,29536,52.8,,,,,Free State,Thabo Mofutsanyane,Mantsopa,DsSexes
+Census 2022,Municipality,Nketoana,MALE,31260,47.0,,,,,Free State,Thabo Mofutsanyane,Nketoana,DsSexes
+Census 2022,Municipality,Nketoana,FEMALE,35228,53.0,,,,,Free State,Thabo Mofutsanyane,Nketoana,DsSexes
+Census 2022,Municipality,Phumelela,MALE,25033,47.9,,,,,Free State,Thabo Mofutsanyane,Phumelela,DsSexes
+Census 2022,Municipality,Phumelela,FEMALE,27191,52.1,,,,,Free State,Thabo Mofutsanyane,Phumelela,DsSexes
+Census 2022,Municipality,Setsoto,MALE,59948,46.9,,,,,Free State,Thabo Mofutsanyane,Setsoto,DsSexes
+Census 2022,Municipality,Setsoto,FEMALE,67970,53.1,,,,,Free State,Thabo Mofutsanyane,Setsoto,DsSexes
+Census 2022,Municipality,Kopanong,MALE,24567,47.4,,,,,Free State,Xhariep,Kopanong,DsSexes
+Census 2022,Municipality,Kopanong,FEMALE,27265,52.6,,,,,Free State,Xhariep,Kopanong,DsSexes
+Census 2022,Municipality,Letsemeng,MALE,21056,48.9,,,,,Free State,Xhariep,Letsemeng,DsSexes
+Census 2022,Municipality,Letsemeng,FEMALE,22045,51.1,,,,,Free State,Xhariep,Letsemeng,DsSexes
+Census 2022,Municipality,Mohokare,MALE,17621,47.7,,,,,Free State,Xhariep,Mohokare,DsSexes
+Census 2022,Municipality,Mohokare,FEMALE,19347,52.3,,,,,Free State,Xhariep,Mohokare,DsSexes
+Census 2022,Municipality,City of Johannesburg,MALE,2419151,50.4,,,,,Gauteng,City of Johannesburg,City of Johannesburg,DsSexes
+Census 2022,Municipality,City of Johannesburg,FEMALE,2384111,49.6,,,,,Gauteng,City of Johannesburg,City of Johannesburg,DsSexes
+Census 2022,Municipality,City of Tshwane,MALE,2025279,50.1,,,,,Gauteng,City of Tshwane,City of Tshwane,DsSexes
+Census 2022,Municipality,City of Tshwane,FEMALE,2015036,49.9,,,,,Gauteng,City of Tshwane,City of Tshwane,DsSexes
+Census 2022,Municipality,Ekurhuleni,MALE,2077352,51.1,,,,,Gauteng,Ekurhuleni,Ekurhuleni,DsSexes
+Census 2022,Municipality,Ekurhuleni,FEMALE,1989339,48.9,,,,,Gauteng,Ekurhuleni,Ekurhuleni,DsSexes
+Census 2022,Municipality,Emfuleni,MALE,468231,49.5,,,,,Gauteng,Sedibeng,Emfuleni,DsSexes
+Census 2022,Municipality,Emfuleni,FEMALE,477420,50.5,,,,,Gauteng,Sedibeng,Emfuleni,DsSexes
+Census 2022,Municipality,Lesedi,MALE,66404,50.0,,,,,Gauteng,Sedibeng,Lesedi,DsSexes
+Census 2022,Municipality,Lesedi,FEMALE,66380,50.0,,,,,Gauteng,Sedibeng,Lesedi,DsSexes
+Census 2022,Municipality,Midvaal,MALE,56349,50.2,,,,,Gauteng,Sedibeng,Midvaal,DsSexes
+Census 2022,Municipality,Midvaal,FEMALE,55905,49.8,,,,,Gauteng,Sedibeng,Midvaal,DsSexes
+Census 2022,Municipality,Merafong City,MALE,114789,50.9,,,,,Gauteng,West Rand,Merafong City,DsSexes
+Census 2022,Municipality,Merafong City,FEMALE,110687,49.1,,,,,Gauteng,West Rand,Merafong City,DsSexes
+Census 2022,Municipality,Mogale City,MALE,221672,50.6,,,,,Gauteng,West Rand,Mogale City,DsSexes
+Census 2022,Municipality,Mogale City,FEMALE,216545,49.4,,,,,Gauteng,West Rand,Mogale City,DsSexes
+Census 2022,Municipality,Rand West City,MALE,168726,50.4,,,,,Gauteng,West Rand,Rand West City,DsSexes
+Census 2022,Municipality,Rand West City,FEMALE,166047,49.6,,,,,Gauteng,West Rand,Rand West City,DsSexes
+Census 2022,Municipality,Dannhauser,MALE,68839,48.2,,,,,KwaZulu-Natal,Amajuba,Dannhauser,DsSexes
+Census 2022,Municipality,Dannhauser,FEMALE,73911,51.8,,,,,KwaZulu-Natal,Amajuba,Dannhauser,DsSexes
+Census 2022,Municipality,Emadlangeni,MALE,18189,49.2,,,,,KwaZulu-Natal,Amajuba,Emadlangeni,DsSexes
+Census 2022,Municipality,Emadlangeni,FEMALE,18759,50.8,,,,,KwaZulu-Natal,Amajuba,Emadlangeni,DsSexes
+Census 2022,Municipality,Newcastle,MALE,243434,47.9,,,,,KwaZulu-Natal,Amajuba,Newcastle,DsSexes
+Census 2022,Municipality,Newcastle,FEMALE,264276,52.1,,,,,KwaZulu-Natal,Amajuba,Newcastle,DsSexes
+Census 2022,Municipality,eThekwini,MALE,2072331,48.9,,,,,KwaZulu-Natal,eThekwini,eThekwini,DsSexes
+Census 2022,Municipality,eThekwini,FEMALE,2167569,51.1,,,,,KwaZulu-Natal,eThekwini,eThekwini,DsSexes
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,MALE,60873,47.3,,,,,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsSexes
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,FEMALE,67692,52.7,,,,,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsSexes
+Census 2022,Municipality,Greater Kokstad,MALE,39048,47.8,,,,,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsSexes
+Census 2022,Municipality,Greater Kokstad,FEMALE,42628,52.2,,,,,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsSexes
+Census 2022,Municipality,Ubuhlebezwe,MALE,62618,47.1,,,,,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsSexes
+Census 2022,Municipality,Ubuhlebezwe,FEMALE,70414,52.9,,,,,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsSexes
+Census 2022,Municipality,Umzimkhulu,MALE,101416,46.0,,,,,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsSexes
+Census 2022,Municipality,Umzimkhulu,FEMALE,119203,54.0,,,,,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsSexes
+Census 2022,Municipality,KwaDukuza,MALE,156627,48.2,,,,,KwaZulu-Natal,iLembe,KwaDukuza,DsSexes
+Census 2022,Municipality,KwaDukuza,FEMALE,168285,51.8,,,,,KwaZulu-Natal,iLembe,KwaDukuza,DsSexes
+Census 2022,Municipality,Mandeni,MALE,85891,47.5,,,,,KwaZulu-Natal,iLembe,Mandeni,DsSexes
+Census 2022,Municipality,Mandeni,FEMALE,95049,52.5,,,,,KwaZulu-Natal,iLembe,Mandeni,DsSexes
+Census 2022,Municipality,Maphumulo,MALE,50165,45.2,,,,,KwaZulu-Natal,iLembe,Maphumulo,DsSexes
+Census 2022,Municipality,Maphumulo,FEMALE,60819,54.8,,,,,KwaZulu-Natal,iLembe,Maphumulo,DsSexes
+Census 2022,Municipality,Ndwedwe,MALE,78518,47.3,,,,,KwaZulu-Natal,iLembe,Ndwedwe,DsSexes
+Census 2022,Municipality,Ndwedwe,FEMALE,87309,52.7,,,,,KwaZulu-Natal,iLembe,Ndwedwe,DsSexes
+Census 2022,Municipality,Mfolozi,MALE,76886,48.2,,,,,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsSexes
+Census 2022,Municipality,Mfolozi,FEMALE,82782,51.8,,,,,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsSexes
+Census 2022,Municipality,Mthonjaneni,MALE,45472,45.8,,,,,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsSexes
+Census 2022,Municipality,Mthonjaneni,FEMALE,53816,54.2,,,,,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsSexes
+Census 2022,Municipality,Nkandla,MALE,49517,45.5,,,,,KwaZulu-Natal,King Cetshwayo,Nkandla,DsSexes
+Census 2022,Municipality,Nkandla,FEMALE,59379,54.5,,,,,KwaZulu-Natal,King Cetshwayo,Nkandla,DsSexes
+Census 2022,Municipality,uMhlathuze,MALE,199907,48.5,,,,,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsSexes
+Census 2022,Municipality,uMhlathuze,FEMALE,212168,51.5,,,,,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsSexes
+Census 2022,Municipality,uMlalazi,MALE,111528,46.2,,,,,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsSexes
+Census 2022,Municipality,uMlalazi,FEMALE,129888,53.8,,,,,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsSexes
+Census 2022,Municipality,Ray Nkonyeni,MALE,171980,47.5,,,,,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsSexes
+Census 2022,Municipality,Ray Nkonyeni,FEMALE,190154,52.5,,,,,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsSexes
+Census 2022,Municipality,Umdoni,MALE,74392,47.6,,,,,KwaZulu-Natal,Ugu,Umdoni,DsSexes
+Census 2022,Municipality,Umdoni,FEMALE,82051,52.4,,,,,KwaZulu-Natal,Ugu,Umdoni,DsSexes
+Census 2022,Municipality,uMuziwabantu,MALE,54516,47.1,,,,,KwaZulu-Natal,Ugu,uMuziwabantu,DsSexes
+Census 2022,Municipality,uMuziwabantu,FEMALE,61263,52.9,,,,,KwaZulu-Natal,Ugu,uMuziwabantu,DsSexes
+Census 2022,Municipality,Umzumbe,MALE,65513,47.1,,,,,KwaZulu-Natal,Ugu,Umzumbe,DsSexes
+Census 2022,Municipality,Umzumbe,FEMALE,73532,52.9,,,,,KwaZulu-Natal,Ugu,Umzumbe,DsSexes
+Census 2022,Municipality,Impendle,MALE,17422,47.5,,,,,KwaZulu-Natal,Umgungundlovu,Impendle,DsSexes
+Census 2022,Municipality,Impendle,FEMALE,19226,52.5,,,,,KwaZulu-Natal,Umgungundlovu,Impendle,DsSexes
+Census 2022,Municipality,Mkhambathini,MALE,29229,47.4,,,,,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsSexes
+Census 2022,Municipality,Mkhambathini,FEMALE,32432,52.6,,,,,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsSexes
+Census 2022,Municipality,Mpofana,MALE,15764,47.2,,,,,KwaZulu-Natal,Umgungundlovu,Mpofana,DsSexes
+Census 2022,Municipality,Mpofana,FEMALE,17618,52.8,,,,,KwaZulu-Natal,Umgungundlovu,Mpofana,DsSexes
+Census 2022,Municipality,Richmond,MALE,30440,48.5,,,,,KwaZulu-Natal,Umgungundlovu,Richmond,DsSexes
+Census 2022,Municipality,Richmond,FEMALE,32313,51.5,,,,,KwaZulu-Natal,Umgungundlovu,Richmond,DsSexes
+Census 2022,Municipality,The Msunduzi,MALE,390308,47.7,,,,,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsSexes
+Census 2022,Municipality,The Msunduzi,FEMALE,427417,52.3,,,,,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsSexes
+Census 2022,Municipality,uMngeni,MALE,50012,47.6,,,,,KwaZulu-Natal,Umgungundlovu,uMngeni,DsSexes
+Census 2022,Municipality,uMngeni,FEMALE,55057,52.4,,,,,KwaZulu-Natal,Umgungundlovu,uMngeni,DsSexes
+Census 2022,Municipality,uMshwathi,MALE,55837,47.1,,,,,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsSexes
+Census 2022,Municipality,uMshwathi,FEMALE,62641,52.9,,,,,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsSexes
+Census 2022,Municipality,Big Five Hlabisa,MALE,60993,46.3,,,,,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsSexes
+Census 2022,Municipality,Big Five Hlabisa,FEMALE,70761,53.7,,,,,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsSexes
+Census 2022,Municipality,Jozini,MALE,93016,46.7,,,,,KwaZulu-Natal,Umkhanyakude,Jozini,DsSexes
+Census 2022,Municipality,Jozini,FEMALE,106137,53.3,,,,,KwaZulu-Natal,Umkhanyakude,Jozini,DsSexes
+Census 2022,Municipality,Mtubatuba,MALE,100941,46.8,,,,,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsSexes
+Census 2022,Municipality,Mtubatuba,FEMALE,114928,53.2,,,,,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsSexes
+Census 2022,Municipality,Umhlabuyalingana,MALE,88753,46.3,,,,,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsSexes
+Census 2022,Municipality,Umhlabuyalingana,FEMALE,102907,53.7,,,,,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsSexes
+Census 2022,Municipality,Endumeni,MALE,48391,48.3,,,,,KwaZulu-Natal,Umzinyathi,Endumeni,DsSexes
+Census 2022,Municipality,Endumeni,FEMALE,51695,51.7,,,,,KwaZulu-Natal,Umzinyathi,Endumeni,DsSexes
+Census 2022,Municipality,Msinga,MALE,89746,43.6,,,,,KwaZulu-Natal,Umzinyathi,Msinga,DsSexes
+Census 2022,Municipality,Msinga,FEMALE,116255,56.4,,,,,KwaZulu-Natal,Umzinyathi,Msinga,DsSexes
+Census 2022,Municipality,Nqutu,MALE,93058,46.3,,,,,KwaZulu-Natal,Umzinyathi,Nqutu,DsSexes
+Census 2022,Municipality,Nqutu,FEMALE,108074,53.7,,,,,KwaZulu-Natal,Umzinyathi,Nqutu,DsSexes
+Census 2022,Municipality,Umvoti,MALE,63204,44.5,,,,,KwaZulu-Natal,Umzinyathi,Umvoti,DsSexes
+Census 2022,Municipality,Umvoti,FEMALE,78837,55.5,,,,,KwaZulu-Natal,Umzinyathi,Umvoti,DsSexes
+Census 2022,Municipality,Alfred Duma,MALE,193713,46.7,,,,,KwaZulu-Natal,Uthukela,Alfred Duma,DsSexes
+Census 2022,Municipality,Alfred Duma,FEMALE,221323,53.3,,,,,KwaZulu-Natal,Uthukela,Alfred Duma,DsSexes
+Census 2022,Municipality,Inkosi Langalibalele,MALE,107711,46.6,,,,,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsSexes
+Census 2022,Municipality,Inkosi Langalibalele,FEMALE,123213,53.4,,,,,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsSexes
+Census 2022,Municipality,Okhahlamba,MALE,66227,46.3,,,,,KwaZulu-Natal,Uthukela,Okhahlamba,DsSexes
+Census 2022,Municipality,Okhahlamba,FEMALE,76906,53.7,,,,,KwaZulu-Natal,Uthukela,Okhahlamba,DsSexes
+Census 2022,Municipality,Abaqulusi,MALE,116369,47.1,,,,,KwaZulu-Natal,Zululand,Abaqulusi,DsSexes
+Census 2022,Municipality,Abaqulusi,FEMALE,130894,52.9,,,,,KwaZulu-Natal,Zululand,Abaqulusi,DsSexes
+Census 2022,Municipality,eDumbe,MALE,45519,47.1,,,,,KwaZulu-Natal,Zululand,eDumbe,DsSexes
+Census 2022,Municipality,eDumbe,FEMALE,51216,52.9,,,,,KwaZulu-Natal,Zululand,eDumbe,DsSexes
+Census 2022,Municipality,Nongoma,MALE,102241,45.4,,,,,KwaZulu-Natal,Zululand,Nongoma,DsSexes
+Census 2022,Municipality,Nongoma,FEMALE,123038,54.6,,,,,KwaZulu-Natal,Zululand,Nongoma,DsSexes
+Census 2022,Municipality,Ulundi,MALE,101394,45.7,,,,,KwaZulu-Natal,Zululand,Ulundi,DsSexes
+Census 2022,Municipality,Ulundi,FEMALE,120583,54.3,,,,,KwaZulu-Natal,Zululand,Ulundi,DsSexes
+Census 2022,Municipality,uPhongolo,MALE,71269,47.0,,,,,KwaZulu-Natal,Zululand,uPhongolo,DsSexes
+Census 2022,Municipality,uPhongolo,FEMALE,80271,53.0,,,,,KwaZulu-Natal,Zululand,uPhongolo,DsSexes
+Census 2022,Municipality,Blouberg,MALE,87948,45.8,,,,,Limpopo,Capricorn,Blouberg,DsSexes
+Census 2022,Municipality,Blouberg,FEMALE,104162,54.2,,,,,Limpopo,Capricorn,Blouberg,DsSexes
+Census 2022,Municipality,Lepele-Nkumpi,MALE,132447,46.6,,,,,Limpopo,Capricorn,Lepele-Nkumpi,DsSexes
+Census 2022,Municipality,Lepele-Nkumpi,FEMALE,151958,53.4,,,,,Limpopo,Capricorn,Lepele-Nkumpi,DsSexes
+Census 2022,Municipality,Molemole,MALE,59161,46.5,,,,,Limpopo,Capricorn,Molemole,DsSexes
+Census 2022,Municipality,Molemole,FEMALE,67969,53.5,,,,,Limpopo,Capricorn,Molemole,DsSexes
+Census 2022,Municipality,Polokwane,MALE,406945,48.2,,,,,Limpopo,Capricorn,Polokwane,DsSexes
+Census 2022,Municipality,Polokwane,FEMALE,436514,51.8,,,,,Limpopo,Capricorn,Polokwane,DsSexes
+Census 2022,Municipality,Ba-Phalaborwa,MALE,90254,47.9,,,,,Limpopo,Mopani,Ba-Phalaborwa,DsSexes
+Census 2022,Municipality,Ba-Phalaborwa,FEMALE,98348,52.1,,,,,Limpopo,Mopani,Ba-Phalaborwa,DsSexes
+Census 2022,Municipality,Greater Giyani,MALE,143873,45.4,,,,,Limpopo,Mopani,Greater Giyani,DsSexes
+Census 2022,Municipality,Greater Giyani,FEMALE,172968,54.6,,,,,Limpopo,Mopani,Greater Giyani,DsSexes
+Census 2022,Municipality,Greater Letaba,MALE,117818,45.1,,,,,Limpopo,Mopani,Greater Letaba,DsSexes
+Census 2022,Municipality,Greater Letaba,FEMALE,143220,54.9,,,,,Limpopo,Mopani,Greater Letaba,DsSexes
+Census 2022,Municipality,Greater Tzaneen,MALE,223101,46.6,,,,,Limpopo,Mopani,Greater Tzaneen,DsSexes
+Census 2022,Municipality,Greater Tzaneen,FEMALE,255152,53.4,,,,,Limpopo,Mopani,Greater Tzaneen,DsSexes
+Census 2022,Municipality,Maruleng,MALE,59477,46.4,,,,,Limpopo,Mopani,Maruleng,DsSexes
+Census 2022,Municipality,Maruleng,FEMALE,68660,53.6,,,,,Limpopo,Mopani,Maruleng,DsSexes
+Census 2022,Municipality,Elias Motsoaledi,MALE,135762,47.1,,,,,Limpopo,Sekhukhune,Elias Motsoaledi,DsSexes
+Census 2022,Municipality,Elias Motsoaledi,FEMALE,152287,52.9,,,,,Limpopo,Sekhukhune,Elias Motsoaledi,DsSexes
+Census 2022,Municipality,Ephraim Mogale,MALE,62367,47.1,,,,,Limpopo,Sekhukhune,Ephraim Mogale,DsSexes
+Census 2022,Municipality,Ephraim Mogale,FEMALE,70101,52.9,,,,,Limpopo,Sekhukhune,Ephraim Mogale,DsSexes
+Census 2022,Municipality,Fetakgomo Tubatse,MALE,275658,47.9,,,,,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsSexes
+Census 2022,Municipality,Fetakgomo Tubatse,FEMALE,300302,52.1,,,,,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsSexes
+Census 2022,Municipality,Makhuduthamaga,MALE,155771,45.8,,,,,Limpopo,Sekhukhune,Makhuduthamaga,DsSexes
+Census 2022,Municipality,Makhuduthamaga,FEMALE,184557,54.2,,,,,Limpopo,Sekhukhune,Makhuduthamaga,DsSexes
+Census 2022,Municipality,Collins Chabane,MALE,201111,45.3,,,,,Limpopo,Vhembe,Collins Chabane,DsSexes
+Census 2022,Municipality,Collins Chabane,FEMALE,242686,54.7,,,,,Limpopo,Vhembe,Collins Chabane,DsSexes
+Census 2022,Municipality,Makhado,MALE,236215,47.0,,,,,Limpopo,Vhembe,Makhado,DsSexes
+Census 2022,Municipality,Makhado,FEMALE,266182,53.0,,,,,Limpopo,Vhembe,Makhado,DsSexes
+Census 2022,Municipality,Musina,MALE,68221,52.1,,,,,Limpopo,Vhembe,Musina,DsSexes
+Census 2022,Municipality,Musina,FEMALE,62678,47.9,,,,,Limpopo,Vhembe,Musina,DsSexes
+Census 2022,Municipality,Thulamela,MALE,268293,46.6,,,,,Limpopo,Vhembe,Thulamela,DsSexes
+Census 2022,Municipality,Thulamela,FEMALE,307636,53.4,,,,,Limpopo,Vhembe,Thulamela,DsSexes
+Census 2022,Municipality,Bela-Bela,MALE,31811,49.5,,,,,Limpopo,Waterberg,Bela-Bela,DsSexes
+Census 2022,Municipality,Bela-Bela,FEMALE,32496,50.5,,,,,Limpopo,Waterberg,Bela-Bela,DsSexes
+Census 2022,Municipality,Lephalale,MALE,62761,50.1,,,,,Limpopo,Waterberg,Lephalale,DsSexes
+Census 2022,Municipality,Lephalale,FEMALE,62437,49.9,,,,,Limpopo,Waterberg,Lephalale,DsSexes
+Census 2022,Municipality,Modimolle-Mookgophong,MALE,64950,49.9,,,,,Limpopo,Waterberg,Modimolle-Mookgophong,DsSexes
+Census 2022,Municipality,Modimolle-Mookgophong,FEMALE,65164,50.1,,,,,Limpopo,Waterberg,Modimolle-Mookgophong,DsSexes
+Census 2022,Municipality,Mogalakwena,MALE,180531,47.7,,,,,Limpopo,Waterberg,Mogalakwena,DsSexes
+Census 2022,Municipality,Mogalakwena,FEMALE,197667,52.3,,,,,Limpopo,Waterberg,Mogalakwena,DsSexes
+Census 2022,Municipality,Thabazimbi,MALE,34913,53.7,,,,,Limpopo,Waterberg,Thabazimbi,DsSexes
+Census 2022,Municipality,Thabazimbi,FEMALE,30134,46.3,,,,,Limpopo,Waterberg,Thabazimbi,DsSexes
+Census 2022,Municipality,Bushbuckridge,MALE,343292,45.7,,,,,Mpumalanga,Ehlanzeni,Bushbuckridge,DsSexes
+Census 2022,Municipality,Bushbuckridge,FEMALE,407529,54.3,,,,,Mpumalanga,Ehlanzeni,Bushbuckridge,DsSexes
+Census 2022,Municipality,City of Mbombela,MALE,395832,48.3,,,,,Mpumalanga,Ehlanzeni,City of Mbombela,DsSexes
+Census 2022,Municipality,City of Mbombela,FEMALE,423093,51.7,,,,,Mpumalanga,Ehlanzeni,City of Mbombela,DsSexes
+Census 2022,Municipality,Nkomazi,MALE,278082,47.0,,,,,Mpumalanga,Ehlanzeni,Nkomazi,DsSexes
+Census 2022,Municipality,Nkomazi,FEMALE,313846,53.0,,,,,Mpumalanga,Ehlanzeni,Nkomazi,DsSexes
+Census 2022,Municipality,Thaba Chweu,MALE,54093,49.5,,,,,Mpumalanga,Ehlanzeni,Thaba Chweu,DsSexes
+Census 2022,Municipality,Thaba Chweu,FEMALE,55129,50.5,,,,,Mpumalanga,Ehlanzeni,Thaba Chweu,DsSexes
+Census 2022,Municipality,Chief Albert Luthuli,MALE,115948,46.8,,,,,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsSexes
+Census 2022,Municipality,Chief Albert Luthuli,FEMALE,131716,53.2,,,,,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsSexes
+Census 2022,Municipality,Dipaleseng,MALE,17629,49.0,,,,,Mpumalanga,Gert Sibande,Dipaleseng,DsSexes
+Census 2022,Municipality,Dipaleseng,FEMALE,18351,51.0,,,,,Mpumalanga,Gert Sibande,Dipaleseng,DsSexes
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,MALE,55362,48.0,,,,,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsSexes
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,FEMALE,59942,52.0,,,,,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsSexes
+Census 2022,Municipality,Govan Mbeki,MALE,155266,50.1,,,,,Mpumalanga,Gert Sibande,Govan Mbeki,DsSexes
+Census 2022,Municipality,Govan Mbeki,FEMALE,154851,49.9,,,,,Mpumalanga,Gert Sibande,Govan Mbeki,DsSexes
+Census 2022,Municipality,Lekwa,MALE,58334,48.7,,,,,Mpumalanga,Gert Sibande,Lekwa,DsSexes
+Census 2022,Municipality,Lekwa,FEMALE,61335,51.3,,,,,Mpumalanga,Gert Sibande,Lekwa,DsSexes
+Census 2022,Municipality,Mkhondo,MALE,119729,46.9,,,,,Mpumalanga,Gert Sibande,Mkhondo,DsSexes
+Census 2022,Municipality,Mkhondo,FEMALE,135682,53.1,,,,,Mpumalanga,Gert Sibande,Mkhondo,DsSexes
+Census 2022,Municipality,Msukaligwa,MALE,97031,48.7,,,,,Mpumalanga,Gert Sibande,Msukaligwa,DsSexes
+Census 2022,Municipality,Msukaligwa,FEMALE,102284,51.3,,,,,Mpumalanga,Gert Sibande,Msukaligwa,DsSexes
+Census 2022,Municipality,Dr JS Moroka,MALE,153912,47.4,,,,,Mpumalanga,Nkangala,Dr JS Moroka,DsSexes
+Census 2022,Municipality,Dr JS Moroka,FEMALE,170943,52.6,,,,,Mpumalanga,Nkangala,Dr JS Moroka,DsSexes
+Census 2022,Municipality,Emakhazeni,MALE,24271,48.4,,,,,Mpumalanga,Nkangala,Emakhazeni,DsSexes
+Census 2022,Municipality,Emakhazeni,FEMALE,25894,51.6,,,,,Mpumalanga,Nkangala,Emakhazeni,DsSexes
+Census 2022,Municipality,Emalahleni,MALE,220379,50.8,,,,,Mpumalanga,Nkangala,Emalahleni,DsSexes
+Census 2022,Municipality,Emalahleni,FEMALE,213859,49.2,,,,,Mpumalanga,Nkangala,Emalahleni,DsSexes
+Census 2022,Municipality,Steve Tshwete,MALE,120304,49.7,,,,,Mpumalanga,Nkangala,Steve Tshwete,DsSexes
+Census 2022,Municipality,Steve Tshwete,FEMALE,121726,50.3,,,,,Mpumalanga,Nkangala,Steve Tshwete,DsSexes
+Census 2022,Municipality,Thembisile,MALE,206177,47.8,,,,,Mpumalanga,Nkangala,Thembisile,DsSexes
+Census 2022,Municipality,Thembisile,FEMALE,225070,52.2,,,,,Mpumalanga,Nkangala,Thembisile,DsSexes
+Census 2022,Municipality,Victor Khanye,MALE,53973,50.8,,,,,Mpumalanga,Nkangala,Victor Khanye,DsSexes
+Census 2022,Municipality,Victor Khanye,FEMALE,52175,49.2,,,,,Mpumalanga,Nkangala,Victor Khanye,DsSexes
+Census 2022,Municipality,Kgetlengrivier,MALE,27069,49.4,,,,,North West,Bojanala,Kgetlengrivier,DsSexes
+Census 2022,Municipality,Kgetlengrivier,FEMALE,27691,50.6,,,,,North West,Bojanala,Kgetlengrivier,DsSexes
+Census 2022,Municipality,Madibeng,MALE,264904,50.7,,,,,North West,Bojanala,Madibeng,DsSexes
+Census 2022,Municipality,Madibeng,FEMALE,257662,49.3,,,,,North West,Bojanala,Madibeng,DsSexes
+Census 2022,Municipality,Moretele,MALE,108333,49.4,,,,,North West,Bojanala,Moretele,DsSexes
+Census 2022,Municipality,Moretele,FEMALE,110787,50.6,,,,,North West,Bojanala,Moretele,DsSexes
+Census 2022,Municipality,Moses Kotane,MALE,132741,50.0,,,,,North West,Bojanala,Moses Kotane,DsSexes
+Census 2022,Municipality,Moses Kotane,FEMALE,132927,50.0,,,,,North West,Bojanala,Moses Kotane,DsSexes
+Census 2022,Municipality,Rustenburg,MALE,292290,52.0,,,,,North West,Bojanala,Rustenburg,DsSexes
+Census 2022,Municipality,Rustenburg,FEMALE,269741,48.0,,,,,North West,Bojanala,Rustenburg,DsSexes
+Census 2022,Municipality,City of Matlosana,MALE,209074,48.5,,,,,North West,Dr Kenneth Kaunda,City of Matlosana,DsSexes
+Census 2022,Municipality,City of Matlosana,FEMALE,222157,51.5,,,,,North West,Dr Kenneth Kaunda,City of Matlosana,DsSexes
+Census 2022,Municipality,JB Marks,MALE,102652,48.3,,,,,North West,Dr Kenneth Kaunda,JB Marks,DsSexes
+Census 2022,Municipality,JB Marks,FEMALE,110018,51.7,,,,,North West,Dr Kenneth Kaunda,JB Marks,DsSexes
+Census 2022,Municipality,Maquassi Hills,MALE,43740,48.4,,,,,North West,Dr Kenneth Kaunda,Maquassi Hills,DsSexes
+Census 2022,Municipality,Maquassi Hills,FEMALE,46563,51.6,,,,,North West,Dr Kenneth Kaunda,Maquassi Hills,DsSexes
+Census 2022,Municipality,Greater Taung,MALE,98064,48.5,,,,,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsSexes
+Census 2022,Municipality,Greater Taung,FEMALE,103945,51.5,,,,,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsSexes
+Census 2022,Municipality,Kagisano/Molopo,MALE,53483,47.7,,,,,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsSexes
+Census 2022,Municipality,Kagisano/Molopo,FEMALE,58647,52.3,,,,,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsSexes
+Census 2022,Municipality,Lekwa-Teemane,MALE,29134,48.7,,,,,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsSexes
+Census 2022,Municipality,Lekwa-Teemane,FEMALE,30681,51.3,,,,,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsSexes
+Census 2022,Municipality,Mamusa,MALE,33923,48.1,,,,,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsSexes
+Census 2022,Municipality,Mamusa,FEMALE,36560,51.9,,,,,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsSexes
+Census 2022,Municipality,Naledi,MALE,30893,48.5,,,,,North West,Dr Ruth Segomotsi Mompati,Naledi,DsSexes
+Census 2022,Municipality,Naledi,FEMALE,32862,51.5,,,,,North West,Dr Ruth Segomotsi Mompati,Naledi,DsSexes
+Census 2022,Municipality,Ditsobotla,MALE,80218,48.9,,,,,North West,Ngaka Modiri Molema,Ditsobotla,DsSexes
+Census 2022,Municipality,Ditsobotla,FEMALE,83959,51.1,,,,,North West,Ngaka Modiri Molema,Ditsobotla,DsSexes
+Census 2022,Municipality,Mafikeng,MALE,174177,49.1,,,,,North West,Ngaka Modiri Molema,Mafikeng,DsSexes
+Census 2022,Municipality,Mafikeng,FEMALE,180327,50.9,,,,,North West,Ngaka Modiri Molema,Mafikeng,DsSexes
+Census 2022,Municipality,Ramotshere Moiloa,MALE,78617,48.6,,,,,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsSexes
+Census 2022,Municipality,Ramotshere Moiloa,FEMALE,82987,51.4,,,,,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsSexes
+Census 2022,Municipality,Ratlou,MALE,62364,48.4,,,,,North West,Ngaka Modiri Molema,Ratlou,DsSexes
+Census 2022,Municipality,Ratlou,FEMALE,66403,51.6,,,,,North West,Ngaka Modiri Molema,Ratlou,DsSexes
+Census 2022,Municipality,Tswaing,MALE,63195,49.1,,,,,North West,Ngaka Modiri Molema,Tswaing,DsSexes
+Census 2022,Municipality,Tswaing,FEMALE,65477,50.9,,,,,North West,Ngaka Modiri Molema,Tswaing,DsSexes
+Census 2022,Municipality,Dikgatlong,MALE,27517,48.3,,,,,Northern Cape,Frances Baard,Dikgatlong,DsSexes
+Census 2022,Municipality,Dikgatlong,FEMALE,29449,51.7,,,,,Northern Cape,Frances Baard,Dikgatlong,DsSexes
+Census 2022,Municipality,Magareng,MALE,12814,47.8,,,,,Northern Cape,Frances Baard,Magareng,DsSexes
+Census 2022,Municipality,Magareng,FEMALE,14002,52.2,,,,,Northern Cape,Frances Baard,Magareng,DsSexes
+Census 2022,Municipality,Phokwane,MALE,38403,47.7,,,,,Northern Cape,Frances Baard,Phokwane,DsSexes
+Census 2022,Municipality,Phokwane,FEMALE,42079,52.3,,,,,Northern Cape,Frances Baard,Phokwane,DsSexes
+Census 2022,Municipality,Sol Plaatje,MALE,129370,47.9,,,,,Northern Cape,Frances Baard,Sol Plaatje,DsSexes
+Census 2022,Municipality,Sol Plaatje,FEMALE,140709,52.1,,,,,Northern Cape,Frances Baard,Sol Plaatje,DsSexes
+Census 2022,Municipality,Ga-Segonyana,MALE,56318,47.9,,,,,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsSexes
+Census 2022,Municipality,Ga-Segonyana,FEMALE,61136,52.1,,,,,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsSexes
+Census 2022,Municipality,Gamagara,MALE,14809,50.1,,,,,Northern Cape,John Taolo Gaetsewe,Gamagara,DsSexes
+Census 2022,Municipality,Gamagara,FEMALE,14771,49.9,,,,,Northern Cape,John Taolo Gaetsewe,Gamagara,DsSexes
+Census 2022,Municipality,Joe Morolong,MALE,58039,46.3,,,,,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsSexes
+Census 2022,Municipality,Joe Morolong,FEMALE,67381,53.7,,,,,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsSexes
+Census 2022,Municipality,Hantam,MALE,10638,47.7,,,,,Northern Cape,Namakwa,Hantam,DsSexes
+Census 2022,Municipality,Hantam,FEMALE,11643,52.3,,,,,Northern Cape,Namakwa,Hantam,DsSexes
+Census 2022,Municipality,Kamiesberg,MALE,7437,49.2,,,,,Northern Cape,Namakwa,Kamiesberg,DsSexes
+Census 2022,Municipality,Kamiesberg,FEMALE,7693,50.8,,,,,Northern Cape,Namakwa,Kamiesberg,DsSexes
+Census 2022,Municipality,Karoo Hoogland,MALE,5683,48.6,,,,,Northern Cape,Namakwa,Karoo Hoogland,DsSexes
+Census 2022,Municipality,Karoo Hoogland,FEMALE,6008,51.4,,,,,Northern Cape,Namakwa,Karoo Hoogland,DsSexes
+Census 2022,Municipality,Khâi-Ma,MALE,4434,52.1,,,,,Northern Cape,Namakwa,Khâi-Ma,DsSexes
+Census 2022,Municipality,Khâi-Ma,FEMALE,4076,47.9,,,,,Northern Cape,Namakwa,Khâi-Ma,DsSexes
+Census 2022,Municipality,Nama Khoi,MALE,32590,48.6,,,,,Northern Cape,Namakwa,Nama Khoi,DsSexes
+Census 2022,Municipality,Nama Khoi,FEMALE,34499,51.4,,,,,Northern Cape,Namakwa,Nama Khoi,DsSexes
+Census 2022,Municipality,Richtersveld,MALE,12302,50.8,,,,,Northern Cape,Namakwa,Richtersveld,DsSexes
+Census 2022,Municipality,Richtersveld,FEMALE,11933,49.2,,,,,Northern Cape,Namakwa,Richtersveld,DsSexes
+Census 2022,Municipality,Emthanjeni,MALE,22375,48.0,,,,,Northern Cape,Pixley ka Seme,Emthanjeni,DsSexes
+Census 2022,Municipality,Emthanjeni,FEMALE,24211,52.0,,,,,Northern Cape,Pixley ka Seme,Emthanjeni,DsSexes
+Census 2022,Municipality,Kareeberg,MALE,5062,46.2,,,,,Northern Cape,Pixley ka Seme,Kareeberg,DsSexes
+Census 2022,Municipality,Kareeberg,FEMALE,5899,53.8,,,,,Northern Cape,Pixley ka Seme,Kareeberg,DsSexes
+Census 2022,Municipality,Renosterberg,MALE,5122,47.2,,,,,Northern Cape,Pixley ka Seme,Renosterberg,DsSexes
+Census 2022,Municipality,Renosterberg,FEMALE,5721,52.8,,,,,Northern Cape,Pixley ka Seme,Renosterberg,DsSexes
+Census 2022,Municipality,Siyancuma,MALE,26097,49.1,,,,,Northern Cape,Pixley ka Seme,Siyancuma,DsSexes
+Census 2022,Municipality,Siyancuma,FEMALE,27068,50.9,,,,,Northern Cape,Pixley ka Seme,Siyancuma,DsSexes
+Census 2022,Municipality,Siyathemba,MALE,13457,49.7,,,,,Northern Cape,Pixley ka Seme,Siyathemba,DsSexes
+Census 2022,Municipality,Siyathemba,FEMALE,13645,50.3,,,,,Northern Cape,Pixley ka Seme,Siyathemba,DsSexes
+Census 2022,Municipality,Thembelihle,MALE,10807,47.9,,,,,Northern Cape,Pixley ka Seme,Thembelihle,DsSexes
+Census 2022,Municipality,Thembelihle,FEMALE,11735,52.1,,,,,Northern Cape,Pixley ka Seme,Thembelihle,DsSexes
+Census 2022,Municipality,Ubuntu,MALE,7665,48.4,,,,,Northern Cape,Pixley ka Seme,Ubuntu,DsSexes
+Census 2022,Municipality,Ubuntu,FEMALE,8171,51.6,,,,,Northern Cape,Pixley ka Seme,Ubuntu,DsSexes
+Census 2022,Municipality,Umsobomvu,MALE,13953,47.2,,,,,Northern Cape,Pixley ka Seme,Umsobomvu,DsSexes
+Census 2022,Municipality,Umsobomvu,FEMALE,15601,52.8,,,,,Northern Cape,Pixley ka Seme,Umsobomvu,DsSexes
+Census 2022,Municipality,!Kheis,MALE,10720,48.8,,,,,Northern Cape,Z F Mgcawu,!Kheis,DsSexes
+Census 2022,Municipality,!Kheis,FEMALE,11234,51.2,,,,,Northern Cape,Z F Mgcawu,!Kheis,DsSexes
+Census 2022,Municipality,Dawid Kruiper,MALE,60057,47.8,,,,,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsSexes
+Census 2022,Municipality,Dawid Kruiper,FEMALE,65686,52.2,,,,,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsSexes
+Census 2022,Municipality,Kai !Garib,MALE,42166,49.5,,,,,Northern Cape,Z F Mgcawu,Kai !Garib,DsSexes
+Census 2022,Municipality,Kai !Garib,FEMALE,42938,50.5,,,,,Northern Cape,Z F Mgcawu,Kai !Garib,DsSexes
+Census 2022,Municipality,Kgatelopele,MALE,9841,49.6,,,,,Northern Cape,Z F Mgcawu,Kgatelopele,DsSexes
+Census 2022,Municipality,Kgatelopele,FEMALE,10012,50.4,,,,,Northern Cape,Z F Mgcawu,Kgatelopele,DsSexes
+Census 2022,Municipality,Tsantsabane,MALE,15643,50.5,,,,,Northern Cape,Z F Mgcawu,Tsantsabane,DsSexes
+Census 2022,Municipality,Tsantsabane,FEMALE,15326,49.5,,,,,Northern Cape,Z F Mgcawu,Tsantsabane,DsSexes
+Census 2022,Municipality,Breede Valley,MALE,102639,48.3,,,,,Western Cape,Cape Winelands,Breede Valley,DsSexes
+Census 2022,Municipality,Breede Valley,FEMALE,110043,51.7,,,,,Western Cape,Cape Winelands,Breede Valley,DsSexes
+Census 2022,Municipality,Drakenstein,MALE,133988,48.4,,,,,Western Cape,Cape Winelands,Drakenstein,DsSexes
+Census 2022,Municipality,Drakenstein,FEMALE,142813,51.6,,,,,Western Cape,Cape Winelands,Drakenstein,DsSexes
+Census 2022,Municipality,Langeberg,MALE,45238,48.1,,,,,Western Cape,Cape Winelands,Langeberg,DsSexes
+Census 2022,Municipality,Langeberg,FEMALE,48808,51.9,,,,,Western Cape,Cape Winelands,Langeberg,DsSexes
+Census 2022,Municipality,Stellenbosch,MALE,85071,48.5,,,,,Western Cape,Cape Winelands,Stellenbosch,DsSexes
+Census 2022,Municipality,Stellenbosch,FEMALE,90339,51.5,,,,,Western Cape,Cape Winelands,Stellenbosch,DsSexes
+Census 2022,Municipality,Witzenberg,MALE,51282,49.4,,,,,Western Cape,Cape Winelands,Witzenberg,DsSexes
+Census 2022,Municipality,Witzenberg,FEMALE,52483,50.6,,,,,Western Cape,Cape Winelands,Witzenberg,DsSexes
+Census 2022,Municipality,Beaufort West,MALE,34853,47.8,,,,,Western Cape,Central Karoo,Beaufort West,DsSexes
+Census 2022,Municipality,Beaufort West,FEMALE,38119,52.2,,,,,Western Cape,Central Karoo,Beaufort West,DsSexes
+Census 2022,Municipality,Laingsburg,MALE,5541,48.8,,,,,Western Cape,Central Karoo,Laingsburg,DsSexes
+Census 2022,Municipality,Laingsburg,FEMALE,5825,51.2,,,,,Western Cape,Central Karoo,Laingsburg,DsSexes
+Census 2022,Municipality,Prince Albert,MALE,8562,48.0,,,,,Western Cape,Central Karoo,Prince Albert,DsSexes
+Census 2022,Municipality,Prince Albert,FEMALE,9274,52.0,,,,,Western Cape,Central Karoo,Prince Albert,DsSexes
+Census 2022,Municipality,City of Cape Town,MALE,2306058,48.3,,,,,Western Cape,City of Cape Town,City of Cape Town,DsSexes
+Census 2022,Municipality,City of Cape Town,FEMALE,2464255,51.7,,,,,Western Cape,City of Cape Town,City of Cape Town,DsSexes
+Census 2022,Municipality,Bitou,MALE,31650,48.5,,,,,Western Cape,Garden Route,Bitou,DsSexes
+Census 2022,Municipality,Bitou,FEMALE,33589,51.5,,,,,Western Cape,Garden Route,Bitou,DsSexes
+Census 2022,Municipality,George,MALE,144969,49.2,,,,,Western Cape,Garden Route,George,DsSexes
+Census 2022,Municipality,George,FEMALE,149960,50.8,,,,,Western Cape,Garden Route,George,DsSexes
+Census 2022,Municipality,Hessequa,MALE,34673,48.2,,,,,Western Cape,Garden Route,Hessequa,DsSexes
+Census 2022,Municipality,Hessequa,FEMALE,37245,51.8,,,,,Western Cape,Garden Route,Hessequa,DsSexes
+Census 2022,Municipality,Kannaland,MALE,15269,47.7,,,,,Western Cape,Garden Route,Kannaland,DsSexes
+Census 2022,Municipality,Kannaland,FEMALE,16717,52.3,,,,,Western Cape,Garden Route,Kannaland,DsSexes
+Census 2022,Municipality,Knysna,MALE,46878,48.8,,,,,Western Cape,Garden Route,Knysna,DsSexes
+Census 2022,Municipality,Knysna,FEMALE,49177,51.2,,,,,Western Cape,Garden Route,Knysna,DsSexes
+Census 2022,Municipality,Mossel Bay,MALE,67674,48.3,,,,,Western Cape,Garden Route,Mossel Bay,DsSexes
+Census 2022,Municipality,Mossel Bay,FEMALE,72401,51.7,,,,,Western Cape,Garden Route,Mossel Bay,DsSexes
+Census 2022,Municipality,Oudtshoorn,MALE,65968,47.7,,,,,Western Cape,Garden Route,Oudtshoorn,DsSexes
+Census 2022,Municipality,Oudtshoorn,FEMALE,72289,52.3,,,,,Western Cape,Garden Route,Oudtshoorn,DsSexes
+Census 2022,Municipality,Cape Agulhas,MALE,19460,48.3,,,,,Western Cape,Overberg,Cape Agulhas,DsSexes
+Census 2022,Municipality,Cape Agulhas,FEMALE,20814,51.7,,,,,Western Cape,Overberg,Cape Agulhas,DsSexes
+Census 2022,Municipality,Overstrand,MALE,64376,48.6,,,,,Western Cape,Overberg,Overstrand,DsSexes
+Census 2022,Municipality,Overstrand,FEMALE,68120,51.4,,,,,Western Cape,Overberg,Overstrand,DsSexes
+Census 2022,Municipality,Swellendam,MALE,23436,49.7,,,,,Western Cape,Overberg,Swellendam,DsSexes
+Census 2022,Municipality,Swellendam,FEMALE,23678,50.3,,,,,Western Cape,Overberg,Swellendam,DsSexes
+Census 2022,Municipality,Theewaterskloof,MALE,69712,50.0,,,,,Western Cape,Overberg,Theewaterskloof,DsSexes
+Census 2022,Municipality,Theewaterskloof,FEMALE,69851,50.0,,,,,Western Cape,Overberg,Theewaterskloof,DsSexes
+Census 2022,Municipality,Bergrivier,MALE,33925,48.3,,,,,Western Cape,West Coast,Bergrivier,DsSexes
+Census 2022,Municipality,Bergrivier,FEMALE,36351,51.7,,,,,Western Cape,West Coast,Bergrivier,DsSexes
+Census 2022,Municipality,Cederberg,MALE,27068,49.1,,,,,Western Cape,West Coast,Cederberg,DsSexes
+Census 2022,Municipality,Cederberg,FEMALE,28040,50.9,,,,,Western Cape,West Coast,Cederberg,DsSexes
+Census 2022,Municipality,Matzikama,MALE,33977,49.2,,,,,Western Cape,West Coast,Matzikama,DsSexes
+Census 2022,Municipality,Matzikama,FEMALE,35066,50.8,,,,,Western Cape,West Coast,Matzikama,DsSexes
+Census 2022,Municipality,Saldanha Bay,MALE,76440,49.4,,,,,Western Cape,West Coast,Saldanha Bay,DsSexes
+Census 2022,Municipality,Saldanha Bay,FEMALE,78195,50.6,,,,,Western Cape,West Coast,Saldanha Bay,DsSexes
+Census 2022,Municipality,Swartland,MALE,71885,48.5,,,,,Western Cape,West Coast,Swartland,DsSexes
+Census 2022,Municipality,Swartland,FEMALE,76447,51.5,,,,,Western Cape,West Coast,Swartland,DsSexes

@@ -1,0 +1,853 @@
+timeSeriesDesc,geoLevelDesc,geoLevelValueDesc,label,countsPercentage,Province,District,Municipality,ReportType
+Census 2022,Municipality,Matatiele,Piped (tap) water inside the dwelling,28.8,Eastern Cape,Alfred Nzo,Matatiele,DsAccessToPipedWaters
+Census 2022,Municipality,Matatiele,Piped (tap) water inside the yard,24.6,Eastern Cape,Alfred Nzo,Matatiele,DsAccessToPipedWaters
+Census 2022,Municipality,Matatiele,Piped (tap) water on community stand,20.3,Eastern Cape,Alfred Nzo,Matatiele,DsAccessToPipedWaters
+Census 2022,Municipality,Matatiele,No access to piped water,26.4,Eastern Cape,Alfred Nzo,Matatiele,DsAccessToPipedWaters
+Census 2022,Municipality,Ntabankulu,Piped (tap) water inside the dwelling,18.2,Eastern Cape,Alfred Nzo,Ntabankulu,DsAccessToPipedWaters
+Census 2022,Municipality,Ntabankulu,Piped (tap) water inside the yard,10.6,Eastern Cape,Alfred Nzo,Ntabankulu,DsAccessToPipedWaters
+Census 2022,Municipality,Ntabankulu,Piped (tap) water on community stand,23.8,Eastern Cape,Alfred Nzo,Ntabankulu,DsAccessToPipedWaters
+Census 2022,Municipality,Ntabankulu,No access to piped water,47.4,Eastern Cape,Alfred Nzo,Ntabankulu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimvubu,Piped (tap) water inside the dwelling,24.7,Eastern Cape,Alfred Nzo,Umzimvubu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimvubu,Piped (tap) water inside the yard,21.0,Eastern Cape,Alfred Nzo,Umzimvubu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimvubu,Piped (tap) water on community stand,23.1,Eastern Cape,Alfred Nzo,Umzimvubu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimvubu,No access to piped water,31.2,Eastern Cape,Alfred Nzo,Umzimvubu,DsAccessToPipedWaters
+Census 2022,Municipality,Winnie Madikizela-Mandela,Piped (tap) water inside the dwelling,15.8,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsAccessToPipedWaters
+Census 2022,Municipality,Winnie Madikizela-Mandela,Piped (tap) water inside the yard,15.6,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsAccessToPipedWaters
+Census 2022,Municipality,Winnie Madikizela-Mandela,Piped (tap) water on community stand,14.3,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsAccessToPipedWaters
+Census 2022,Municipality,Winnie Madikizela-Mandela,No access to piped water,54.3,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsAccessToPipedWaters
+Census 2022,Municipality,Amahlathi,Piped (tap) water inside the dwelling,38.3,Eastern Cape,Amathole,Amahlathi,DsAccessToPipedWaters
+Census 2022,Municipality,Amahlathi,Piped (tap) water inside the yard,31.5,Eastern Cape,Amathole,Amahlathi,DsAccessToPipedWaters
+Census 2022,Municipality,Amahlathi,Piped (tap) water on community stand,21.2,Eastern Cape,Amathole,Amahlathi,DsAccessToPipedWaters
+Census 2022,Municipality,Amahlathi,No access to piped water,9.1,Eastern Cape,Amathole,Amahlathi,DsAccessToPipedWaters
+Census 2022,Municipality,Great Kei,Piped (tap) water inside the dwelling,37.8,Eastern Cape,Amathole,Great Kei,DsAccessToPipedWaters
+Census 2022,Municipality,Great Kei,Piped (tap) water inside the yard,12.6,Eastern Cape,Amathole,Great Kei,DsAccessToPipedWaters
+Census 2022,Municipality,Great Kei,Piped (tap) water on community stand,24.5,Eastern Cape,Amathole,Great Kei,DsAccessToPipedWaters
+Census 2022,Municipality,Great Kei,No access to piped water,25.1,Eastern Cape,Amathole,Great Kei,DsAccessToPipedWaters
+Census 2022,Municipality,Mbhashe,Piped (tap) water inside the dwelling,26.7,Eastern Cape,Amathole,Mbhashe,DsAccessToPipedWaters
+Census 2022,Municipality,Mbhashe,Piped (tap) water inside the yard,4.9,Eastern Cape,Amathole,Mbhashe,DsAccessToPipedWaters
+Census 2022,Municipality,Mbhashe,Piped (tap) water on community stand,19.8,Eastern Cape,Amathole,Mbhashe,DsAccessToPipedWaters
+Census 2022,Municipality,Mbhashe,No access to piped water,48.6,Eastern Cape,Amathole,Mbhashe,DsAccessToPipedWaters
+Census 2022,Municipality,Mnquma,Piped (tap) water inside the dwelling,33.3,Eastern Cape,Amathole,Mnquma,DsAccessToPipedWaters
+Census 2022,Municipality,Mnquma,Piped (tap) water inside the yard,6.1,Eastern Cape,Amathole,Mnquma,DsAccessToPipedWaters
+Census 2022,Municipality,Mnquma,Piped (tap) water on community stand,21.6,Eastern Cape,Amathole,Mnquma,DsAccessToPipedWaters
+Census 2022,Municipality,Mnquma,No access to piped water,39.0,Eastern Cape,Amathole,Mnquma,DsAccessToPipedWaters
+Census 2022,Municipality,Ngqushwa,Piped (tap) water inside the dwelling,29.1,Eastern Cape,Amathole,Ngqushwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ngqushwa,Piped (tap) water inside the yard,21.4,Eastern Cape,Amathole,Ngqushwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ngqushwa,Piped (tap) water on community stand,23.6,Eastern Cape,Amathole,Ngqushwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ngqushwa,No access to piped water,25.9,Eastern Cape,Amathole,Ngqushwa,DsAccessToPipedWaters
+Census 2022,Municipality,Raymond Mhlaba,Piped (tap) water inside the dwelling,43.7,Eastern Cape,Amathole,Raymond Mhlaba,DsAccessToPipedWaters
+Census 2022,Municipality,Raymond Mhlaba,Piped (tap) water inside the yard,25.5,Eastern Cape,Amathole,Raymond Mhlaba,DsAccessToPipedWaters
+Census 2022,Municipality,Raymond Mhlaba,Piped (tap) water on community stand,19.6,Eastern Cape,Amathole,Raymond Mhlaba,DsAccessToPipedWaters
+Census 2022,Municipality,Raymond Mhlaba,No access to piped water,11.1,Eastern Cape,Amathole,Raymond Mhlaba,DsAccessToPipedWaters
+Census 2022,Municipality,Buffalo City,Piped (tap) water inside the dwelling,65.7,Eastern Cape,Buffalo City,Buffalo City,DsAccessToPipedWaters
+Census 2022,Municipality,Buffalo City,Piped (tap) water inside the yard,18.1,Eastern Cape,Buffalo City,Buffalo City,DsAccessToPipedWaters
+Census 2022,Municipality,Buffalo City,Piped (tap) water on community stand,13.5,Eastern Cape,Buffalo City,Buffalo City,DsAccessToPipedWaters
+Census 2022,Municipality,Buffalo City,No access to piped water,2.8,Eastern Cape,Buffalo City,Buffalo City,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water inside the dwelling,31.1,Eastern Cape,Chris Hani,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water inside the yard,28.7,Eastern Cape,Chris Hani,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water on community stand,32.9,Eastern Cape,Chris Hani,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,No access to piped water,7.3,Eastern Cape,Chris Hani,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Engcobo,Piped (tap) water inside the dwelling,28.4,Eastern Cape,Chris Hani,Engcobo,DsAccessToPipedWaters
+Census 2022,Municipality,Engcobo,Piped (tap) water inside the yard,5.2,Eastern Cape,Chris Hani,Engcobo,DsAccessToPipedWaters
+Census 2022,Municipality,Engcobo,Piped (tap) water on community stand,29.5,Eastern Cape,Chris Hani,Engcobo,DsAccessToPipedWaters
+Census 2022,Municipality,Engcobo,No access to piped water,37.0,Eastern Cape,Chris Hani,Engcobo,DsAccessToPipedWaters
+Census 2022,Municipality,Enoch Mgijima,Piped (tap) water inside the dwelling,55.0,Eastern Cape,Chris Hani,Enoch Mgijima,DsAccessToPipedWaters
+Census 2022,Municipality,Enoch Mgijima,Piped (tap) water inside the yard,27.7,Eastern Cape,Chris Hani,Enoch Mgijima,DsAccessToPipedWaters
+Census 2022,Municipality,Enoch Mgijima,Piped (tap) water on community stand,12.5,Eastern Cape,Chris Hani,Enoch Mgijima,DsAccessToPipedWaters
+Census 2022,Municipality,Enoch Mgijima,No access to piped water,4.7,Eastern Cape,Chris Hani,Enoch Mgijima,DsAccessToPipedWaters
+Census 2022,Municipality,Intsika Yethu,Piped (tap) water inside the dwelling,30.3,Eastern Cape,Chris Hani,Intsika Yethu,DsAccessToPipedWaters
+Census 2022,Municipality,Intsika Yethu,Piped (tap) water inside the yard,5.7,Eastern Cape,Chris Hani,Intsika Yethu,DsAccessToPipedWaters
+Census 2022,Municipality,Intsika Yethu,Piped (tap) water on community stand,30.4,Eastern Cape,Chris Hani,Intsika Yethu,DsAccessToPipedWaters
+Census 2022,Municipality,Intsika Yethu,No access to piped water,33.5,Eastern Cape,Chris Hani,Intsika Yethu,DsAccessToPipedWaters
+Census 2022,Municipality,Inxuba Yethemba,Piped (tap) water inside the dwelling,75.6,Eastern Cape,Chris Hani,Inxuba Yethemba,DsAccessToPipedWaters
+Census 2022,Municipality,Inxuba Yethemba,Piped (tap) water inside the yard,21.0,Eastern Cape,Chris Hani,Inxuba Yethemba,DsAccessToPipedWaters
+Census 2022,Municipality,Inxuba Yethemba,Piped (tap) water on community stand,2.7,Eastern Cape,Chris Hani,Inxuba Yethemba,DsAccessToPipedWaters
+Census 2022,Municipality,Inxuba Yethemba,No access to piped water,0.6,Eastern Cape,Chris Hani,Inxuba Yethemba,DsAccessToPipedWaters
+Census 2022,Municipality,Sakhisizwe,Piped (tap) water inside the dwelling,37.6,Eastern Cape,Chris Hani,Sakhisizwe,DsAccessToPipedWaters
+Census 2022,Municipality,Sakhisizwe,Piped (tap) water inside the yard,33.3,Eastern Cape,Chris Hani,Sakhisizwe,DsAccessToPipedWaters
+Census 2022,Municipality,Sakhisizwe,Piped (tap) water on community stand,20.1,Eastern Cape,Chris Hani,Sakhisizwe,DsAccessToPipedWaters
+Census 2022,Municipality,Sakhisizwe,No access to piped water,8.9,Eastern Cape,Chris Hani,Sakhisizwe,DsAccessToPipedWaters
+Census 2022,Municipality,Elundini,Piped (tap) water inside the dwelling,39.3,Eastern Cape,Joe Gqabi,Elundini,DsAccessToPipedWaters
+Census 2022,Municipality,Elundini,Piped (tap) water inside the yard,13.9,Eastern Cape,Joe Gqabi,Elundini,DsAccessToPipedWaters
+Census 2022,Municipality,Elundini,Piped (tap) water on community stand,19.6,Eastern Cape,Joe Gqabi,Elundini,DsAccessToPipedWaters
+Census 2022,Municipality,Elundini,No access to piped water,27.2,Eastern Cape,Joe Gqabi,Elundini,DsAccessToPipedWaters
+Census 2022,Municipality,Senqu,Piped (tap) water inside the dwelling,34.6,Eastern Cape,Joe Gqabi,Senqu,DsAccessToPipedWaters
+Census 2022,Municipality,Senqu,Piped (tap) water inside the yard,30.9,Eastern Cape,Joe Gqabi,Senqu,DsAccessToPipedWaters
+Census 2022,Municipality,Senqu,Piped (tap) water on community stand,9.1,Eastern Cape,Joe Gqabi,Senqu,DsAccessToPipedWaters
+Census 2022,Municipality,Senqu,No access to piped water,25.5,Eastern Cape,Joe Gqabi,Senqu,DsAccessToPipedWaters
+Census 2022,Municipality,Walter Sisulu,Piped (tap) water inside the dwelling,66.7,Eastern Cape,Joe Gqabi,Walter Sisulu,DsAccessToPipedWaters
+Census 2022,Municipality,Walter Sisulu,Piped (tap) water inside the yard,27.5,Eastern Cape,Joe Gqabi,Walter Sisulu,DsAccessToPipedWaters
+Census 2022,Municipality,Walter Sisulu,Piped (tap) water on community stand,4.0,Eastern Cape,Joe Gqabi,Walter Sisulu,DsAccessToPipedWaters
+Census 2022,Municipality,Walter Sisulu,No access to piped water,1.8,Eastern Cape,Joe Gqabi,Walter Sisulu,DsAccessToPipedWaters
+Census 2022,Municipality,Nelson Mandela Bay,Piped (tap) water inside the dwelling,82.3,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Nelson Mandela Bay,Piped (tap) water inside the yard,11.4,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Nelson Mandela Bay,Piped (tap) water on community stand,5.4,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Nelson Mandela Bay,No access to piped water,0.8,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsAccessToPipedWaters
+Census 2022,Municipality,King Sabata Dalindyebo,Piped (tap) water inside the dwelling,42.4,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsAccessToPipedWaters
+Census 2022,Municipality,King Sabata Dalindyebo,Piped (tap) water inside the yard,25.0,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsAccessToPipedWaters
+Census 2022,Municipality,King Sabata Dalindyebo,Piped (tap) water on community stand,5.4,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsAccessToPipedWaters
+Census 2022,Municipality,King Sabata Dalindyebo,No access to piped water,27.2,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsAccessToPipedWaters
+Census 2022,Municipality,Mhlontlo,Piped (tap) water inside the dwelling,26.9,Eastern Cape,O.R. Tambo,Mhlontlo,DsAccessToPipedWaters
+Census 2022,Municipality,Mhlontlo,Piped (tap) water inside the yard,12.6,Eastern Cape,O.R. Tambo,Mhlontlo,DsAccessToPipedWaters
+Census 2022,Municipality,Mhlontlo,Piped (tap) water on community stand,21.7,Eastern Cape,O.R. Tambo,Mhlontlo,DsAccessToPipedWaters
+Census 2022,Municipality,Mhlontlo,No access to piped water,38.7,Eastern Cape,O.R. Tambo,Mhlontlo,DsAccessToPipedWaters
+Census 2022,Municipality,Ngquza Hill,Piped (tap) water inside the dwelling,17.6,Eastern Cape,O.R. Tambo,Ngquza Hill,DsAccessToPipedWaters
+Census 2022,Municipality,Ngquza Hill,Piped (tap) water inside the yard,3.4,Eastern Cape,O.R. Tambo,Ngquza Hill,DsAccessToPipedWaters
+Census 2022,Municipality,Ngquza Hill,Piped (tap) water on community stand,7.2,Eastern Cape,O.R. Tambo,Ngquza Hill,DsAccessToPipedWaters
+Census 2022,Municipality,Ngquza Hill,No access to piped water,71.8,Eastern Cape,O.R. Tambo,Ngquza Hill,DsAccessToPipedWaters
+Census 2022,Municipality,Nyandeni,Piped (tap) water inside the dwelling,23.7,Eastern Cape,O.R. Tambo,Nyandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Nyandeni,Piped (tap) water inside the yard,8.2,Eastern Cape,O.R. Tambo,Nyandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Nyandeni,Piped (tap) water on community stand,14.2,Eastern Cape,O.R. Tambo,Nyandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Nyandeni,No access to piped water,54.0,Eastern Cape,O.R. Tambo,Nyandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Port St Johns,Piped (tap) water inside the dwelling,19.0,Eastern Cape,O.R. Tambo,Port St Johns,DsAccessToPipedWaters
+Census 2022,Municipality,Port St Johns,Piped (tap) water inside the yard,5.3,Eastern Cape,O.R. Tambo,Port St Johns,DsAccessToPipedWaters
+Census 2022,Municipality,Port St Johns,Piped (tap) water on community stand,19.9,Eastern Cape,O.R. Tambo,Port St Johns,DsAccessToPipedWaters
+Census 2022,Municipality,Port St Johns,No access to piped water,55.8,Eastern Cape,O.R. Tambo,Port St Johns,DsAccessToPipedWaters
+Census 2022,Municipality,Blue Crane Route,Piped (tap) water inside the dwelling,56.6,Eastern Cape,Sarah Baartman,Blue Crane Route,DsAccessToPipedWaters
+Census 2022,Municipality,Blue Crane Route,Piped (tap) water inside the yard,30.9,Eastern Cape,Sarah Baartman,Blue Crane Route,DsAccessToPipedWaters
+Census 2022,Municipality,Blue Crane Route,Piped (tap) water on community stand,2.2,Eastern Cape,Sarah Baartman,Blue Crane Route,DsAccessToPipedWaters
+Census 2022,Municipality,Blue Crane Route,No access to piped water,10.4,Eastern Cape,Sarah Baartman,Blue Crane Route,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Beyers Naude,Piped (tap) water inside the dwelling,66.9,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Beyers Naude,Piped (tap) water inside the yard,31.3,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Beyers Naude,Piped (tap) water on community stand,1.3,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Beyers Naude,No access to piped water,0.6,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsAccessToPipedWaters
+Census 2022,Municipality,Kou-Kamma,Piped (tap) water inside the dwelling,84.2,Eastern Cape,Sarah Baartman,Kou-Kamma,DsAccessToPipedWaters
+Census 2022,Municipality,Kou-Kamma,Piped (tap) water inside the yard,11.0,Eastern Cape,Sarah Baartman,Kou-Kamma,DsAccessToPipedWaters
+Census 2022,Municipality,Kou-Kamma,Piped (tap) water on community stand,3.0,Eastern Cape,Sarah Baartman,Kou-Kamma,DsAccessToPipedWaters
+Census 2022,Municipality,Kou-Kamma,No access to piped water,1.8,Eastern Cape,Sarah Baartman,Kou-Kamma,DsAccessToPipedWaters
+Census 2022,Municipality,Kouga,Piped (tap) water inside the dwelling,72.2,Eastern Cape,Sarah Baartman,Kouga,DsAccessToPipedWaters
+Census 2022,Municipality,Kouga,Piped (tap) water inside the yard,16.1,Eastern Cape,Sarah Baartman,Kouga,DsAccessToPipedWaters
+Census 2022,Municipality,Kouga,Piped (tap) water on community stand,9.6,Eastern Cape,Sarah Baartman,Kouga,DsAccessToPipedWaters
+Census 2022,Municipality,Kouga,No access to piped water,2.1,Eastern Cape,Sarah Baartman,Kouga,DsAccessToPipedWaters
+Census 2022,Municipality,Makana,Piped (tap) water inside the dwelling,63.7,Eastern Cape,Sarah Baartman,Makana,DsAccessToPipedWaters
+Census 2022,Municipality,Makana,Piped (tap) water inside the yard,26.1,Eastern Cape,Sarah Baartman,Makana,DsAccessToPipedWaters
+Census 2022,Municipality,Makana,Piped (tap) water on community stand,8.3,Eastern Cape,Sarah Baartman,Makana,DsAccessToPipedWaters
+Census 2022,Municipality,Makana,No access to piped water,2.0,Eastern Cape,Sarah Baartman,Makana,DsAccessToPipedWaters
+Census 2022,Municipality,Ndlambe,Piped (tap) water inside the dwelling,59.6,Eastern Cape,Sarah Baartman,Ndlambe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndlambe,Piped (tap) water inside the yard,30.8,Eastern Cape,Sarah Baartman,Ndlambe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndlambe,Piped (tap) water on community stand,6.9,Eastern Cape,Sarah Baartman,Ndlambe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndlambe,No access to piped water,2.7,Eastern Cape,Sarah Baartman,Ndlambe,DsAccessToPipedWaters
+Census 2022,Municipality,Sundays River Valley,Piped (tap) water inside the dwelling,55.3,Eastern Cape,Sarah Baartman,Sundays River Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Sundays River Valley,Piped (tap) water inside the yard,28.9,Eastern Cape,Sarah Baartman,Sundays River Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Sundays River Valley,Piped (tap) water on community stand,9.1,Eastern Cape,Sarah Baartman,Sundays River Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Sundays River Valley,No access to piped water,6.7,Eastern Cape,Sarah Baartman,Sundays River Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Mafube,Piped (tap) water inside the dwelling,48.8,Free State,Fezile Dabi,Mafube,DsAccessToPipedWaters
+Census 2022,Municipality,Mafube,Piped (tap) water inside the yard,45.9,Free State,Fezile Dabi,Mafube,DsAccessToPipedWaters
+Census 2022,Municipality,Mafube,Piped (tap) water on community stand,2.3,Free State,Fezile Dabi,Mafube,DsAccessToPipedWaters
+Census 2022,Municipality,Mafube,No access to piped water,3.1,Free State,Fezile Dabi,Mafube,DsAccessToPipedWaters
+Census 2022,Municipality,Metsimaholo,Piped (tap) water inside the dwelling,66.8,Free State,Fezile Dabi,Metsimaholo,DsAccessToPipedWaters
+Census 2022,Municipality,Metsimaholo,Piped (tap) water inside the yard,25.3,Free State,Fezile Dabi,Metsimaholo,DsAccessToPipedWaters
+Census 2022,Municipality,Metsimaholo,Piped (tap) water on community stand,6.3,Free State,Fezile Dabi,Metsimaholo,DsAccessToPipedWaters
+Census 2022,Municipality,Metsimaholo,No access to piped water,1.6,Free State,Fezile Dabi,Metsimaholo,DsAccessToPipedWaters
+Census 2022,Municipality,Moqhaka,Piped (tap) water inside the dwelling,64.2,Free State,Fezile Dabi,Moqhaka,DsAccessToPipedWaters
+Census 2022,Municipality,Moqhaka,Piped (tap) water inside the yard,32.3,Free State,Fezile Dabi,Moqhaka,DsAccessToPipedWaters
+Census 2022,Municipality,Moqhaka,Piped (tap) water on community stand,2.1,Free State,Fezile Dabi,Moqhaka,DsAccessToPipedWaters
+Census 2022,Municipality,Moqhaka,No access to piped water,1.4,Free State,Fezile Dabi,Moqhaka,DsAccessToPipedWaters
+Census 2022,Municipality,Ngwathe,Piped (tap) water inside the dwelling,53.6,Free State,Fezile Dabi,Ngwathe,DsAccessToPipedWaters
+Census 2022,Municipality,Ngwathe,Piped (tap) water inside the yard,41.0,Free State,Fezile Dabi,Ngwathe,DsAccessToPipedWaters
+Census 2022,Municipality,Ngwathe,Piped (tap) water on community stand,3.8,Free State,Fezile Dabi,Ngwathe,DsAccessToPipedWaters
+Census 2022,Municipality,Ngwathe,No access to piped water,1.6,Free State,Fezile Dabi,Ngwathe,DsAccessToPipedWaters
+Census 2022,Municipality,Masilonyana,Piped (tap) water inside the dwelling,39.8,Free State,Lejweleputswa,Masilonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Masilonyana,Piped (tap) water inside the yard,55.7,Free State,Lejweleputswa,Masilonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Masilonyana,Piped (tap) water on community stand,1.8,Free State,Lejweleputswa,Masilonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Masilonyana,No access to piped water,2.7,Free State,Lejweleputswa,Masilonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Matjhabeng,Piped (tap) water inside the dwelling,61.4,Free State,Lejweleputswa,Matjhabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Matjhabeng,Piped (tap) water inside the yard,30.9,Free State,Lejweleputswa,Matjhabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Matjhabeng,Piped (tap) water on community stand,5.5,Free State,Lejweleputswa,Matjhabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Matjhabeng,No access to piped water,2.3,Free State,Lejweleputswa,Matjhabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Nala,Piped (tap) water inside the dwelling,42.0,Free State,Lejweleputswa,Nala,DsAccessToPipedWaters
+Census 2022,Municipality,Nala,Piped (tap) water inside the yard,51.7,Free State,Lejweleputswa,Nala,DsAccessToPipedWaters
+Census 2022,Municipality,Nala,Piped (tap) water on community stand,5.3,Free State,Lejweleputswa,Nala,DsAccessToPipedWaters
+Census 2022,Municipality,Nala,No access to piped water,0.9,Free State,Lejweleputswa,Nala,DsAccessToPipedWaters
+Census 2022,Municipality,Tokologo,Piped (tap) water inside the dwelling,29.7,Free State,Lejweleputswa,Tokologo,DsAccessToPipedWaters
+Census 2022,Municipality,Tokologo,Piped (tap) water inside the yard,61.1,Free State,Lejweleputswa,Tokologo,DsAccessToPipedWaters
+Census 2022,Municipality,Tokologo,Piped (tap) water on community stand,7.8,Free State,Lejweleputswa,Tokologo,DsAccessToPipedWaters
+Census 2022,Municipality,Tokologo,No access to piped water,1.4,Free State,Lejweleputswa,Tokologo,DsAccessToPipedWaters
+Census 2022,Municipality,Tswelopele,Piped (tap) water inside the dwelling,34.3,Free State,Lejweleputswa,Tswelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Tswelopele,Piped (tap) water inside the yard,63.2,Free State,Lejweleputswa,Tswelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Tswelopele,Piped (tap) water on community stand,1.9,Free State,Lejweleputswa,Tswelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Tswelopele,No access to piped water,0.7,Free State,Lejweleputswa,Tswelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Mangaung,Piped (tap) water inside the dwelling,47.3,Free State,Mangaung,Mangaung,DsAccessToPipedWaters
+Census 2022,Municipality,Mangaung,Piped (tap) water inside the yard,43.7,Free State,Mangaung,Mangaung,DsAccessToPipedWaters
+Census 2022,Municipality,Mangaung,Piped (tap) water on community stand,6.4,Free State,Mangaung,Mangaung,DsAccessToPipedWaters
+Census 2022,Municipality,Mangaung,No access to piped water,2.7,Free State,Mangaung,Mangaung,DsAccessToPipedWaters
+Census 2022,Municipality,Dihlabeng,Piped (tap) water inside the dwelling,56.7,Free State,Thabo Mofutsanyane,Dihlabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Dihlabeng,Piped (tap) water inside the yard,37.5,Free State,Thabo Mofutsanyane,Dihlabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Dihlabeng,Piped (tap) water on community stand,3.9,Free State,Thabo Mofutsanyane,Dihlabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Dihlabeng,No access to piped water,1.9,Free State,Thabo Mofutsanyane,Dihlabeng,DsAccessToPipedWaters
+Census 2022,Municipality,Maluti a Phofung,Piped (tap) water inside the dwelling,36.2,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsAccessToPipedWaters
+Census 2022,Municipality,Maluti a Phofung,Piped (tap) water inside the yard,55.0,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsAccessToPipedWaters
+Census 2022,Municipality,Maluti a Phofung,Piped (tap) water on community stand,3.1,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsAccessToPipedWaters
+Census 2022,Municipality,Maluti a Phofung,No access to piped water,5.8,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsAccessToPipedWaters
+Census 2022,Municipality,Mantsopa,Piped (tap) water inside the dwelling,41.6,Free State,Thabo Mofutsanyane,Mantsopa,DsAccessToPipedWaters
+Census 2022,Municipality,Mantsopa,Piped (tap) water inside the yard,50.0,Free State,Thabo Mofutsanyane,Mantsopa,DsAccessToPipedWaters
+Census 2022,Municipality,Mantsopa,Piped (tap) water on community stand,4.3,Free State,Thabo Mofutsanyane,Mantsopa,DsAccessToPipedWaters
+Census 2022,Municipality,Mantsopa,No access to piped water,4.1,Free State,Thabo Mofutsanyane,Mantsopa,DsAccessToPipedWaters
+Census 2022,Municipality,Nketoana,Piped (tap) water inside the dwelling,37.1,Free State,Thabo Mofutsanyane,Nketoana,DsAccessToPipedWaters
+Census 2022,Municipality,Nketoana,Piped (tap) water inside the yard,51.2,Free State,Thabo Mofutsanyane,Nketoana,DsAccessToPipedWaters
+Census 2022,Municipality,Nketoana,Piped (tap) water on community stand,7.1,Free State,Thabo Mofutsanyane,Nketoana,DsAccessToPipedWaters
+Census 2022,Municipality,Nketoana,No access to piped water,4.6,Free State,Thabo Mofutsanyane,Nketoana,DsAccessToPipedWaters
+Census 2022,Municipality,Phumelela,Piped (tap) water inside the dwelling,43.5,Free State,Thabo Mofutsanyane,Phumelela,DsAccessToPipedWaters
+Census 2022,Municipality,Phumelela,Piped (tap) water inside the yard,43.7,Free State,Thabo Mofutsanyane,Phumelela,DsAccessToPipedWaters
+Census 2022,Municipality,Phumelela,Piped (tap) water on community stand,5.0,Free State,Thabo Mofutsanyane,Phumelela,DsAccessToPipedWaters
+Census 2022,Municipality,Phumelela,No access to piped water,7.8,Free State,Thabo Mofutsanyane,Phumelela,DsAccessToPipedWaters
+Census 2022,Municipality,Setsoto,Piped (tap) water inside the dwelling,36.9,Free State,Thabo Mofutsanyane,Setsoto,DsAccessToPipedWaters
+Census 2022,Municipality,Setsoto,Piped (tap) water inside the yard,56.6,Free State,Thabo Mofutsanyane,Setsoto,DsAccessToPipedWaters
+Census 2022,Municipality,Setsoto,Piped (tap) water on community stand,3.0,Free State,Thabo Mofutsanyane,Setsoto,DsAccessToPipedWaters
+Census 2022,Municipality,Setsoto,No access to piped water,3.5,Free State,Thabo Mofutsanyane,Setsoto,DsAccessToPipedWaters
+Census 2022,Municipality,Kopanong,Piped (tap) water inside the dwelling,51.7,Free State,Xhariep,Kopanong,DsAccessToPipedWaters
+Census 2022,Municipality,Kopanong,Piped (tap) water inside the yard,40.4,Free State,Xhariep,Kopanong,DsAccessToPipedWaters
+Census 2022,Municipality,Kopanong,Piped (tap) water on community stand,4.0,Free State,Xhariep,Kopanong,DsAccessToPipedWaters
+Census 2022,Municipality,Kopanong,No access to piped water,3.9,Free State,Xhariep,Kopanong,DsAccessToPipedWaters
+Census 2022,Municipality,Letsemeng,Piped (tap) water inside the dwelling,53.2,Free State,Xhariep,Letsemeng,DsAccessToPipedWaters
+Census 2022,Municipality,Letsemeng,Piped (tap) water inside the yard,37.4,Free State,Xhariep,Letsemeng,DsAccessToPipedWaters
+Census 2022,Municipality,Letsemeng,Piped (tap) water on community stand,5.5,Free State,Xhariep,Letsemeng,DsAccessToPipedWaters
+Census 2022,Municipality,Letsemeng,No access to piped water,4.0,Free State,Xhariep,Letsemeng,DsAccessToPipedWaters
+Census 2022,Municipality,Mohokare,Piped (tap) water inside the dwelling,32.2,Free State,Xhariep,Mohokare,DsAccessToPipedWaters
+Census 2022,Municipality,Mohokare,Piped (tap) water inside the yard,59.7,Free State,Xhariep,Mohokare,DsAccessToPipedWaters
+Census 2022,Municipality,Mohokare,Piped (tap) water on community stand,5.7,Free State,Xhariep,Mohokare,DsAccessToPipedWaters
+Census 2022,Municipality,Mohokare,No access to piped water,2.4,Free State,Xhariep,Mohokare,DsAccessToPipedWaters
+Census 2022,Municipality,City of Johannesburg,Piped (tap) water inside the dwelling,77.1,Gauteng,City of Johannesburg,City of Johannesburg,DsAccessToPipedWaters
+Census 2022,Municipality,City of Johannesburg,Piped (tap) water inside the yard,18.3,Gauteng,City of Johannesburg,City of Johannesburg,DsAccessToPipedWaters
+Census 2022,Municipality,City of Johannesburg,Piped (tap) water on community stand,2.9,Gauteng,City of Johannesburg,City of Johannesburg,DsAccessToPipedWaters
+Census 2022,Municipality,City of Johannesburg,No access to piped water,1.7,Gauteng,City of Johannesburg,City of Johannesburg,DsAccessToPipedWaters
+Census 2022,Municipality,City of Tshwane,Piped (tap) water inside the dwelling,71.3,Gauteng,City of Tshwane,City of Tshwane,DsAccessToPipedWaters
+Census 2022,Municipality,City of Tshwane,Piped (tap) water inside the yard,20.2,Gauteng,City of Tshwane,City of Tshwane,DsAccessToPipedWaters
+Census 2022,Municipality,City of Tshwane,Piped (tap) water on community stand,3.6,Gauteng,City of Tshwane,City of Tshwane,DsAccessToPipedWaters
+Census 2022,Municipality,City of Tshwane,No access to piped water,4.8,Gauteng,City of Tshwane,City of Tshwane,DsAccessToPipedWaters
+Census 2022,Municipality,Ekurhuleni,Piped (tap) water inside the dwelling,73.8,Gauteng,Ekurhuleni,Ekurhuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Ekurhuleni,Piped (tap) water inside the yard,20.3,Gauteng,Ekurhuleni,Ekurhuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Ekurhuleni,Piped (tap) water on community stand,5.2,Gauteng,Ekurhuleni,Ekurhuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Ekurhuleni,No access to piped water,0.8,Gauteng,Ekurhuleni,Ekurhuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emfuleni,Piped (tap) water inside the dwelling,80.4,Gauteng,Sedibeng,Emfuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emfuleni,Piped (tap) water inside the yard,16.7,Gauteng,Sedibeng,Emfuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emfuleni,Piped (tap) water on community stand,2.2,Gauteng,Sedibeng,Emfuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emfuleni,No access to piped water,0.7,Gauteng,Sedibeng,Emfuleni,DsAccessToPipedWaters
+Census 2022,Municipality,Lesedi,Piped (tap) water inside the dwelling,72.8,Gauteng,Sedibeng,Lesedi,DsAccessToPipedWaters
+Census 2022,Municipality,Lesedi,Piped (tap) water inside the yard,24.6,Gauteng,Sedibeng,Lesedi,DsAccessToPipedWaters
+Census 2022,Municipality,Lesedi,Piped (tap) water on community stand,1.9,Gauteng,Sedibeng,Lesedi,DsAccessToPipedWaters
+Census 2022,Municipality,Lesedi,No access to piped water,0.7,Gauteng,Sedibeng,Lesedi,DsAccessToPipedWaters
+Census 2022,Municipality,Midvaal,Piped (tap) water inside the dwelling,87.1,Gauteng,Sedibeng,Midvaal,DsAccessToPipedWaters
+Census 2022,Municipality,Midvaal,Piped (tap) water inside the yard,7.6,Gauteng,Sedibeng,Midvaal,DsAccessToPipedWaters
+Census 2022,Municipality,Midvaal,Piped (tap) water on community stand,2.8,Gauteng,Sedibeng,Midvaal,DsAccessToPipedWaters
+Census 2022,Municipality,Midvaal,No access to piped water,2.5,Gauteng,Sedibeng,Midvaal,DsAccessToPipedWaters
+Census 2022,Municipality,Merafong City,Piped (tap) water inside the dwelling,81.9,Gauteng,West Rand,Merafong City,DsAccessToPipedWaters
+Census 2022,Municipality,Merafong City,Piped (tap) water inside the yard,13.9,Gauteng,West Rand,Merafong City,DsAccessToPipedWaters
+Census 2022,Municipality,Merafong City,Piped (tap) water on community stand,2.8,Gauteng,West Rand,Merafong City,DsAccessToPipedWaters
+Census 2022,Municipality,Merafong City,No access to piped water,1.3,Gauteng,West Rand,Merafong City,DsAccessToPipedWaters
+Census 2022,Municipality,Mogale City,Piped (tap) water inside the dwelling,71.6,Gauteng,West Rand,Mogale City,DsAccessToPipedWaters
+Census 2022,Municipality,Mogale City,Piped (tap) water inside the yard,20.0,Gauteng,West Rand,Mogale City,DsAccessToPipedWaters
+Census 2022,Municipality,Mogale City,Piped (tap) water on community stand,6.9,Gauteng,West Rand,Mogale City,DsAccessToPipedWaters
+Census 2022,Municipality,Mogale City,No access to piped water,1.5,Gauteng,West Rand,Mogale City,DsAccessToPipedWaters
+Census 2022,Municipality,Rand West City,Piped (tap) water inside the dwelling,79.6,Gauteng,West Rand,Rand West City,DsAccessToPipedWaters
+Census 2022,Municipality,Rand West City,Piped (tap) water inside the yard,17.2,Gauteng,West Rand,Rand West City,DsAccessToPipedWaters
+Census 2022,Municipality,Rand West City,Piped (tap) water on community stand,2.3,Gauteng,West Rand,Rand West City,DsAccessToPipedWaters
+Census 2022,Municipality,Rand West City,No access to piped water,0.8,Gauteng,West Rand,Rand West City,DsAccessToPipedWaters
+Census 2022,Municipality,Dannhauser,Piped (tap) water inside the dwelling,25.4,KwaZulu-Natal,Amajuba,Dannhauser,DsAccessToPipedWaters
+Census 2022,Municipality,Dannhauser,Piped (tap) water inside the yard,43.7,KwaZulu-Natal,Amajuba,Dannhauser,DsAccessToPipedWaters
+Census 2022,Municipality,Dannhauser,Piped (tap) water on community stand,16.6,KwaZulu-Natal,Amajuba,Dannhauser,DsAccessToPipedWaters
+Census 2022,Municipality,Dannhauser,No access to piped water,14.4,KwaZulu-Natal,Amajuba,Dannhauser,DsAccessToPipedWaters
+Census 2022,Municipality,Emadlangeni,Piped (tap) water inside the dwelling,43.7,KwaZulu-Natal,Amajuba,Emadlangeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emadlangeni,Piped (tap) water inside the yard,22.5,KwaZulu-Natal,Amajuba,Emadlangeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emadlangeni,Piped (tap) water on community stand,9.5,KwaZulu-Natal,Amajuba,Emadlangeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emadlangeni,No access to piped water,24.3,KwaZulu-Natal,Amajuba,Emadlangeni,DsAccessToPipedWaters
+Census 2022,Municipality,Newcastle,Piped (tap) water inside the dwelling,58.2,KwaZulu-Natal,Amajuba,Newcastle,DsAccessToPipedWaters
+Census 2022,Municipality,Newcastle,Piped (tap) water inside the yard,37.6,KwaZulu-Natal,Amajuba,Newcastle,DsAccessToPipedWaters
+Census 2022,Municipality,Newcastle,Piped (tap) water on community stand,2.4,KwaZulu-Natal,Amajuba,Newcastle,DsAccessToPipedWaters
+Census 2022,Municipality,Newcastle,No access to piped water,1.8,KwaZulu-Natal,Amajuba,Newcastle,DsAccessToPipedWaters
+Census 2022,Municipality,eThekwini,Piped (tap) water inside the dwelling,69.8,KwaZulu-Natal,eThekwini,eThekwini,DsAccessToPipedWaters
+Census 2022,Municipality,eThekwini,Piped (tap) water inside the yard,19.7,KwaZulu-Natal,eThekwini,eThekwini,DsAccessToPipedWaters
+Census 2022,Municipality,eThekwini,Piped (tap) water on community stand,7.2,KwaZulu-Natal,eThekwini,eThekwini,DsAccessToPipedWaters
+Census 2022,Municipality,eThekwini,No access to piped water,3.4,KwaZulu-Natal,eThekwini,eThekwini,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Piped (tap) water inside the dwelling,26.2,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Piped (tap) water inside the yard,23.9,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Piped (tap) water on community stand,18.0,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,No access to piped water,31.9,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Kokstad,Piped (tap) water inside the dwelling,55.5,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Kokstad,Piped (tap) water inside the yard,29.4,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Kokstad,Piped (tap) water on community stand,11.3,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Kokstad,No access to piped water,3.7,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuhlebezwe,Piped (tap) water inside the dwelling,23.3,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuhlebezwe,Piped (tap) water inside the yard,16.9,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuhlebezwe,Piped (tap) water on community stand,27.4,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuhlebezwe,No access to piped water,32.4,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimkhulu,Piped (tap) water inside the dwelling,20.5,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimkhulu,Piped (tap) water inside the yard,18.5,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimkhulu,Piped (tap) water on community stand,22.9,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzimkhulu,No access to piped water,38.1,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsAccessToPipedWaters
+Census 2022,Municipality,KwaDukuza,Piped (tap) water inside the dwelling,52.6,KwaZulu-Natal,iLembe,KwaDukuza,DsAccessToPipedWaters
+Census 2022,Municipality,KwaDukuza,Piped (tap) water inside the yard,20.2,KwaZulu-Natal,iLembe,KwaDukuza,DsAccessToPipedWaters
+Census 2022,Municipality,KwaDukuza,Piped (tap) water on community stand,23.1,KwaZulu-Natal,iLembe,KwaDukuza,DsAccessToPipedWaters
+Census 2022,Municipality,KwaDukuza,No access to piped water,4.1,KwaZulu-Natal,iLembe,KwaDukuza,DsAccessToPipedWaters
+Census 2022,Municipality,Mandeni,Piped (tap) water inside the dwelling,40.1,KwaZulu-Natal,iLembe,Mandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Mandeni,Piped (tap) water inside the yard,27.7,KwaZulu-Natal,iLembe,Mandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Mandeni,Piped (tap) water on community stand,14.5,KwaZulu-Natal,iLembe,Mandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Mandeni,No access to piped water,17.7,KwaZulu-Natal,iLembe,Mandeni,DsAccessToPipedWaters
+Census 2022,Municipality,Maphumulo,Piped (tap) water inside the dwelling,17.9,KwaZulu-Natal,iLembe,Maphumulo,DsAccessToPipedWaters
+Census 2022,Municipality,Maphumulo,Piped (tap) water inside the yard,30.5,KwaZulu-Natal,iLembe,Maphumulo,DsAccessToPipedWaters
+Census 2022,Municipality,Maphumulo,Piped (tap) water on community stand,10.5,KwaZulu-Natal,iLembe,Maphumulo,DsAccessToPipedWaters
+Census 2022,Municipality,Maphumulo,No access to piped water,41.1,KwaZulu-Natal,iLembe,Maphumulo,DsAccessToPipedWaters
+Census 2022,Municipality,Ndwedwe,Piped (tap) water inside the dwelling,21.9,KwaZulu-Natal,iLembe,Ndwedwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndwedwe,Piped (tap) water inside the yard,23.5,KwaZulu-Natal,iLembe,Ndwedwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndwedwe,Piped (tap) water on community stand,8.6,KwaZulu-Natal,iLembe,Ndwedwe,DsAccessToPipedWaters
+Census 2022,Municipality,Ndwedwe,No access to piped water,46.0,KwaZulu-Natal,iLembe,Ndwedwe,DsAccessToPipedWaters
+Census 2022,Municipality,Mfolozi,Piped (tap) water inside the dwelling,23.3,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsAccessToPipedWaters
+Census 2022,Municipality,Mfolozi,Piped (tap) water inside the yard,37.6,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsAccessToPipedWaters
+Census 2022,Municipality,Mfolozi,Piped (tap) water on community stand,11.7,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsAccessToPipedWaters
+Census 2022,Municipality,Mfolozi,No access to piped water,27.5,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsAccessToPipedWaters
+Census 2022,Municipality,Mthonjaneni,Piped (tap) water inside the dwelling,32.7,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsAccessToPipedWaters
+Census 2022,Municipality,Mthonjaneni,Piped (tap) water inside the yard,28.3,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsAccessToPipedWaters
+Census 2022,Municipality,Mthonjaneni,Piped (tap) water on community stand,20.0,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsAccessToPipedWaters
+Census 2022,Municipality,Mthonjaneni,No access to piped water,19.0,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsAccessToPipedWaters
+Census 2022,Municipality,Nkandla,Piped (tap) water inside the dwelling,17.8,KwaZulu-Natal,King Cetshwayo,Nkandla,DsAccessToPipedWaters
+Census 2022,Municipality,Nkandla,Piped (tap) water inside the yard,52.6,KwaZulu-Natal,King Cetshwayo,Nkandla,DsAccessToPipedWaters
+Census 2022,Municipality,Nkandla,Piped (tap) water on community stand,9.1,KwaZulu-Natal,King Cetshwayo,Nkandla,DsAccessToPipedWaters
+Census 2022,Municipality,Nkandla,No access to piped water,20.5,KwaZulu-Natal,King Cetshwayo,Nkandla,DsAccessToPipedWaters
+Census 2022,Municipality,uMhlathuze,Piped (tap) water inside the dwelling,58.0,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsAccessToPipedWaters
+Census 2022,Municipality,uMhlathuze,Piped (tap) water inside the yard,34.9,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsAccessToPipedWaters
+Census 2022,Municipality,uMhlathuze,Piped (tap) water on community stand,2.8,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsAccessToPipedWaters
+Census 2022,Municipality,uMhlathuze,No access to piped water,4.2,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsAccessToPipedWaters
+Census 2022,Municipality,uMlalazi,Piped (tap) water inside the dwelling,31.3,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsAccessToPipedWaters
+Census 2022,Municipality,uMlalazi,Piped (tap) water inside the yard,30.7,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsAccessToPipedWaters
+Census 2022,Municipality,uMlalazi,Piped (tap) water on community stand,14.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsAccessToPipedWaters
+Census 2022,Municipality,uMlalazi,No access to piped water,23.1,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsAccessToPipedWaters
+Census 2022,Municipality,Ray Nkonyeni,Piped (tap) water inside the dwelling,42.5,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsAccessToPipedWaters
+Census 2022,Municipality,Ray Nkonyeni,Piped (tap) water inside the yard,21.2,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsAccessToPipedWaters
+Census 2022,Municipality,Ray Nkonyeni,Piped (tap) water on community stand,27.7,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsAccessToPipedWaters
+Census 2022,Municipality,Ray Nkonyeni,No access to piped water,8.5,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsAccessToPipedWaters
+Census 2022,Municipality,Umdoni,Piped (tap) water inside the dwelling,41.5,KwaZulu-Natal,Ugu,Umdoni,DsAccessToPipedWaters
+Census 2022,Municipality,Umdoni,Piped (tap) water inside the yard,15.2,KwaZulu-Natal,Ugu,Umdoni,DsAccessToPipedWaters
+Census 2022,Municipality,Umdoni,Piped (tap) water on community stand,18.1,KwaZulu-Natal,Ugu,Umdoni,DsAccessToPipedWaters
+Census 2022,Municipality,Umdoni,No access to piped water,25.2,KwaZulu-Natal,Ugu,Umdoni,DsAccessToPipedWaters
+Census 2022,Municipality,uMuziwabantu,Piped (tap) water inside the dwelling,23.3,KwaZulu-Natal,Ugu,uMuziwabantu,DsAccessToPipedWaters
+Census 2022,Municipality,uMuziwabantu,Piped (tap) water inside the yard,7.5,KwaZulu-Natal,Ugu,uMuziwabantu,DsAccessToPipedWaters
+Census 2022,Municipality,uMuziwabantu,Piped (tap) water on community stand,44.5,KwaZulu-Natal,Ugu,uMuziwabantu,DsAccessToPipedWaters
+Census 2022,Municipality,uMuziwabantu,No access to piped water,24.8,KwaZulu-Natal,Ugu,uMuziwabantu,DsAccessToPipedWaters
+Census 2022,Municipality,Umzumbe,Piped (tap) water inside the dwelling,21.0,KwaZulu-Natal,Ugu,Umzumbe,DsAccessToPipedWaters
+Census 2022,Municipality,Umzumbe,Piped (tap) water inside the yard,27.2,KwaZulu-Natal,Ugu,Umzumbe,DsAccessToPipedWaters
+Census 2022,Municipality,Umzumbe,Piped (tap) water on community stand,24.7,KwaZulu-Natal,Ugu,Umzumbe,DsAccessToPipedWaters
+Census 2022,Municipality,Umzumbe,No access to piped water,27.1,KwaZulu-Natal,Ugu,Umzumbe,DsAccessToPipedWaters
+Census 2022,Municipality,Impendle,Piped (tap) water inside the dwelling,18.1,KwaZulu-Natal,Umgungundlovu,Impendle,DsAccessToPipedWaters
+Census 2022,Municipality,Impendle,Piped (tap) water inside the yard,46.6,KwaZulu-Natal,Umgungundlovu,Impendle,DsAccessToPipedWaters
+Census 2022,Municipality,Impendle,Piped (tap) water on community stand,23.1,KwaZulu-Natal,Umgungundlovu,Impendle,DsAccessToPipedWaters
+Census 2022,Municipality,Impendle,No access to piped water,12.2,KwaZulu-Natal,Umgungundlovu,Impendle,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhambathini,Piped (tap) water inside the dwelling,23.8,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhambathini,Piped (tap) water inside the yard,41.8,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhambathini,Piped (tap) water on community stand,11.1,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhambathini,No access to piped water,23.3,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsAccessToPipedWaters
+Census 2022,Municipality,Mpofana,Piped (tap) water inside the dwelling,59.9,KwaZulu-Natal,Umgungundlovu,Mpofana,DsAccessToPipedWaters
+Census 2022,Municipality,Mpofana,Piped (tap) water inside the yard,20.6,KwaZulu-Natal,Umgungundlovu,Mpofana,DsAccessToPipedWaters
+Census 2022,Municipality,Mpofana,Piped (tap) water on community stand,5.6,KwaZulu-Natal,Umgungundlovu,Mpofana,DsAccessToPipedWaters
+Census 2022,Municipality,Mpofana,No access to piped water,13.9,KwaZulu-Natal,Umgungundlovu,Mpofana,DsAccessToPipedWaters
+Census 2022,Municipality,Richmond,Piped (tap) water inside the dwelling,24.0,KwaZulu-Natal,Umgungundlovu,Richmond,DsAccessToPipedWaters
+Census 2022,Municipality,Richmond,Piped (tap) water inside the yard,47.0,KwaZulu-Natal,Umgungundlovu,Richmond,DsAccessToPipedWaters
+Census 2022,Municipality,Richmond,Piped (tap) water on community stand,22.2,KwaZulu-Natal,Umgungundlovu,Richmond,DsAccessToPipedWaters
+Census 2022,Municipality,Richmond,No access to piped water,6.8,KwaZulu-Natal,Umgungundlovu,Richmond,DsAccessToPipedWaters
+Census 2022,Municipality,The Msunduzi,Piped (tap) water inside the dwelling,54.5,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsAccessToPipedWaters
+Census 2022,Municipality,The Msunduzi,Piped (tap) water inside the yard,36.7,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsAccessToPipedWaters
+Census 2022,Municipality,The Msunduzi,Piped (tap) water on community stand,4.5,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsAccessToPipedWaters
+Census 2022,Municipality,The Msunduzi,No access to piped water,4.3,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsAccessToPipedWaters
+Census 2022,Municipality,uMngeni,Piped (tap) water inside the dwelling,76.4,KwaZulu-Natal,Umgungundlovu,uMngeni,DsAccessToPipedWaters
+Census 2022,Municipality,uMngeni,Piped (tap) water inside the yard,13.1,KwaZulu-Natal,Umgungundlovu,uMngeni,DsAccessToPipedWaters
+Census 2022,Municipality,uMngeni,Piped (tap) water on community stand,4.5,KwaZulu-Natal,Umgungundlovu,uMngeni,DsAccessToPipedWaters
+Census 2022,Municipality,uMngeni,No access to piped water,6.0,KwaZulu-Natal,Umgungundlovu,uMngeni,DsAccessToPipedWaters
+Census 2022,Municipality,uMshwathi,Piped (tap) water inside the dwelling,29.4,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsAccessToPipedWaters
+Census 2022,Municipality,uMshwathi,Piped (tap) water inside the yard,42.8,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsAccessToPipedWaters
+Census 2022,Municipality,uMshwathi,Piped (tap) water on community stand,12.3,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsAccessToPipedWaters
+Census 2022,Municipality,uMshwathi,No access to piped water,15.5,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsAccessToPipedWaters
+Census 2022,Municipality,Big Five Hlabisa,Piped (tap) water inside the dwelling,20.0,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsAccessToPipedWaters
+Census 2022,Municipality,Big Five Hlabisa,Piped (tap) water inside the yard,20.9,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsAccessToPipedWaters
+Census 2022,Municipality,Big Five Hlabisa,Piped (tap) water on community stand,7.5,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsAccessToPipedWaters
+Census 2022,Municipality,Big Five Hlabisa,No access to piped water,51.5,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsAccessToPipedWaters
+Census 2022,Municipality,Jozini,Piped (tap) water inside the dwelling,21.2,KwaZulu-Natal,Umkhanyakude,Jozini,DsAccessToPipedWaters
+Census 2022,Municipality,Jozini,Piped (tap) water inside the yard,28.0,KwaZulu-Natal,Umkhanyakude,Jozini,DsAccessToPipedWaters
+Census 2022,Municipality,Jozini,Piped (tap) water on community stand,5.8,KwaZulu-Natal,Umkhanyakude,Jozini,DsAccessToPipedWaters
+Census 2022,Municipality,Jozini,No access to piped water,45.0,KwaZulu-Natal,Umkhanyakude,Jozini,DsAccessToPipedWaters
+Census 2022,Municipality,Mtubatuba,Piped (tap) water inside the dwelling,29.3,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsAccessToPipedWaters
+Census 2022,Municipality,Mtubatuba,Piped (tap) water inside the yard,23.1,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsAccessToPipedWaters
+Census 2022,Municipality,Mtubatuba,Piped (tap) water on community stand,9.7,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsAccessToPipedWaters
+Census 2022,Municipality,Mtubatuba,No access to piped water,37.8,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsAccessToPipedWaters
+Census 2022,Municipality,Umhlabuyalingana,Piped (tap) water inside the dwelling,26.5,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsAccessToPipedWaters
+Census 2022,Municipality,Umhlabuyalingana,Piped (tap) water inside the yard,28.1,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsAccessToPipedWaters
+Census 2022,Municipality,Umhlabuyalingana,Piped (tap) water on community stand,10.8,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsAccessToPipedWaters
+Census 2022,Municipality,Umhlabuyalingana,No access to piped water,34.6,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsAccessToPipedWaters
+Census 2022,Municipality,Endumeni,Piped (tap) water inside the dwelling,60.4,KwaZulu-Natal,Umzinyathi,Endumeni,DsAccessToPipedWaters
+Census 2022,Municipality,Endumeni,Piped (tap) water inside the yard,26.8,KwaZulu-Natal,Umzinyathi,Endumeni,DsAccessToPipedWaters
+Census 2022,Municipality,Endumeni,Piped (tap) water on community stand,3.7,KwaZulu-Natal,Umzinyathi,Endumeni,DsAccessToPipedWaters
+Census 2022,Municipality,Endumeni,No access to piped water,9.1,KwaZulu-Natal,Umzinyathi,Endumeni,DsAccessToPipedWaters
+Census 2022,Municipality,Msinga,Piped (tap) water inside the dwelling,12.6,KwaZulu-Natal,Umzinyathi,Msinga,DsAccessToPipedWaters
+Census 2022,Municipality,Msinga,Piped (tap) water inside the yard,9.8,KwaZulu-Natal,Umzinyathi,Msinga,DsAccessToPipedWaters
+Census 2022,Municipality,Msinga,Piped (tap) water on community stand,19.6,KwaZulu-Natal,Umzinyathi,Msinga,DsAccessToPipedWaters
+Census 2022,Municipality,Msinga,No access to piped water,57.9,KwaZulu-Natal,Umzinyathi,Msinga,DsAccessToPipedWaters
+Census 2022,Municipality,Nqutu,Piped (tap) water inside the dwelling,20.4,KwaZulu-Natal,Umzinyathi,Nqutu,DsAccessToPipedWaters
+Census 2022,Municipality,Nqutu,Piped (tap) water inside the yard,27.8,KwaZulu-Natal,Umzinyathi,Nqutu,DsAccessToPipedWaters
+Census 2022,Municipality,Nqutu,Piped (tap) water on community stand,21.5,KwaZulu-Natal,Umzinyathi,Nqutu,DsAccessToPipedWaters
+Census 2022,Municipality,Nqutu,No access to piped water,30.2,KwaZulu-Natal,Umzinyathi,Nqutu,DsAccessToPipedWaters
+Census 2022,Municipality,Umvoti,Piped (tap) water inside the dwelling,37.4,KwaZulu-Natal,Umzinyathi,Umvoti,DsAccessToPipedWaters
+Census 2022,Municipality,Umvoti,Piped (tap) water inside the yard,16.2,KwaZulu-Natal,Umzinyathi,Umvoti,DsAccessToPipedWaters
+Census 2022,Municipality,Umvoti,Piped (tap) water on community stand,13.7,KwaZulu-Natal,Umzinyathi,Umvoti,DsAccessToPipedWaters
+Census 2022,Municipality,Umvoti,No access to piped water,32.7,KwaZulu-Natal,Umzinyathi,Umvoti,DsAccessToPipedWaters
+Census 2022,Municipality,Alfred Duma,Piped (tap) water inside the dwelling,50.5,KwaZulu-Natal,Uthukela,Alfred Duma,DsAccessToPipedWaters
+Census 2022,Municipality,Alfred Duma,Piped (tap) water inside the yard,25.1,KwaZulu-Natal,Uthukela,Alfred Duma,DsAccessToPipedWaters
+Census 2022,Municipality,Alfred Duma,Piped (tap) water on community stand,12.3,KwaZulu-Natal,Uthukela,Alfred Duma,DsAccessToPipedWaters
+Census 2022,Municipality,Alfred Duma,No access to piped water,12.1,KwaZulu-Natal,Uthukela,Alfred Duma,DsAccessToPipedWaters
+Census 2022,Municipality,Inkosi Langalibalele,Piped (tap) water inside the dwelling,31.1,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsAccessToPipedWaters
+Census 2022,Municipality,Inkosi Langalibalele,Piped (tap) water inside the yard,31.1,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsAccessToPipedWaters
+Census 2022,Municipality,Inkosi Langalibalele,Piped (tap) water on community stand,18.0,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsAccessToPipedWaters
+Census 2022,Municipality,Inkosi Langalibalele,No access to piped water,19.8,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsAccessToPipedWaters
+Census 2022,Municipality,Okhahlamba,Piped (tap) water inside the dwelling,24.7,KwaZulu-Natal,Uthukela,Okhahlamba,DsAccessToPipedWaters
+Census 2022,Municipality,Okhahlamba,Piped (tap) water inside the yard,27.4,KwaZulu-Natal,Uthukela,Okhahlamba,DsAccessToPipedWaters
+Census 2022,Municipality,Okhahlamba,Piped (tap) water on community stand,21.3,KwaZulu-Natal,Uthukela,Okhahlamba,DsAccessToPipedWaters
+Census 2022,Municipality,Okhahlamba,No access to piped water,26.5,KwaZulu-Natal,Uthukela,Okhahlamba,DsAccessToPipedWaters
+Census 2022,Municipality,Abaqulusi,Piped (tap) water inside the dwelling,46.4,KwaZulu-Natal,Zululand,Abaqulusi,DsAccessToPipedWaters
+Census 2022,Municipality,Abaqulusi,Piped (tap) water inside the yard,30.4,KwaZulu-Natal,Zululand,Abaqulusi,DsAccessToPipedWaters
+Census 2022,Municipality,Abaqulusi,Piped (tap) water on community stand,7.7,KwaZulu-Natal,Zululand,Abaqulusi,DsAccessToPipedWaters
+Census 2022,Municipality,Abaqulusi,No access to piped water,15.5,KwaZulu-Natal,Zululand,Abaqulusi,DsAccessToPipedWaters
+Census 2022,Municipality,eDumbe,Piped (tap) water inside the dwelling,24.4,KwaZulu-Natal,Zululand,eDumbe,DsAccessToPipedWaters
+Census 2022,Municipality,eDumbe,Piped (tap) water inside the yard,51.4,KwaZulu-Natal,Zululand,eDumbe,DsAccessToPipedWaters
+Census 2022,Municipality,eDumbe,Piped (tap) water on community stand,9.6,KwaZulu-Natal,Zululand,eDumbe,DsAccessToPipedWaters
+Census 2022,Municipality,eDumbe,No access to piped water,14.6,KwaZulu-Natal,Zululand,eDumbe,DsAccessToPipedWaters
+Census 2022,Municipality,Nongoma,Piped (tap) water inside the dwelling,20.1,KwaZulu-Natal,Zululand,Nongoma,DsAccessToPipedWaters
+Census 2022,Municipality,Nongoma,Piped (tap) water inside the yard,21.5,KwaZulu-Natal,Zululand,Nongoma,DsAccessToPipedWaters
+Census 2022,Municipality,Nongoma,Piped (tap) water on community stand,14.5,KwaZulu-Natal,Zululand,Nongoma,DsAccessToPipedWaters
+Census 2022,Municipality,Nongoma,No access to piped water,43.9,KwaZulu-Natal,Zululand,Nongoma,DsAccessToPipedWaters
+Census 2022,Municipality,Ulundi,Piped (tap) water inside the dwelling,39.8,KwaZulu-Natal,Zululand,Ulundi,DsAccessToPipedWaters
+Census 2022,Municipality,Ulundi,Piped (tap) water inside the yard,34.3,KwaZulu-Natal,Zululand,Ulundi,DsAccessToPipedWaters
+Census 2022,Municipality,Ulundi,Piped (tap) water on community stand,5.3,KwaZulu-Natal,Zululand,Ulundi,DsAccessToPipedWaters
+Census 2022,Municipality,Ulundi,No access to piped water,20.6,KwaZulu-Natal,Zululand,Ulundi,DsAccessToPipedWaters
+Census 2022,Municipality,uPhongolo,Piped (tap) water inside the dwelling,32.0,KwaZulu-Natal,Zululand,uPhongolo,DsAccessToPipedWaters
+Census 2022,Municipality,uPhongolo,Piped (tap) water inside the yard,39.9,KwaZulu-Natal,Zululand,uPhongolo,DsAccessToPipedWaters
+Census 2022,Municipality,uPhongolo,Piped (tap) water on community stand,7.9,KwaZulu-Natal,Zululand,uPhongolo,DsAccessToPipedWaters
+Census 2022,Municipality,uPhongolo,No access to piped water,20.2,KwaZulu-Natal,Zululand,uPhongolo,DsAccessToPipedWaters
+Census 2022,Municipality,Blouberg,Piped (tap) water inside the dwelling,32.7,Limpopo,Capricorn,Blouberg,DsAccessToPipedWaters
+Census 2022,Municipality,Blouberg,Piped (tap) water inside the yard,31.7,Limpopo,Capricorn,Blouberg,DsAccessToPipedWaters
+Census 2022,Municipality,Blouberg,Piped (tap) water on community stand,26.5,Limpopo,Capricorn,Blouberg,DsAccessToPipedWaters
+Census 2022,Municipality,Blouberg,No access to piped water,9.0,Limpopo,Capricorn,Blouberg,DsAccessToPipedWaters
+Census 2022,Municipality,Lepele-Nkumpi,Piped (tap) water inside the dwelling,36.7,Limpopo,Capricorn,Lepele-Nkumpi,DsAccessToPipedWaters
+Census 2022,Municipality,Lepele-Nkumpi,Piped (tap) water inside the yard,33.5,Limpopo,Capricorn,Lepele-Nkumpi,DsAccessToPipedWaters
+Census 2022,Municipality,Lepele-Nkumpi,Piped (tap) water on community stand,10.7,Limpopo,Capricorn,Lepele-Nkumpi,DsAccessToPipedWaters
+Census 2022,Municipality,Lepele-Nkumpi,No access to piped water,19.1,Limpopo,Capricorn,Lepele-Nkumpi,DsAccessToPipedWaters
+Census 2022,Municipality,Molemole,Piped (tap) water inside the dwelling,29.1,Limpopo,Capricorn,Molemole,DsAccessToPipedWaters
+Census 2022,Municipality,Molemole,Piped (tap) water inside the yard,41.3,Limpopo,Capricorn,Molemole,DsAccessToPipedWaters
+Census 2022,Municipality,Molemole,Piped (tap) water on community stand,12.7,Limpopo,Capricorn,Molemole,DsAccessToPipedWaters
+Census 2022,Municipality,Molemole,No access to piped water,16.9,Limpopo,Capricorn,Molemole,DsAccessToPipedWaters
+Census 2022,Municipality,Polokwane,Piped (tap) water inside the dwelling,41.4,Limpopo,Capricorn,Polokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Polokwane,Piped (tap) water inside the yard,37.5,Limpopo,Capricorn,Polokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Polokwane,Piped (tap) water on community stand,10.3,Limpopo,Capricorn,Polokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Polokwane,No access to piped water,10.9,Limpopo,Capricorn,Polokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Ba-Phalaborwa,Piped (tap) water inside the dwelling,41.0,Limpopo,Mopani,Ba-Phalaborwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ba-Phalaborwa,Piped (tap) water inside the yard,33.5,Limpopo,Mopani,Ba-Phalaborwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ba-Phalaborwa,Piped (tap) water on community stand,10.3,Limpopo,Mopani,Ba-Phalaborwa,DsAccessToPipedWaters
+Census 2022,Municipality,Ba-Phalaborwa,No access to piped water,15.1,Limpopo,Mopani,Ba-Phalaborwa,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Giyani,Piped (tap) water inside the dwelling,24.3,Limpopo,Mopani,Greater Giyani,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Giyani,Piped (tap) water inside the yard,22.9,Limpopo,Mopani,Greater Giyani,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Giyani,Piped (tap) water on community stand,29.8,Limpopo,Mopani,Greater Giyani,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Giyani,No access to piped water,23.0,Limpopo,Mopani,Greater Giyani,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Letaba,Piped (tap) water inside the dwelling,20.7,Limpopo,Mopani,Greater Letaba,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Letaba,Piped (tap) water inside the yard,29.2,Limpopo,Mopani,Greater Letaba,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Letaba,Piped (tap) water on community stand,35.1,Limpopo,Mopani,Greater Letaba,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Letaba,No access to piped water,15.0,Limpopo,Mopani,Greater Letaba,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Tzaneen,Piped (tap) water inside the dwelling,27.1,Limpopo,Mopani,Greater Tzaneen,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Tzaneen,Piped (tap) water inside the yard,23.0,Limpopo,Mopani,Greater Tzaneen,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Tzaneen,Piped (tap) water on community stand,20.2,Limpopo,Mopani,Greater Tzaneen,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Tzaneen,No access to piped water,29.6,Limpopo,Mopani,Greater Tzaneen,DsAccessToPipedWaters
+Census 2022,Municipality,Maruleng,Piped (tap) water inside the dwelling,30.4,Limpopo,Mopani,Maruleng,DsAccessToPipedWaters
+Census 2022,Municipality,Maruleng,Piped (tap) water inside the yard,26.6,Limpopo,Mopani,Maruleng,DsAccessToPipedWaters
+Census 2022,Municipality,Maruleng,Piped (tap) water on community stand,20.9,Limpopo,Mopani,Maruleng,DsAccessToPipedWaters
+Census 2022,Municipality,Maruleng,No access to piped water,22.2,Limpopo,Mopani,Maruleng,DsAccessToPipedWaters
+Census 2022,Municipality,Elias Motsoaledi,Piped (tap) water inside the dwelling,31.1,Limpopo,Sekhukhune,Elias Motsoaledi,DsAccessToPipedWaters
+Census 2022,Municipality,Elias Motsoaledi,Piped (tap) water inside the yard,18.4,Limpopo,Sekhukhune,Elias Motsoaledi,DsAccessToPipedWaters
+Census 2022,Municipality,Elias Motsoaledi,Piped (tap) water on community stand,13.9,Limpopo,Sekhukhune,Elias Motsoaledi,DsAccessToPipedWaters
+Census 2022,Municipality,Elias Motsoaledi,No access to piped water,36.7,Limpopo,Sekhukhune,Elias Motsoaledi,DsAccessToPipedWaters
+Census 2022,Municipality,Ephraim Mogale,Piped (tap) water inside the dwelling,28.2,Limpopo,Sekhukhune,Ephraim Mogale,DsAccessToPipedWaters
+Census 2022,Municipality,Ephraim Mogale,Piped (tap) water inside the yard,32.5,Limpopo,Sekhukhune,Ephraim Mogale,DsAccessToPipedWaters
+Census 2022,Municipality,Ephraim Mogale,Piped (tap) water on community stand,5.6,Limpopo,Sekhukhune,Ephraim Mogale,DsAccessToPipedWaters
+Census 2022,Municipality,Ephraim Mogale,No access to piped water,33.7,Limpopo,Sekhukhune,Ephraim Mogale,DsAccessToPipedWaters
+Census 2022,Municipality,Fetakgomo Tubatse,Piped (tap) water inside the dwelling,24.2,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsAccessToPipedWaters
+Census 2022,Municipality,Fetakgomo Tubatse,Piped (tap) water inside the yard,21.8,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsAccessToPipedWaters
+Census 2022,Municipality,Fetakgomo Tubatse,Piped (tap) water on community stand,19.6,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsAccessToPipedWaters
+Census 2022,Municipality,Fetakgomo Tubatse,No access to piped water,34.4,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsAccessToPipedWaters
+Census 2022,Municipality,Makhuduthamaga,Piped (tap) water inside the dwelling,18.9,Limpopo,Sekhukhune,Makhuduthamaga,DsAccessToPipedWaters
+Census 2022,Municipality,Makhuduthamaga,Piped (tap) water inside the yard,22.2,Limpopo,Sekhukhune,Makhuduthamaga,DsAccessToPipedWaters
+Census 2022,Municipality,Makhuduthamaga,Piped (tap) water on community stand,28.8,Limpopo,Sekhukhune,Makhuduthamaga,DsAccessToPipedWaters
+Census 2022,Municipality,Makhuduthamaga,No access to piped water,30.1,Limpopo,Sekhukhune,Makhuduthamaga,DsAccessToPipedWaters
+Census 2022,Municipality,Collins Chabane,Piped (tap) water inside the dwelling,18.8,Limpopo,Vhembe,Collins Chabane,DsAccessToPipedWaters
+Census 2022,Municipality,Collins Chabane,Piped (tap) water inside the yard,34.4,Limpopo,Vhembe,Collins Chabane,DsAccessToPipedWaters
+Census 2022,Municipality,Collins Chabane,Piped (tap) water on community stand,25.3,Limpopo,Vhembe,Collins Chabane,DsAccessToPipedWaters
+Census 2022,Municipality,Collins Chabane,No access to piped water,21.5,Limpopo,Vhembe,Collins Chabane,DsAccessToPipedWaters
+Census 2022,Municipality,Makhado,Piped (tap) water inside the dwelling,26.0,Limpopo,Vhembe,Makhado,DsAccessToPipedWaters
+Census 2022,Municipality,Makhado,Piped (tap) water inside the yard,27.0,Limpopo,Vhembe,Makhado,DsAccessToPipedWaters
+Census 2022,Municipality,Makhado,Piped (tap) water on community stand,18.7,Limpopo,Vhembe,Makhado,DsAccessToPipedWaters
+Census 2022,Municipality,Makhado,No access to piped water,28.3,Limpopo,Vhembe,Makhado,DsAccessToPipedWaters
+Census 2022,Municipality,Musina,Piped (tap) water inside the dwelling,35.1,Limpopo,Vhembe,Musina,DsAccessToPipedWaters
+Census 2022,Municipality,Musina,Piped (tap) water inside the yard,30.9,Limpopo,Vhembe,Musina,DsAccessToPipedWaters
+Census 2022,Municipality,Musina,Piped (tap) water on community stand,25.0,Limpopo,Vhembe,Musina,DsAccessToPipedWaters
+Census 2022,Municipality,Musina,No access to piped water,9.0,Limpopo,Vhembe,Musina,DsAccessToPipedWaters
+Census 2022,Municipality,Thulamela,Piped (tap) water inside the dwelling,26.0,Limpopo,Vhembe,Thulamela,DsAccessToPipedWaters
+Census 2022,Municipality,Thulamela,Piped (tap) water inside the yard,33.7,Limpopo,Vhembe,Thulamela,DsAccessToPipedWaters
+Census 2022,Municipality,Thulamela,Piped (tap) water on community stand,22.1,Limpopo,Vhembe,Thulamela,DsAccessToPipedWaters
+Census 2022,Municipality,Thulamela,No access to piped water,18.2,Limpopo,Vhembe,Thulamela,DsAccessToPipedWaters
+Census 2022,Municipality,Bela-Bela,Piped (tap) water inside the dwelling,55.4,Limpopo,Waterberg,Bela-Bela,DsAccessToPipedWaters
+Census 2022,Municipality,Bela-Bela,Piped (tap) water inside the yard,31.0,Limpopo,Waterberg,Bela-Bela,DsAccessToPipedWaters
+Census 2022,Municipality,Bela-Bela,Piped (tap) water on community stand,4.6,Limpopo,Waterberg,Bela-Bela,DsAccessToPipedWaters
+Census 2022,Municipality,Bela-Bela,No access to piped water,9.0,Limpopo,Waterberg,Bela-Bela,DsAccessToPipedWaters
+Census 2022,Municipality,Lephalale,Piped (tap) water inside the dwelling,43.6,Limpopo,Waterberg,Lephalale,DsAccessToPipedWaters
+Census 2022,Municipality,Lephalale,Piped (tap) water inside the yard,27.4,Limpopo,Waterberg,Lephalale,DsAccessToPipedWaters
+Census 2022,Municipality,Lephalale,Piped (tap) water on community stand,17.3,Limpopo,Waterberg,Lephalale,DsAccessToPipedWaters
+Census 2022,Municipality,Lephalale,No access to piped water,11.7,Limpopo,Waterberg,Lephalale,DsAccessToPipedWaters
+Census 2022,Municipality,Modimolle-Mookgophong,Piped (tap) water inside the dwelling,52.1,Limpopo,Waterberg,Modimolle-Mookgophong,DsAccessToPipedWaters
+Census 2022,Municipality,Modimolle-Mookgophong,Piped (tap) water inside the yard,31.2,Limpopo,Waterberg,Modimolle-Mookgophong,DsAccessToPipedWaters
+Census 2022,Municipality,Modimolle-Mookgophong,Piped (tap) water on community stand,8.5,Limpopo,Waterberg,Modimolle-Mookgophong,DsAccessToPipedWaters
+Census 2022,Municipality,Modimolle-Mookgophong,No access to piped water,8.2,Limpopo,Waterberg,Modimolle-Mookgophong,DsAccessToPipedWaters
+Census 2022,Municipality,Mogalakwena,Piped (tap) water inside the dwelling,36.2,Limpopo,Waterberg,Mogalakwena,DsAccessToPipedWaters
+Census 2022,Municipality,Mogalakwena,Piped (tap) water inside the yard,35.6,Limpopo,Waterberg,Mogalakwena,DsAccessToPipedWaters
+Census 2022,Municipality,Mogalakwena,Piped (tap) water on community stand,14.1,Limpopo,Waterberg,Mogalakwena,DsAccessToPipedWaters
+Census 2022,Municipality,Mogalakwena,No access to piped water,14.1,Limpopo,Waterberg,Mogalakwena,DsAccessToPipedWaters
+Census 2022,Municipality,Thabazimbi,Piped (tap) water inside the dwelling,59.7,Limpopo,Waterberg,Thabazimbi,DsAccessToPipedWaters
+Census 2022,Municipality,Thabazimbi,Piped (tap) water inside the yard,21.0,Limpopo,Waterberg,Thabazimbi,DsAccessToPipedWaters
+Census 2022,Municipality,Thabazimbi,Piped (tap) water on community stand,13.0,Limpopo,Waterberg,Thabazimbi,DsAccessToPipedWaters
+Census 2022,Municipality,Thabazimbi,No access to piped water,6.4,Limpopo,Waterberg,Thabazimbi,DsAccessToPipedWaters
+Census 2022,Municipality,Bushbuckridge,Piped (tap) water inside the dwelling,25.9,Mpumalanga,Ehlanzeni,Bushbuckridge,DsAccessToPipedWaters
+Census 2022,Municipality,Bushbuckridge,Piped (tap) water inside the yard,46.9,Mpumalanga,Ehlanzeni,Bushbuckridge,DsAccessToPipedWaters
+Census 2022,Municipality,Bushbuckridge,Piped (tap) water on community stand,16.0,Mpumalanga,Ehlanzeni,Bushbuckridge,DsAccessToPipedWaters
+Census 2022,Municipality,Bushbuckridge,No access to piped water,11.2,Mpumalanga,Ehlanzeni,Bushbuckridge,DsAccessToPipedWaters
+Census 2022,Municipality,City of Mbombela,Piped (tap) water inside the dwelling,41.6,Mpumalanga,Ehlanzeni,City of Mbombela,DsAccessToPipedWaters
+Census 2022,Municipality,City of Mbombela,Piped (tap) water inside the yard,25.1,Mpumalanga,Ehlanzeni,City of Mbombela,DsAccessToPipedWaters
+Census 2022,Municipality,City of Mbombela,Piped (tap) water on community stand,7.6,Mpumalanga,Ehlanzeni,City of Mbombela,DsAccessToPipedWaters
+Census 2022,Municipality,City of Mbombela,No access to piped water,25.6,Mpumalanga,Ehlanzeni,City of Mbombela,DsAccessToPipedWaters
+Census 2022,Municipality,Nkomazi,Piped (tap) water inside the dwelling,29.5,Mpumalanga,Ehlanzeni,Nkomazi,DsAccessToPipedWaters
+Census 2022,Municipality,Nkomazi,Piped (tap) water inside the yard,41.2,Mpumalanga,Ehlanzeni,Nkomazi,DsAccessToPipedWaters
+Census 2022,Municipality,Nkomazi,Piped (tap) water on community stand,8.7,Mpumalanga,Ehlanzeni,Nkomazi,DsAccessToPipedWaters
+Census 2022,Municipality,Nkomazi,No access to piped water,20.6,Mpumalanga,Ehlanzeni,Nkomazi,DsAccessToPipedWaters
+Census 2022,Municipality,Thaba Chweu,Piped (tap) water inside the dwelling,56.3,Mpumalanga,Ehlanzeni,Thaba Chweu,DsAccessToPipedWaters
+Census 2022,Municipality,Thaba Chweu,Piped (tap) water inside the yard,28.5,Mpumalanga,Ehlanzeni,Thaba Chweu,DsAccessToPipedWaters
+Census 2022,Municipality,Thaba Chweu,Piped (tap) water on community stand,8.6,Mpumalanga,Ehlanzeni,Thaba Chweu,DsAccessToPipedWaters
+Census 2022,Municipality,Thaba Chweu,No access to piped water,6.7,Mpumalanga,Ehlanzeni,Thaba Chweu,DsAccessToPipedWaters
+Census 2022,Municipality,Chief Albert Luthuli,Piped (tap) water inside the dwelling,35.1,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsAccessToPipedWaters
+Census 2022,Municipality,Chief Albert Luthuli,Piped (tap) water inside the yard,48.1,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsAccessToPipedWaters
+Census 2022,Municipality,Chief Albert Luthuli,Piped (tap) water on community stand,5.0,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsAccessToPipedWaters
+Census 2022,Municipality,Chief Albert Luthuli,No access to piped water,11.9,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsAccessToPipedWaters
+Census 2022,Municipality,Dipaleseng,Piped (tap) water inside the dwelling,64.9,Mpumalanga,Gert Sibande,Dipaleseng,DsAccessToPipedWaters
+Census 2022,Municipality,Dipaleseng,Piped (tap) water inside the yard,25.6,Mpumalanga,Gert Sibande,Dipaleseng,DsAccessToPipedWaters
+Census 2022,Municipality,Dipaleseng,Piped (tap) water on community stand,6.6,Mpumalanga,Gert Sibande,Dipaleseng,DsAccessToPipedWaters
+Census 2022,Municipality,Dipaleseng,No access to piped water,2.9,Mpumalanga,Gert Sibande,Dipaleseng,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Piped (tap) water inside the dwelling,57.6,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Piped (tap) water inside the yard,34.5,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Piped (tap) water on community stand,2.9,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsAccessToPipedWaters
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,No access to piped water,5.0,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsAccessToPipedWaters
+Census 2022,Municipality,Govan Mbeki,Piped (tap) water inside the dwelling,66.4,Mpumalanga,Gert Sibande,Govan Mbeki,DsAccessToPipedWaters
+Census 2022,Municipality,Govan Mbeki,Piped (tap) water inside the yard,27.8,Mpumalanga,Gert Sibande,Govan Mbeki,DsAccessToPipedWaters
+Census 2022,Municipality,Govan Mbeki,Piped (tap) water on community stand,4.8,Mpumalanga,Gert Sibande,Govan Mbeki,DsAccessToPipedWaters
+Census 2022,Municipality,Govan Mbeki,No access to piped water,1.0,Mpumalanga,Gert Sibande,Govan Mbeki,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa,Piped (tap) water inside the dwelling,69.1,Mpumalanga,Gert Sibande,Lekwa,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa,Piped (tap) water inside the yard,24.3,Mpumalanga,Gert Sibande,Lekwa,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa,Piped (tap) water on community stand,3.0,Mpumalanga,Gert Sibande,Lekwa,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa,No access to piped water,3.6,Mpumalanga,Gert Sibande,Lekwa,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhondo,Piped (tap) water inside the dwelling,41.8,Mpumalanga,Gert Sibande,Mkhondo,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhondo,Piped (tap) water inside the yard,34.9,Mpumalanga,Gert Sibande,Mkhondo,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhondo,Piped (tap) water on community stand,12.3,Mpumalanga,Gert Sibande,Mkhondo,DsAccessToPipedWaters
+Census 2022,Municipality,Mkhondo,No access to piped water,11.0,Mpumalanga,Gert Sibande,Mkhondo,DsAccessToPipedWaters
+Census 2022,Municipality,Msukaligwa,Piped (tap) water inside the dwelling,64.6,Mpumalanga,Gert Sibande,Msukaligwa,DsAccessToPipedWaters
+Census 2022,Municipality,Msukaligwa,Piped (tap) water inside the yard,20.3,Mpumalanga,Gert Sibande,Msukaligwa,DsAccessToPipedWaters
+Census 2022,Municipality,Msukaligwa,Piped (tap) water on community stand,8.7,Mpumalanga,Gert Sibande,Msukaligwa,DsAccessToPipedWaters
+Census 2022,Municipality,Msukaligwa,No access to piped water,6.3,Mpumalanga,Gert Sibande,Msukaligwa,DsAccessToPipedWaters
+Census 2022,Municipality,Dr JS Moroka,Piped (tap) water inside the dwelling,28.0,Mpumalanga,Nkangala,Dr JS Moroka,DsAccessToPipedWaters
+Census 2022,Municipality,Dr JS Moroka,Piped (tap) water inside the yard,39.9,Mpumalanga,Nkangala,Dr JS Moroka,DsAccessToPipedWaters
+Census 2022,Municipality,Dr JS Moroka,Piped (tap) water on community stand,5.5,Mpumalanga,Nkangala,Dr JS Moroka,DsAccessToPipedWaters
+Census 2022,Municipality,Dr JS Moroka,No access to piped water,26.6,Mpumalanga,Nkangala,Dr JS Moroka,DsAccessToPipedWaters
+Census 2022,Municipality,Emakhazeni,Piped (tap) water inside the dwelling,80.1,Mpumalanga,Nkangala,Emakhazeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emakhazeni,Piped (tap) water inside the yard,15.3,Mpumalanga,Nkangala,Emakhazeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emakhazeni,Piped (tap) water on community stand,2.4,Mpumalanga,Nkangala,Emakhazeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emakhazeni,No access to piped water,2.3,Mpumalanga,Nkangala,Emakhazeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water inside the dwelling,66.3,Mpumalanga,Nkangala,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water inside the yard,15.9,Mpumalanga,Nkangala,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,Piped (tap) water on community stand,6.4,Mpumalanga,Nkangala,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Emalahleni,No access to piped water,11.4,Mpumalanga,Nkangala,Emalahleni,DsAccessToPipedWaters
+Census 2022,Municipality,Steve Tshwete,Piped (tap) water inside the dwelling,72.3,Mpumalanga,Nkangala,Steve Tshwete,DsAccessToPipedWaters
+Census 2022,Municipality,Steve Tshwete,Piped (tap) water inside the yard,15.5,Mpumalanga,Nkangala,Steve Tshwete,DsAccessToPipedWaters
+Census 2022,Municipality,Steve Tshwete,Piped (tap) water on community stand,8.4,Mpumalanga,Nkangala,Steve Tshwete,DsAccessToPipedWaters
+Census 2022,Municipality,Steve Tshwete,No access to piped water,3.8,Mpumalanga,Nkangala,Steve Tshwete,DsAccessToPipedWaters
+Census 2022,Municipality,Thembisile,Piped (tap) water inside the dwelling,29.5,Mpumalanga,Nkangala,Thembisile,DsAccessToPipedWaters
+Census 2022,Municipality,Thembisile,Piped (tap) water inside the yard,52.6,Mpumalanga,Nkangala,Thembisile,DsAccessToPipedWaters
+Census 2022,Municipality,Thembisile,Piped (tap) water on community stand,3.6,Mpumalanga,Nkangala,Thembisile,DsAccessToPipedWaters
+Census 2022,Municipality,Thembisile,No access to piped water,14.2,Mpumalanga,Nkangala,Thembisile,DsAccessToPipedWaters
+Census 2022,Municipality,Victor Khanye,Piped (tap) water inside the dwelling,63.3,Mpumalanga,Nkangala,Victor Khanye,DsAccessToPipedWaters
+Census 2022,Municipality,Victor Khanye,Piped (tap) water inside the yard,26.9,Mpumalanga,Nkangala,Victor Khanye,DsAccessToPipedWaters
+Census 2022,Municipality,Victor Khanye,Piped (tap) water on community stand,7.7,Mpumalanga,Nkangala,Victor Khanye,DsAccessToPipedWaters
+Census 2022,Municipality,Victor Khanye,No access to piped water,2.1,Mpumalanga,Nkangala,Victor Khanye,DsAccessToPipedWaters
+Census 2022,Municipality,Kgetlengrivier,Piped (tap) water inside the dwelling,58.0,North West,Bojanala,Kgetlengrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Kgetlengrivier,Piped (tap) water inside the yard,33.4,North West,Bojanala,Kgetlengrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Kgetlengrivier,Piped (tap) water on community stand,7.3,North West,Bojanala,Kgetlengrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Kgetlengrivier,No access to piped water,1.4,North West,Bojanala,Kgetlengrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Madibeng,Piped (tap) water inside the dwelling,39.4,North West,Bojanala,Madibeng,DsAccessToPipedWaters
+Census 2022,Municipality,Madibeng,Piped (tap) water inside the yard,31.6,North West,Bojanala,Madibeng,DsAccessToPipedWaters
+Census 2022,Municipality,Madibeng,Piped (tap) water on community stand,10.6,North West,Bojanala,Madibeng,DsAccessToPipedWaters
+Census 2022,Municipality,Madibeng,No access to piped water,18.4,North West,Bojanala,Madibeng,DsAccessToPipedWaters
+Census 2022,Municipality,Moretele,Piped (tap) water inside the dwelling,21.1,North West,Bojanala,Moretele,DsAccessToPipedWaters
+Census 2022,Municipality,Moretele,Piped (tap) water inside the yard,41.1,North West,Bojanala,Moretele,DsAccessToPipedWaters
+Census 2022,Municipality,Moretele,Piped (tap) water on community stand,11.3,North West,Bojanala,Moretele,DsAccessToPipedWaters
+Census 2022,Municipality,Moretele,No access to piped water,26.4,North West,Bojanala,Moretele,DsAccessToPipedWaters
+Census 2022,Municipality,Moses Kotane,Piped (tap) water inside the dwelling,29.7,North West,Bojanala,Moses Kotane,DsAccessToPipedWaters
+Census 2022,Municipality,Moses Kotane,Piped (tap) water inside the yard,33.3,North West,Bojanala,Moses Kotane,DsAccessToPipedWaters
+Census 2022,Municipality,Moses Kotane,Piped (tap) water on community stand,20.6,North West,Bojanala,Moses Kotane,DsAccessToPipedWaters
+Census 2022,Municipality,Moses Kotane,No access to piped water,16.4,North West,Bojanala,Moses Kotane,DsAccessToPipedWaters
+Census 2022,Municipality,Rustenburg,Piped (tap) water inside the dwelling,53.0,North West,Bojanala,Rustenburg,DsAccessToPipedWaters
+Census 2022,Municipality,Rustenburg,Piped (tap) water inside the yard,38.1,North West,Bojanala,Rustenburg,DsAccessToPipedWaters
+Census 2022,Municipality,Rustenburg,Piped (tap) water on community stand,4.8,North West,Bojanala,Rustenburg,DsAccessToPipedWaters
+Census 2022,Municipality,Rustenburg,No access to piped water,4.1,North West,Bojanala,Rustenburg,DsAccessToPipedWaters
+Census 2022,Municipality,City of Matlosana,Piped (tap) water inside the dwelling,62.4,North West,Dr Kenneth Kaunda,City of Matlosana,DsAccessToPipedWaters
+Census 2022,Municipality,City of Matlosana,Piped (tap) water inside the yard,30.5,North West,Dr Kenneth Kaunda,City of Matlosana,DsAccessToPipedWaters
+Census 2022,Municipality,City of Matlosana,Piped (tap) water on community stand,5.5,North West,Dr Kenneth Kaunda,City of Matlosana,DsAccessToPipedWaters
+Census 2022,Municipality,City of Matlosana,No access to piped water,1.6,North West,Dr Kenneth Kaunda,City of Matlosana,DsAccessToPipedWaters
+Census 2022,Municipality,JB Marks,Piped (tap) water inside the dwelling,57.7,North West,Dr Kenneth Kaunda,JB Marks,DsAccessToPipedWaters
+Census 2022,Municipality,JB Marks,Piped (tap) water inside the yard,30.7,North West,Dr Kenneth Kaunda,JB Marks,DsAccessToPipedWaters
+Census 2022,Municipality,JB Marks,Piped (tap) water on community stand,7.9,North West,Dr Kenneth Kaunda,JB Marks,DsAccessToPipedWaters
+Census 2022,Municipality,JB Marks,No access to piped water,3.7,North West,Dr Kenneth Kaunda,JB Marks,DsAccessToPipedWaters
+Census 2022,Municipality,Maquassi Hills,Piped (tap) water inside the dwelling,39.8,North West,Dr Kenneth Kaunda,Maquassi Hills,DsAccessToPipedWaters
+Census 2022,Municipality,Maquassi Hills,Piped (tap) water inside the yard,46.4,North West,Dr Kenneth Kaunda,Maquassi Hills,DsAccessToPipedWaters
+Census 2022,Municipality,Maquassi Hills,Piped (tap) water on community stand,6.5,North West,Dr Kenneth Kaunda,Maquassi Hills,DsAccessToPipedWaters
+Census 2022,Municipality,Maquassi Hills,No access to piped water,7.3,North West,Dr Kenneth Kaunda,Maquassi Hills,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Taung,Piped (tap) water inside the dwelling,26.2,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Taung,Piped (tap) water inside the yard,9.8,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Taung,Piped (tap) water on community stand,59.0,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsAccessToPipedWaters
+Census 2022,Municipality,Greater Taung,No access to piped water,5.0,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsAccessToPipedWaters
+Census 2022,Municipality,Kagisano/Molopo,Piped (tap) water inside the dwelling,28.2,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsAccessToPipedWaters
+Census 2022,Municipality,Kagisano/Molopo,Piped (tap) water inside the yard,17.1,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsAccessToPipedWaters
+Census 2022,Municipality,Kagisano/Molopo,Piped (tap) water on community stand,48.5,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsAccessToPipedWaters
+Census 2022,Municipality,Kagisano/Molopo,No access to piped water,6.2,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa-Teemane,Piped (tap) water inside the dwelling,50.5,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa-Teemane,Piped (tap) water inside the yard,44.2,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa-Teemane,Piped (tap) water on community stand,2.3,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsAccessToPipedWaters
+Census 2022,Municipality,Lekwa-Teemane,No access to piped water,3.0,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsAccessToPipedWaters
+Census 2022,Municipality,Mamusa,Piped (tap) water inside the dwelling,36.4,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsAccessToPipedWaters
+Census 2022,Municipality,Mamusa,Piped (tap) water inside the yard,40.3,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsAccessToPipedWaters
+Census 2022,Municipality,Mamusa,Piped (tap) water on community stand,13.6,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsAccessToPipedWaters
+Census 2022,Municipality,Mamusa,No access to piped water,9.7,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsAccessToPipedWaters
+Census 2022,Municipality,Naledi,Piped (tap) water inside the dwelling,55.4,North West,Dr Ruth Segomotsi Mompati,Naledi,DsAccessToPipedWaters
+Census 2022,Municipality,Naledi,Piped (tap) water inside the yard,30.3,North West,Dr Ruth Segomotsi Mompati,Naledi,DsAccessToPipedWaters
+Census 2022,Municipality,Naledi,Piped (tap) water on community stand,12.6,North West,Dr Ruth Segomotsi Mompati,Naledi,DsAccessToPipedWaters
+Census 2022,Municipality,Naledi,No access to piped water,1.7,North West,Dr Ruth Segomotsi Mompati,Naledi,DsAccessToPipedWaters
+Census 2022,Municipality,Ditsobotla,Piped (tap) water inside the dwelling,44.5,North West,Ngaka Modiri Molema,Ditsobotla,DsAccessToPipedWaters
+Census 2022,Municipality,Ditsobotla,Piped (tap) water inside the yard,32.8,North West,Ngaka Modiri Molema,Ditsobotla,DsAccessToPipedWaters
+Census 2022,Municipality,Ditsobotla,Piped (tap) water on community stand,15.7,North West,Ngaka Modiri Molema,Ditsobotla,DsAccessToPipedWaters
+Census 2022,Municipality,Ditsobotla,No access to piped water,7.0,North West,Ngaka Modiri Molema,Ditsobotla,DsAccessToPipedWaters
+Census 2022,Municipality,Mafikeng,Piped (tap) water inside the dwelling,44.2,North West,Ngaka Modiri Molema,Mafikeng,DsAccessToPipedWaters
+Census 2022,Municipality,Mafikeng,Piped (tap) water inside the yard,23.6,North West,Ngaka Modiri Molema,Mafikeng,DsAccessToPipedWaters
+Census 2022,Municipality,Mafikeng,Piped (tap) water on community stand,17.4,North West,Ngaka Modiri Molema,Mafikeng,DsAccessToPipedWaters
+Census 2022,Municipality,Mafikeng,No access to piped water,14.8,North West,Ngaka Modiri Molema,Mafikeng,DsAccessToPipedWaters
+Census 2022,Municipality,Ramotshere Moiloa,Piped (tap) water inside the dwelling,34.9,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsAccessToPipedWaters
+Census 2022,Municipality,Ramotshere Moiloa,Piped (tap) water inside the yard,31.5,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsAccessToPipedWaters
+Census 2022,Municipality,Ramotshere Moiloa,Piped (tap) water on community stand,22.4,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsAccessToPipedWaters
+Census 2022,Municipality,Ramotshere Moiloa,No access to piped water,11.2,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsAccessToPipedWaters
+Census 2022,Municipality,Ratlou,Piped (tap) water inside the dwelling,22.1,North West,Ngaka Modiri Molema,Ratlou,DsAccessToPipedWaters
+Census 2022,Municipality,Ratlou,Piped (tap) water inside the yard,13.2,North West,Ngaka Modiri Molema,Ratlou,DsAccessToPipedWaters
+Census 2022,Municipality,Ratlou,Piped (tap) water on community stand,43.4,North West,Ngaka Modiri Molema,Ratlou,DsAccessToPipedWaters
+Census 2022,Municipality,Ratlou,No access to piped water,21.2,North West,Ngaka Modiri Molema,Ratlou,DsAccessToPipedWaters
+Census 2022,Municipality,Tswaing,Piped (tap) water inside the dwelling,31.7,North West,Ngaka Modiri Molema,Tswaing,DsAccessToPipedWaters
+Census 2022,Municipality,Tswaing,Piped (tap) water inside the yard,30.6,North West,Ngaka Modiri Molema,Tswaing,DsAccessToPipedWaters
+Census 2022,Municipality,Tswaing,Piped (tap) water on community stand,25.6,North West,Ngaka Modiri Molema,Tswaing,DsAccessToPipedWaters
+Census 2022,Municipality,Tswaing,No access to piped water,12.1,North West,Ngaka Modiri Molema,Tswaing,DsAccessToPipedWaters
+Census 2022,Municipality,Dikgatlong,Piped (tap) water inside the dwelling,51.0,Northern Cape,Frances Baard,Dikgatlong,DsAccessToPipedWaters
+Census 2022,Municipality,Dikgatlong,Piped (tap) water inside the yard,35.6,Northern Cape,Frances Baard,Dikgatlong,DsAccessToPipedWaters
+Census 2022,Municipality,Dikgatlong,Piped (tap) water on community stand,6.9,Northern Cape,Frances Baard,Dikgatlong,DsAccessToPipedWaters
+Census 2022,Municipality,Dikgatlong,No access to piped water,6.6,Northern Cape,Frances Baard,Dikgatlong,DsAccessToPipedWaters
+Census 2022,Municipality,Magareng,Piped (tap) water inside the dwelling,43.9,Northern Cape,Frances Baard,Magareng,DsAccessToPipedWaters
+Census 2022,Municipality,Magareng,Piped (tap) water inside the yard,29.5,Northern Cape,Frances Baard,Magareng,DsAccessToPipedWaters
+Census 2022,Municipality,Magareng,Piped (tap) water on community stand,21.9,Northern Cape,Frances Baard,Magareng,DsAccessToPipedWaters
+Census 2022,Municipality,Magareng,No access to piped water,4.7,Northern Cape,Frances Baard,Magareng,DsAccessToPipedWaters
+Census 2022,Municipality,Phokwane,Piped (tap) water inside the dwelling,48.9,Northern Cape,Frances Baard,Phokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Phokwane,Piped (tap) water inside the yard,34.8,Northern Cape,Frances Baard,Phokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Phokwane,Piped (tap) water on community stand,13.4,Northern Cape,Frances Baard,Phokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Phokwane,No access to piped water,2.9,Northern Cape,Frances Baard,Phokwane,DsAccessToPipedWaters
+Census 2022,Municipality,Sol Plaatje,Piped (tap) water inside the dwelling,66.6,Northern Cape,Frances Baard,Sol Plaatje,DsAccessToPipedWaters
+Census 2022,Municipality,Sol Plaatje,Piped (tap) water inside the yard,24.4,Northern Cape,Frances Baard,Sol Plaatje,DsAccessToPipedWaters
+Census 2022,Municipality,Sol Plaatje,Piped (tap) water on community stand,6.5,Northern Cape,Frances Baard,Sol Plaatje,DsAccessToPipedWaters
+Census 2022,Municipality,Sol Plaatje,No access to piped water,2.5,Northern Cape,Frances Baard,Sol Plaatje,DsAccessToPipedWaters
+Census 2022,Municipality,Ga-Segonyana,Piped (tap) water inside the dwelling,24.8,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Ga-Segonyana,Piped (tap) water inside the yard,17.5,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Ga-Segonyana,Piped (tap) water on community stand,44.2,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Ga-Segonyana,No access to piped water,13.6,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsAccessToPipedWaters
+Census 2022,Municipality,Gamagara,Piped (tap) water inside the dwelling,67.3,Northern Cape,John Taolo Gaetsewe,Gamagara,DsAccessToPipedWaters
+Census 2022,Municipality,Gamagara,Piped (tap) water inside the yard,27.3,Northern Cape,John Taolo Gaetsewe,Gamagara,DsAccessToPipedWaters
+Census 2022,Municipality,Gamagara,Piped (tap) water on community stand,2.6,Northern Cape,John Taolo Gaetsewe,Gamagara,DsAccessToPipedWaters
+Census 2022,Municipality,Gamagara,No access to piped water,2.9,Northern Cape,John Taolo Gaetsewe,Gamagara,DsAccessToPipedWaters
+Census 2022,Municipality,Joe Morolong,Piped (tap) water inside the dwelling,18.0,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsAccessToPipedWaters
+Census 2022,Municipality,Joe Morolong,Piped (tap) water inside the yard,7.4,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsAccessToPipedWaters
+Census 2022,Municipality,Joe Morolong,Piped (tap) water on community stand,66.6,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsAccessToPipedWaters
+Census 2022,Municipality,Joe Morolong,No access to piped water,8.0,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsAccessToPipedWaters
+Census 2022,Municipality,Hantam,Piped (tap) water inside the dwelling,70.7,Northern Cape,Namakwa,Hantam,DsAccessToPipedWaters
+Census 2022,Municipality,Hantam,Piped (tap) water inside the yard,27.9,Northern Cape,Namakwa,Hantam,DsAccessToPipedWaters
+Census 2022,Municipality,Hantam,Piped (tap) water on community stand,0.9,Northern Cape,Namakwa,Hantam,DsAccessToPipedWaters
+Census 2022,Municipality,Hantam,No access to piped water,0.5,Northern Cape,Namakwa,Hantam,DsAccessToPipedWaters
+Census 2022,Municipality,Kamiesberg,Piped (tap) water inside the dwelling,46.4,Northern Cape,Namakwa,Kamiesberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kamiesberg,Piped (tap) water inside the yard,52.0,Northern Cape,Namakwa,Kamiesberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kamiesberg,Piped (tap) water on community stand,0.2,Northern Cape,Namakwa,Kamiesberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kamiesberg,No access to piped water,1.4,Northern Cape,Namakwa,Kamiesberg,DsAccessToPipedWaters
+Census 2022,Municipality,Karoo Hoogland,Piped (tap) water inside the dwelling,67.5,Northern Cape,Namakwa,Karoo Hoogland,DsAccessToPipedWaters
+Census 2022,Municipality,Karoo Hoogland,Piped (tap) water inside the yard,31.8,Northern Cape,Namakwa,Karoo Hoogland,DsAccessToPipedWaters
+Census 2022,Municipality,Karoo Hoogland,Piped (tap) water on community stand,0.3,Northern Cape,Namakwa,Karoo Hoogland,DsAccessToPipedWaters
+Census 2022,Municipality,Karoo Hoogland,No access to piped water,0.3,Northern Cape,Namakwa,Karoo Hoogland,DsAccessToPipedWaters
+Census 2022,Municipality,Khâi-Ma,Piped (tap) water inside the dwelling,74.4,Northern Cape,Namakwa,Khâi-Ma,DsAccessToPipedWaters
+Census 2022,Municipality,Khâi-Ma,Piped (tap) water inside the yard,23.7,Northern Cape,Namakwa,Khâi-Ma,DsAccessToPipedWaters
+Census 2022,Municipality,Khâi-Ma,Piped (tap) water on community stand,0.6,Northern Cape,Namakwa,Khâi-Ma,DsAccessToPipedWaters
+Census 2022,Municipality,Khâi-Ma,No access to piped water,1.3,Northern Cape,Namakwa,Khâi-Ma,DsAccessToPipedWaters
+Census 2022,Municipality,Nama Khoi,Piped (tap) water inside the dwelling,86.1,Northern Cape,Namakwa,Nama Khoi,DsAccessToPipedWaters
+Census 2022,Municipality,Nama Khoi,Piped (tap) water inside the yard,12.2,Northern Cape,Namakwa,Nama Khoi,DsAccessToPipedWaters
+Census 2022,Municipality,Nama Khoi,Piped (tap) water on community stand,0.6,Northern Cape,Namakwa,Nama Khoi,DsAccessToPipedWaters
+Census 2022,Municipality,Nama Khoi,No access to piped water,1.1,Northern Cape,Namakwa,Nama Khoi,DsAccessToPipedWaters
+Census 2022,Municipality,Richtersveld,Piped (tap) water inside the dwelling,83.3,Northern Cape,Namakwa,Richtersveld,DsAccessToPipedWaters
+Census 2022,Municipality,Richtersveld,Piped (tap) water inside the yard,16.0,Northern Cape,Namakwa,Richtersveld,DsAccessToPipedWaters
+Census 2022,Municipality,Richtersveld,Piped (tap) water on community stand,0.3,Northern Cape,Namakwa,Richtersveld,DsAccessToPipedWaters
+Census 2022,Municipality,Richtersveld,No access to piped water,0.4,Northern Cape,Namakwa,Richtersveld,DsAccessToPipedWaters
+Census 2022,Municipality,Emthanjeni,Piped (tap) water inside the dwelling,65.7,Northern Cape,Pixley ka Seme,Emthanjeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emthanjeni,Piped (tap) water inside the yard,32.7,Northern Cape,Pixley ka Seme,Emthanjeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emthanjeni,Piped (tap) water on community stand,0.5,Northern Cape,Pixley ka Seme,Emthanjeni,DsAccessToPipedWaters
+Census 2022,Municipality,Emthanjeni,No access to piped water,1.1,Northern Cape,Pixley ka Seme,Emthanjeni,DsAccessToPipedWaters
+Census 2022,Municipality,Kareeberg,Piped (tap) water inside the dwelling,51.6,Northern Cape,Pixley ka Seme,Kareeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kareeberg,Piped (tap) water inside the yard,40.2,Northern Cape,Pixley ka Seme,Kareeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kareeberg,Piped (tap) water on community stand,8.0,Northern Cape,Pixley ka Seme,Kareeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Kareeberg,No access to piped water,0.2,Northern Cape,Pixley ka Seme,Kareeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Renosterberg,Piped (tap) water inside the dwelling,56.8,Northern Cape,Pixley ka Seme,Renosterberg,DsAccessToPipedWaters
+Census 2022,Municipality,Renosterberg,Piped (tap) water inside the yard,40.5,Northern Cape,Pixley ka Seme,Renosterberg,DsAccessToPipedWaters
+Census 2022,Municipality,Renosterberg,Piped (tap) water on community stand,1.2,Northern Cape,Pixley ka Seme,Renosterberg,DsAccessToPipedWaters
+Census 2022,Municipality,Renosterberg,No access to piped water,1.5,Northern Cape,Pixley ka Seme,Renosterberg,DsAccessToPipedWaters
+Census 2022,Municipality,Siyancuma,Piped (tap) water inside the dwelling,50.8,Northern Cape,Pixley ka Seme,Siyancuma,DsAccessToPipedWaters
+Census 2022,Municipality,Siyancuma,Piped (tap) water inside the yard,36.0,Northern Cape,Pixley ka Seme,Siyancuma,DsAccessToPipedWaters
+Census 2022,Municipality,Siyancuma,Piped (tap) water on community stand,10.4,Northern Cape,Pixley ka Seme,Siyancuma,DsAccessToPipedWaters
+Census 2022,Municipality,Siyancuma,No access to piped water,2.8,Northern Cape,Pixley ka Seme,Siyancuma,DsAccessToPipedWaters
+Census 2022,Municipality,Siyathemba,Piped (tap) water inside the dwelling,50.5,Northern Cape,Pixley ka Seme,Siyathemba,DsAccessToPipedWaters
+Census 2022,Municipality,Siyathemba,Piped (tap) water inside the yard,47.1,Northern Cape,Pixley ka Seme,Siyathemba,DsAccessToPipedWaters
+Census 2022,Municipality,Siyathemba,Piped (tap) water on community stand,1.4,Northern Cape,Pixley ka Seme,Siyathemba,DsAccessToPipedWaters
+Census 2022,Municipality,Siyathemba,No access to piped water,1.1,Northern Cape,Pixley ka Seme,Siyathemba,DsAccessToPipedWaters
+Census 2022,Municipality,Thembelihle,Piped (tap) water inside the dwelling,49.6,Northern Cape,Pixley ka Seme,Thembelihle,DsAccessToPipedWaters
+Census 2022,Municipality,Thembelihle,Piped (tap) water inside the yard,38.2,Northern Cape,Pixley ka Seme,Thembelihle,DsAccessToPipedWaters
+Census 2022,Municipality,Thembelihle,Piped (tap) water on community stand,10.9,Northern Cape,Pixley ka Seme,Thembelihle,DsAccessToPipedWaters
+Census 2022,Municipality,Thembelihle,No access to piped water,1.3,Northern Cape,Pixley ka Seme,Thembelihle,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuntu,Piped (tap) water inside the dwelling,65.2,Northern Cape,Pixley ka Seme,Ubuntu,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuntu,Piped (tap) water inside the yard,32.3,Northern Cape,Pixley ka Seme,Ubuntu,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuntu,Piped (tap) water on community stand,2.3,Northern Cape,Pixley ka Seme,Ubuntu,DsAccessToPipedWaters
+Census 2022,Municipality,Ubuntu,No access to piped water,0.2,Northern Cape,Pixley ka Seme,Ubuntu,DsAccessToPipedWaters
+Census 2022,Municipality,Umsobomvu,Piped (tap) water inside the dwelling,63.5,Northern Cape,Pixley ka Seme,Umsobomvu,DsAccessToPipedWaters
+Census 2022,Municipality,Umsobomvu,Piped (tap) water inside the yard,33.6,Northern Cape,Pixley ka Seme,Umsobomvu,DsAccessToPipedWaters
+Census 2022,Municipality,Umsobomvu,Piped (tap) water on community stand,2.2,Northern Cape,Pixley ka Seme,Umsobomvu,DsAccessToPipedWaters
+Census 2022,Municipality,Umsobomvu,No access to piped water,0.7,Northern Cape,Pixley ka Seme,Umsobomvu,DsAccessToPipedWaters
+Census 2022,Municipality,!Kheis,Piped (tap) water inside the dwelling,23.6,Northern Cape,Z F Mgcawu,!Kheis,DsAccessToPipedWaters
+Census 2022,Municipality,!Kheis,Piped (tap) water inside the yard,65.0,Northern Cape,Z F Mgcawu,!Kheis,DsAccessToPipedWaters
+Census 2022,Municipality,!Kheis,Piped (tap) water on community stand,6.1,Northern Cape,Z F Mgcawu,!Kheis,DsAccessToPipedWaters
+Census 2022,Municipality,!Kheis,No access to piped water,5.3,Northern Cape,Z F Mgcawu,!Kheis,DsAccessToPipedWaters
+Census 2022,Municipality,Dawid Kruiper,Piped (tap) water inside the dwelling,57.5,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsAccessToPipedWaters
+Census 2022,Municipality,Dawid Kruiper,Piped (tap) water inside the yard,34.0,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsAccessToPipedWaters
+Census 2022,Municipality,Dawid Kruiper,Piped (tap) water on community stand,4.7,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsAccessToPipedWaters
+Census 2022,Municipality,Dawid Kruiper,No access to piped water,3.8,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsAccessToPipedWaters
+Census 2022,Municipality,Kai !Garib,Piped (tap) water inside the dwelling,57.7,Northern Cape,Z F Mgcawu,Kai !Garib,DsAccessToPipedWaters
+Census 2022,Municipality,Kai !Garib,Piped (tap) water inside the yard,34.7,Northern Cape,Z F Mgcawu,Kai !Garib,DsAccessToPipedWaters
+Census 2022,Municipality,Kai !Garib,Piped (tap) water on community stand,3.7,Northern Cape,Z F Mgcawu,Kai !Garib,DsAccessToPipedWaters
+Census 2022,Municipality,Kai !Garib,No access to piped water,3.9,Northern Cape,Z F Mgcawu,Kai !Garib,DsAccessToPipedWaters
+Census 2022,Municipality,Kgatelopele,Piped (tap) water inside the dwelling,73.2,Northern Cape,Z F Mgcawu,Kgatelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Kgatelopele,Piped (tap) water inside the yard,21.7,Northern Cape,Z F Mgcawu,Kgatelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Kgatelopele,Piped (tap) water on community stand,4.7,Northern Cape,Z F Mgcawu,Kgatelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Kgatelopele,No access to piped water,0.4,Northern Cape,Z F Mgcawu,Kgatelopele,DsAccessToPipedWaters
+Census 2022,Municipality,Tsantsabane,Piped (tap) water inside the dwelling,67.6,Northern Cape,Z F Mgcawu,Tsantsabane,DsAccessToPipedWaters
+Census 2022,Municipality,Tsantsabane,Piped (tap) water inside the yard,20.4,Northern Cape,Z F Mgcawu,Tsantsabane,DsAccessToPipedWaters
+Census 2022,Municipality,Tsantsabane,Piped (tap) water on community stand,3.7,Northern Cape,Z F Mgcawu,Tsantsabane,DsAccessToPipedWaters
+Census 2022,Municipality,Tsantsabane,No access to piped water,8.3,Northern Cape,Z F Mgcawu,Tsantsabane,DsAccessToPipedWaters
+Census 2022,Municipality,Breede Valley,Piped (tap) water inside the dwelling,84.7,Western Cape,Cape Winelands,Breede Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Breede Valley,Piped (tap) water inside the yard,10.1,Western Cape,Cape Winelands,Breede Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Breede Valley,Piped (tap) water on community stand,4.9,Western Cape,Cape Winelands,Breede Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Breede Valley,No access to piped water,0.3,Western Cape,Cape Winelands,Breede Valley,DsAccessToPipedWaters
+Census 2022,Municipality,Drakenstein,Piped (tap) water inside the dwelling,88.6,Western Cape,Cape Winelands,Drakenstein,DsAccessToPipedWaters
+Census 2022,Municipality,Drakenstein,Piped (tap) water inside the yard,7.3,Western Cape,Cape Winelands,Drakenstein,DsAccessToPipedWaters
+Census 2022,Municipality,Drakenstein,Piped (tap) water on community stand,3.1,Western Cape,Cape Winelands,Drakenstein,DsAccessToPipedWaters
+Census 2022,Municipality,Drakenstein,No access to piped water,1.0,Western Cape,Cape Winelands,Drakenstein,DsAccessToPipedWaters
+Census 2022,Municipality,Langeberg,Piped (tap) water inside the dwelling,91.7,Western Cape,Cape Winelands,Langeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Langeberg,Piped (tap) water inside the yard,5.4,Western Cape,Cape Winelands,Langeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Langeberg,Piped (tap) water on community stand,1.5,Western Cape,Cape Winelands,Langeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Langeberg,No access to piped water,1.3,Western Cape,Cape Winelands,Langeberg,DsAccessToPipedWaters
+Census 2022,Municipality,Stellenbosch,Piped (tap) water inside the dwelling,86.4,Western Cape,Cape Winelands,Stellenbosch,DsAccessToPipedWaters
+Census 2022,Municipality,Stellenbosch,Piped (tap) water inside the yard,4.5,Western Cape,Cape Winelands,Stellenbosch,DsAccessToPipedWaters
+Census 2022,Municipality,Stellenbosch,Piped (tap) water on community stand,7.7,Western Cape,Cape Winelands,Stellenbosch,DsAccessToPipedWaters
+Census 2022,Municipality,Stellenbosch,No access to piped water,1.4,Western Cape,Cape Winelands,Stellenbosch,DsAccessToPipedWaters
+Census 2022,Municipality,Witzenberg,Piped (tap) water inside the dwelling,84.4,Western Cape,Cape Winelands,Witzenberg,DsAccessToPipedWaters
+Census 2022,Municipality,Witzenberg,Piped (tap) water inside the yard,8.9,Western Cape,Cape Winelands,Witzenberg,DsAccessToPipedWaters
+Census 2022,Municipality,Witzenberg,Piped (tap) water on community stand,5.2,Western Cape,Cape Winelands,Witzenberg,DsAccessToPipedWaters
+Census 2022,Municipality,Witzenberg,No access to piped water,1.6,Western Cape,Cape Winelands,Witzenberg,DsAccessToPipedWaters
+Census 2022,Municipality,Beaufort West,Piped (tap) water inside the dwelling,87.2,Western Cape,Central Karoo,Beaufort West,DsAccessToPipedWaters
+Census 2022,Municipality,Beaufort West,Piped (tap) water inside the yard,12.2,Western Cape,Central Karoo,Beaufort West,DsAccessToPipedWaters
+Census 2022,Municipality,Beaufort West,Piped (tap) water on community stand,0.3,Western Cape,Central Karoo,Beaufort West,DsAccessToPipedWaters
+Census 2022,Municipality,Beaufort West,No access to piped water,0.2,Western Cape,Central Karoo,Beaufort West,DsAccessToPipedWaters
+Census 2022,Municipality,Laingsburg,Piped (tap) water inside the dwelling,84.5,Western Cape,Central Karoo,Laingsburg,DsAccessToPipedWaters
+Census 2022,Municipality,Laingsburg,Piped (tap) water inside the yard,15.0,Western Cape,Central Karoo,Laingsburg,DsAccessToPipedWaters
+Census 2022,Municipality,Laingsburg,Piped (tap) water on community stand,0.1,Western Cape,Central Karoo,Laingsburg,DsAccessToPipedWaters
+Census 2022,Municipality,Laingsburg,No access to piped water,0.4,Western Cape,Central Karoo,Laingsburg,DsAccessToPipedWaters
+Census 2022,Municipality,Prince Albert,Piped (tap) water inside the dwelling,88.3,Western Cape,Central Karoo,Prince Albert,DsAccessToPipedWaters
+Census 2022,Municipality,Prince Albert,Piped (tap) water inside the yard,11.2,Western Cape,Central Karoo,Prince Albert,DsAccessToPipedWaters
+Census 2022,Municipality,Prince Albert,Piped (tap) water on community stand,0.4,Western Cape,Central Karoo,Prince Albert,DsAccessToPipedWaters
+Census 2022,Municipality,Prince Albert,No access to piped water,0.2,Western Cape,Central Karoo,Prince Albert,DsAccessToPipedWaters
+Census 2022,Municipality,City of Cape Town,Piped (tap) water inside the dwelling,85.4,Western Cape,City of Cape Town,City of Cape Town,DsAccessToPipedWaters
+Census 2022,Municipality,City of Cape Town,Piped (tap) water inside the yard,7.3,Western Cape,City of Cape Town,City of Cape Town,DsAccessToPipedWaters
+Census 2022,Municipality,City of Cape Town,Piped (tap) water on community stand,6.5,Western Cape,City of Cape Town,City of Cape Town,DsAccessToPipedWaters
+Census 2022,Municipality,City of Cape Town,No access to piped water,0.8,Western Cape,City of Cape Town,City of Cape Town,DsAccessToPipedWaters
+Census 2022,Municipality,Bitou,Piped (tap) water inside the dwelling,80.0,Western Cape,Garden Route,Bitou,DsAccessToPipedWaters
+Census 2022,Municipality,Bitou,Piped (tap) water inside the yard,9.4,Western Cape,Garden Route,Bitou,DsAccessToPipedWaters
+Census 2022,Municipality,Bitou,Piped (tap) water on community stand,9.7,Western Cape,Garden Route,Bitou,DsAccessToPipedWaters
+Census 2022,Municipality,Bitou,No access to piped water,0.9,Western Cape,Garden Route,Bitou,DsAccessToPipedWaters
+Census 2022,Municipality,George,Piped (tap) water inside the dwelling,81.3,Western Cape,Garden Route,George,DsAccessToPipedWaters
+Census 2022,Municipality,George,Piped (tap) water inside the yard,13.0,Western Cape,Garden Route,George,DsAccessToPipedWaters
+Census 2022,Municipality,George,Piped (tap) water on community stand,5.2,Western Cape,Garden Route,George,DsAccessToPipedWaters
+Census 2022,Municipality,George,No access to piped water,0.5,Western Cape,Garden Route,George,DsAccessToPipedWaters
+Census 2022,Municipality,Hessequa,Piped (tap) water inside the dwelling,94.5,Western Cape,Garden Route,Hessequa,DsAccessToPipedWaters
+Census 2022,Municipality,Hessequa,Piped (tap) water inside the yard,3.4,Western Cape,Garden Route,Hessequa,DsAccessToPipedWaters
+Census 2022,Municipality,Hessequa,Piped (tap) water on community stand,1.7,Western Cape,Garden Route,Hessequa,DsAccessToPipedWaters
+Census 2022,Municipality,Hessequa,No access to piped water,0.4,Western Cape,Garden Route,Hessequa,DsAccessToPipedWaters
+Census 2022,Municipality,Kannaland,Piped (tap) water inside the dwelling,86.3,Western Cape,Garden Route,Kannaland,DsAccessToPipedWaters
+Census 2022,Municipality,Kannaland,Piped (tap) water inside the yard,8.9,Western Cape,Garden Route,Kannaland,DsAccessToPipedWaters
+Census 2022,Municipality,Kannaland,Piped (tap) water on community stand,3.5,Western Cape,Garden Route,Kannaland,DsAccessToPipedWaters
+Census 2022,Municipality,Kannaland,No access to piped water,1.2,Western Cape,Garden Route,Kannaland,DsAccessToPipedWaters
+Census 2022,Municipality,Knysna,Piped (tap) water inside the dwelling,82.6,Western Cape,Garden Route,Knysna,DsAccessToPipedWaters
+Census 2022,Municipality,Knysna,Piped (tap) water inside the yard,6.9,Western Cape,Garden Route,Knysna,DsAccessToPipedWaters
+Census 2022,Municipality,Knysna,Piped (tap) water on community stand,10.0,Western Cape,Garden Route,Knysna,DsAccessToPipedWaters
+Census 2022,Municipality,Knysna,No access to piped water,0.6,Western Cape,Garden Route,Knysna,DsAccessToPipedWaters
+Census 2022,Municipality,Mossel Bay,Piped (tap) water inside the dwelling,90.2,Western Cape,Garden Route,Mossel Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Mossel Bay,Piped (tap) water inside the yard,4.9,Western Cape,Garden Route,Mossel Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Mossel Bay,Piped (tap) water on community stand,4.3,Western Cape,Garden Route,Mossel Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Mossel Bay,No access to piped water,0.6,Western Cape,Garden Route,Mossel Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Oudtshoorn,Piped (tap) water inside the dwelling,85.1,Western Cape,Garden Route,Oudtshoorn,DsAccessToPipedWaters
+Census 2022,Municipality,Oudtshoorn,Piped (tap) water inside the yard,8.3,Western Cape,Garden Route,Oudtshoorn,DsAccessToPipedWaters
+Census 2022,Municipality,Oudtshoorn,Piped (tap) water on community stand,6.2,Western Cape,Garden Route,Oudtshoorn,DsAccessToPipedWaters
+Census 2022,Municipality,Oudtshoorn,No access to piped water,0.4,Western Cape,Garden Route,Oudtshoorn,DsAccessToPipedWaters
+Census 2022,Municipality,Cape Agulhas,Piped (tap) water inside the dwelling,94.4,Western Cape,Overberg,Cape Agulhas,DsAccessToPipedWaters
+Census 2022,Municipality,Cape Agulhas,Piped (tap) water inside the yard,2.1,Western Cape,Overberg,Cape Agulhas,DsAccessToPipedWaters
+Census 2022,Municipality,Cape Agulhas,Piped (tap) water on community stand,3.4,Western Cape,Overberg,Cape Agulhas,DsAccessToPipedWaters
+Census 2022,Municipality,Cape Agulhas,No access to piped water,0.1,Western Cape,Overberg,Cape Agulhas,DsAccessToPipedWaters
+Census 2022,Municipality,Overstrand,Piped (tap) water inside the dwelling,87.6,Western Cape,Overberg,Overstrand,DsAccessToPipedWaters
+Census 2022,Municipality,Overstrand,Piped (tap) water inside the yard,6.7,Western Cape,Overberg,Overstrand,DsAccessToPipedWaters
+Census 2022,Municipality,Overstrand,Piped (tap) water on community stand,5.5,Western Cape,Overberg,Overstrand,DsAccessToPipedWaters
+Census 2022,Municipality,Overstrand,No access to piped water,0.2,Western Cape,Overberg,Overstrand,DsAccessToPipedWaters
+Census 2022,Municipality,Swellendam,Piped (tap) water inside the dwelling,86.6,Western Cape,Overberg,Swellendam,DsAccessToPipedWaters
+Census 2022,Municipality,Swellendam,Piped (tap) water inside the yard,8.2,Western Cape,Overberg,Swellendam,DsAccessToPipedWaters
+Census 2022,Municipality,Swellendam,Piped (tap) water on community stand,4.3,Western Cape,Overberg,Swellendam,DsAccessToPipedWaters
+Census 2022,Municipality,Swellendam,No access to piped water,0.9,Western Cape,Overberg,Swellendam,DsAccessToPipedWaters
+Census 2022,Municipality,Theewaterskloof,Piped (tap) water inside the dwelling,76.0,Western Cape,Overberg,Theewaterskloof,DsAccessToPipedWaters
+Census 2022,Municipality,Theewaterskloof,Piped (tap) water inside the yard,8.5,Western Cape,Overberg,Theewaterskloof,DsAccessToPipedWaters
+Census 2022,Municipality,Theewaterskloof,Piped (tap) water on community stand,12.4,Western Cape,Overberg,Theewaterskloof,DsAccessToPipedWaters
+Census 2022,Municipality,Theewaterskloof,No access to piped water,3.1,Western Cape,Overberg,Theewaterskloof,DsAccessToPipedWaters
+Census 2022,Municipality,Bergrivier,Piped (tap) water inside the dwelling,88.7,Western Cape,West Coast,Bergrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Bergrivier,Piped (tap) water inside the yard,10.6,Western Cape,West Coast,Bergrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Bergrivier,Piped (tap) water on community stand,0.3,Western Cape,West Coast,Bergrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Bergrivier,No access to piped water,0.3,Western Cape,West Coast,Bergrivier,DsAccessToPipedWaters
+Census 2022,Municipality,Cederberg,Piped (tap) water inside the dwelling,73.1,Western Cape,West Coast,Cederberg,DsAccessToPipedWaters
+Census 2022,Municipality,Cederberg,Piped (tap) water inside the yard,16.7,Western Cape,West Coast,Cederberg,DsAccessToPipedWaters
+Census 2022,Municipality,Cederberg,Piped (tap) water on community stand,9.6,Western Cape,West Coast,Cederberg,DsAccessToPipedWaters
+Census 2022,Municipality,Cederberg,No access to piped water,0.6,Western Cape,West Coast,Cederberg,DsAccessToPipedWaters
+Census 2022,Municipality,Matzikama,Piped (tap) water inside the dwelling,83.3,Western Cape,West Coast,Matzikama,DsAccessToPipedWaters
+Census 2022,Municipality,Matzikama,Piped (tap) water inside the yard,13.9,Western Cape,West Coast,Matzikama,DsAccessToPipedWaters
+Census 2022,Municipality,Matzikama,Piped (tap) water on community stand,2.2,Western Cape,West Coast,Matzikama,DsAccessToPipedWaters
+Census 2022,Municipality,Matzikama,No access to piped water,0.7,Western Cape,West Coast,Matzikama,DsAccessToPipedWaters
+Census 2022,Municipality,Saldanha Bay,Piped (tap) water inside the dwelling,86.7,Western Cape,West Coast,Saldanha Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Saldanha Bay,Piped (tap) water inside the yard,6.3,Western Cape,West Coast,Saldanha Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Saldanha Bay,Piped (tap) water on community stand,5.1,Western Cape,West Coast,Saldanha Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Saldanha Bay,No access to piped water,2.0,Western Cape,West Coast,Saldanha Bay,DsAccessToPipedWaters
+Census 2022,Municipality,Swartland,Piped (tap) water inside the dwelling,90.6,Western Cape,West Coast,Swartland,DsAccessToPipedWaters
+Census 2022,Municipality,Swartland,Piped (tap) water inside the yard,7.8,Western Cape,West Coast,Swartland,DsAccessToPipedWaters
+Census 2022,Municipality,Swartland,Piped (tap) water on community stand,0.9,Western Cape,West Coast,Swartland,DsAccessToPipedWaters
+Census 2022,Municipality,Swartland,No access to piped water,0.7,Western Cape,West Coast,Swartland,DsAccessToPipedWaters

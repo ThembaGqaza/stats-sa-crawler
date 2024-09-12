@@ -1,0 +1,853 @@
+timeSeriesDesc,geoLevelDesc,geoLevelValueDesc,label,counts,countsPercentage,Province,District,Municipality,ReportType
+Census 2022,Municipality,Matatiele,Formal dwelling,42281,75.8,Eastern Cape,Alfred Nzo,Matatiele,DsTypeOfMainDwellings
+Census 2022,Municipality,Matatiele,Traditional dwelling,12892,23.1,Eastern Cape,Alfred Nzo,Matatiele,DsTypeOfMainDwellings
+Census 2022,Municipality,Matatiele,Informal dwelling,401,0.7,Eastern Cape,Alfred Nzo,Matatiele,DsTypeOfMainDwellings
+Census 2022,Municipality,Matatiele,Other,183,0.3,Eastern Cape,Alfred Nzo,Matatiele,DsTypeOfMainDwellings
+Census 2022,Municipality,Ntabankulu,Formal dwelling,15948,56.2,Eastern Cape,Alfred Nzo,Ntabankulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ntabankulu,Traditional dwelling,12092,42.6,Eastern Cape,Alfred Nzo,Ntabankulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ntabankulu,Informal dwelling,236,0.8,Eastern Cape,Alfred Nzo,Ntabankulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ntabankulu,Other,89,0.3,Eastern Cape,Alfred Nzo,Ntabankulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimvubu,Formal dwelling,38000,73.5,Eastern Cape,Alfred Nzo,Umzimvubu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimvubu,Traditional dwelling,13329,25.8,Eastern Cape,Alfred Nzo,Umzimvubu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimvubu,Informal dwelling,187,0.4,Eastern Cape,Alfred Nzo,Umzimvubu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimvubu,Other,183,0.4,Eastern Cape,Alfred Nzo,Umzimvubu,DsTypeOfMainDwellings
+Census 2022,Municipality,Winnie Madikizela-Mandela,Formal dwelling,44007,70.4,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsTypeOfMainDwellings
+Census 2022,Municipality,Winnie Madikizela-Mandela,Traditional dwelling,17171,27.5,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsTypeOfMainDwellings
+Census 2022,Municipality,Winnie Madikizela-Mandela,Informal dwelling,714,1.1,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsTypeOfMainDwellings
+Census 2022,Municipality,Winnie Madikizela-Mandela,Other,587,0.9,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsTypeOfMainDwellings
+Census 2022,Municipality,Amahlathi,Formal dwelling,28344,84.3,Eastern Cape,Amathole,Amahlathi,DsTypeOfMainDwellings
+Census 2022,Municipality,Amahlathi,Traditional dwelling,4145,12.3,Eastern Cape,Amathole,Amahlathi,DsTypeOfMainDwellings
+Census 2022,Municipality,Amahlathi,Informal dwelling,986,2.9,Eastern Cape,Amathole,Amahlathi,DsTypeOfMainDwellings
+Census 2022,Municipality,Amahlathi,Other,147,0.4,Eastern Cape,Amathole,Amahlathi,DsTypeOfMainDwellings
+Census 2022,Municipality,Great Kei,Formal dwelling,10335,85.5,Eastern Cape,Amathole,Great Kei,DsTypeOfMainDwellings
+Census 2022,Municipality,Great Kei,Traditional dwelling,599,5.0,Eastern Cape,Amathole,Great Kei,DsTypeOfMainDwellings
+Census 2022,Municipality,Great Kei,Informal dwelling,1099,9.1,Eastern Cape,Amathole,Great Kei,DsTypeOfMainDwellings
+Census 2022,Municipality,Great Kei,Other,62,0.5,Eastern Cape,Amathole,Great Kei,DsTypeOfMainDwellings
+Census 2022,Municipality,Mbhashe,Formal dwelling,36476,69.2,Eastern Cape,Amathole,Mbhashe,DsTypeOfMainDwellings
+Census 2022,Municipality,Mbhashe,Traditional dwelling,15734,29.8,Eastern Cape,Amathole,Mbhashe,DsTypeOfMainDwellings
+Census 2022,Municipality,Mbhashe,Informal dwelling,268,0.5,Eastern Cape,Amathole,Mbhashe,DsTypeOfMainDwellings
+Census 2022,Municipality,Mbhashe,Other,237,0.5,Eastern Cape,Amathole,Mbhashe,DsTypeOfMainDwellings
+Census 2022,Municipality,Mnquma,Formal dwelling,51526,79.0,Eastern Cape,Amathole,Mnquma,DsTypeOfMainDwellings
+Census 2022,Municipality,Mnquma,Traditional dwelling,12249,18.8,Eastern Cape,Amathole,Mnquma,DsTypeOfMainDwellings
+Census 2022,Municipality,Mnquma,Informal dwelling,782,1.2,Eastern Cape,Amathole,Mnquma,DsTypeOfMainDwellings
+Census 2022,Municipality,Mnquma,Other,664,1.0,Eastern Cape,Amathole,Mnquma,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngqushwa,Formal dwelling,22268,89.4,Eastern Cape,Amathole,Ngqushwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngqushwa,Traditional dwelling,2143,8.6,Eastern Cape,Amathole,Ngqushwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngqushwa,Informal dwelling,420,1.7,Eastern Cape,Amathole,Ngqushwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngqushwa,Other,83,0.3,Eastern Cape,Amathole,Ngqushwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Raymond Mhlaba,Formal dwelling,46990,88.6,Eastern Cape,Amathole,Raymond Mhlaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Raymond Mhlaba,Traditional dwelling,4549,8.6,Eastern Cape,Amathole,Raymond Mhlaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Raymond Mhlaba,Informal dwelling,1339,2.5,Eastern Cape,Amathole,Raymond Mhlaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Raymond Mhlaba,Other,170,0.3,Eastern Cape,Amathole,Raymond Mhlaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Buffalo City,Formal dwelling,229710,85.6,Eastern Cape,Buffalo City,Buffalo City,DsTypeOfMainDwellings
+Census 2022,Municipality,Buffalo City,Traditional dwelling,7942,3.0,Eastern Cape,Buffalo City,Buffalo City,DsTypeOfMainDwellings
+Census 2022,Municipality,Buffalo City,Informal dwelling,30160,11.2,Eastern Cape,Buffalo City,Buffalo City,DsTypeOfMainDwellings
+Census 2022,Municipality,Buffalo City,Other,627,0.2,Eastern Cape,Buffalo City,Buffalo City,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Formal dwelling,27344,83.4,Eastern Cape,Chris Hani,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Traditional dwelling,5224,15.9,Eastern Cape,Chris Hani,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Informal dwelling,146,0.4,Eastern Cape,Chris Hani,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Other,58,0.2,Eastern Cape,Chris Hani,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Engcobo,Formal dwelling,16300,67.1,Eastern Cape,Chris Hani,Engcobo,DsTypeOfMainDwellings
+Census 2022,Municipality,Engcobo,Traditional dwelling,7784,32.0,Eastern Cape,Chris Hani,Engcobo,DsTypeOfMainDwellings
+Census 2022,Municipality,Engcobo,Informal dwelling,157,0.6,Eastern Cape,Chris Hani,Engcobo,DsTypeOfMainDwellings
+Census 2022,Municipality,Engcobo,Other,66,0.3,Eastern Cape,Chris Hani,Engcobo,DsTypeOfMainDwellings
+Census 2022,Municipality,Enoch Mgijima,Formal dwelling,92928,96.0,Eastern Cape,Chris Hani,Enoch Mgijima,DsTypeOfMainDwellings
+Census 2022,Municipality,Enoch Mgijima,Traditional dwelling,1945,2.0,Eastern Cape,Chris Hani,Enoch Mgijima,DsTypeOfMainDwellings
+Census 2022,Municipality,Enoch Mgijima,Informal dwelling,1662,1.7,Eastern Cape,Chris Hani,Enoch Mgijima,DsTypeOfMainDwellings
+Census 2022,Municipality,Enoch Mgijima,Other,256,0.3,Eastern Cape,Chris Hani,Enoch Mgijima,DsTypeOfMainDwellings
+Census 2022,Municipality,Intsika Yethu,Formal dwelling,20420,63.4,Eastern Cape,Chris Hani,Intsika Yethu,DsTypeOfMainDwellings
+Census 2022,Municipality,Intsika Yethu,Traditional dwelling,11633,36.1,Eastern Cape,Chris Hani,Intsika Yethu,DsTypeOfMainDwellings
+Census 2022,Municipality,Intsika Yethu,Informal dwelling,98,0.3,Eastern Cape,Chris Hani,Intsika Yethu,DsTypeOfMainDwellings
+Census 2022,Municipality,Intsika Yethu,Other,77,0.2,Eastern Cape,Chris Hani,Intsika Yethu,DsTypeOfMainDwellings
+Census 2022,Municipality,Inxuba Yethemba,Formal dwelling,22712,98.8,Eastern Cape,Chris Hani,Inxuba Yethemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Inxuba Yethemba,Traditional dwelling,92,0.4,Eastern Cape,Chris Hani,Inxuba Yethemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Inxuba Yethemba,Informal dwelling,165,0.7,Eastern Cape,Chris Hani,Inxuba Yethemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Inxuba Yethemba,Other,25,0.1,Eastern Cape,Chris Hani,Inxuba Yethemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Sakhisizwe,Formal dwelling,14441,83.2,Eastern Cape,Chris Hani,Sakhisizwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Sakhisizwe,Traditional dwelling,2513,14.5,Eastern Cape,Chris Hani,Sakhisizwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Sakhisizwe,Informal dwelling,361,2.1,Eastern Cape,Chris Hani,Sakhisizwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Sakhisizwe,Other,40,0.2,Eastern Cape,Chris Hani,Sakhisizwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Elundini,Formal dwelling,31529,76.5,Eastern Cape,Joe Gqabi,Elundini,DsTypeOfMainDwellings
+Census 2022,Municipality,Elundini,Traditional dwelling,8850,21.5,Eastern Cape,Joe Gqabi,Elundini,DsTypeOfMainDwellings
+Census 2022,Municipality,Elundini,Informal dwelling,733,1.8,Eastern Cape,Joe Gqabi,Elundini,DsTypeOfMainDwellings
+Census 2022,Municipality,Elundini,Other,97,0.2,Eastern Cape,Joe Gqabi,Elundini,DsTypeOfMainDwellings
+Census 2022,Municipality,Senqu,Formal dwelling,43301,88.5,Eastern Cape,Joe Gqabi,Senqu,DsTypeOfMainDwellings
+Census 2022,Municipality,Senqu,Traditional dwelling,3946,8.1,Eastern Cape,Joe Gqabi,Senqu,DsTypeOfMainDwellings
+Census 2022,Municipality,Senqu,Informal dwelling,1415,2.9,Eastern Cape,Joe Gqabi,Senqu,DsTypeOfMainDwellings
+Census 2022,Municipality,Senqu,Other,252,0.5,Eastern Cape,Joe Gqabi,Senqu,DsTypeOfMainDwellings
+Census 2022,Municipality,Walter Sisulu,Formal dwelling,32242,94.4,Eastern Cape,Joe Gqabi,Walter Sisulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Walter Sisulu,Traditional dwelling,440,1.3,Eastern Cape,Joe Gqabi,Walter Sisulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Walter Sisulu,Informal dwelling,1445,4.2,Eastern Cape,Joe Gqabi,Walter Sisulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Walter Sisulu,Other,43,0.1,Eastern Cape,Joe Gqabi,Walter Sisulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Nelson Mandela Bay,Formal dwelling,283398,92.0,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Nelson Mandela Bay,Traditional dwelling,1202,0.4,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Nelson Mandela Bay,Informal dwelling,22793,7.4,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Nelson Mandela Bay,Other,538,0.2,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,King Sabata Dalindyebo,Formal dwelling,96929,84.6,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsTypeOfMainDwellings
+Census 2022,Municipality,King Sabata Dalindyebo,Traditional dwelling,16559,14.5,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsTypeOfMainDwellings
+Census 2022,Municipality,King Sabata Dalindyebo,Informal dwelling,535,0.5,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsTypeOfMainDwellings
+Census 2022,Municipality,King Sabata Dalindyebo,Other,557,0.5,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mhlontlo,Formal dwelling,31721,72.1,Eastern Cape,O.R. Tambo,Mhlontlo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mhlontlo,Traditional dwelling,11873,27.0,Eastern Cape,O.R. Tambo,Mhlontlo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mhlontlo,Informal dwelling,152,0.3,Eastern Cape,O.R. Tambo,Mhlontlo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mhlontlo,Other,235,0.5,Eastern Cape,O.R. Tambo,Mhlontlo,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngquza Hill,Formal dwelling,49044,76.6,Eastern Cape,O.R. Tambo,Ngquza Hill,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngquza Hill,Traditional dwelling,13462,21.0,Eastern Cape,O.R. Tambo,Ngquza Hill,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngquza Hill,Informal dwelling,1136,1.8,Eastern Cape,O.R. Tambo,Ngquza Hill,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngquza Hill,Other,410,0.6,Eastern Cape,O.R. Tambo,Ngquza Hill,DsTypeOfMainDwellings
+Census 2022,Municipality,Nyandeni,Formal dwelling,44041,73.1,Eastern Cape,O.R. Tambo,Nyandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Nyandeni,Traditional dwelling,15664,26.0,Eastern Cape,O.R. Tambo,Nyandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Nyandeni,Informal dwelling,431,0.7,Eastern Cape,O.R. Tambo,Nyandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Nyandeni,Other,144,0.2,Eastern Cape,O.R. Tambo,Nyandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Port St Johns,Formal dwelling,20225,66.0,Eastern Cape,O.R. Tambo,Port St Johns,DsTypeOfMainDwellings
+Census 2022,Municipality,Port St Johns,Traditional dwelling,9876,32.2,Eastern Cape,O.R. Tambo,Port St Johns,DsTypeOfMainDwellings
+Census 2022,Municipality,Port St Johns,Informal dwelling,422,1.4,Eastern Cape,O.R. Tambo,Port St Johns,DsTypeOfMainDwellings
+Census 2022,Municipality,Port St Johns,Other,120,0.4,Eastern Cape,O.R. Tambo,Port St Johns,DsTypeOfMainDwellings
+Census 2022,Municipality,Blue Crane Route,Formal dwelling,15660,97.2,Eastern Cape,Sarah Baartman,Blue Crane Route,DsTypeOfMainDwellings
+Census 2022,Municipality,Blue Crane Route,Traditional dwelling,52,0.3,Eastern Cape,Sarah Baartman,Blue Crane Route,DsTypeOfMainDwellings
+Census 2022,Municipality,Blue Crane Route,Informal dwelling,394,2.4,Eastern Cape,Sarah Baartman,Blue Crane Route,DsTypeOfMainDwellings
+Census 2022,Municipality,Blue Crane Route,Other,10,0.1,Eastern Cape,Sarah Baartman,Blue Crane Route,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Beyers Naude,Formal dwelling,22668,97.2,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Beyers Naude,Traditional dwelling,65,0.3,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Beyers Naude,Informal dwelling,563,2.4,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Beyers Naude,Other,22,0.1,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsTypeOfMainDwellings
+Census 2022,Municipality,Kou-Kamma,Formal dwelling,9031,94.1,Eastern Cape,Sarah Baartman,Kou-Kamma,DsTypeOfMainDwellings
+Census 2022,Municipality,Kou-Kamma,Traditional dwelling,47,0.5,Eastern Cape,Sarah Baartman,Kou-Kamma,DsTypeOfMainDwellings
+Census 2022,Municipality,Kou-Kamma,Informal dwelling,460,4.8,Eastern Cape,Sarah Baartman,Kou-Kamma,DsTypeOfMainDwellings
+Census 2022,Municipality,Kou-Kamma,Other,55,0.6,Eastern Cape,Sarah Baartman,Kou-Kamma,DsTypeOfMainDwellings
+Census 2022,Municipality,Kouga,Formal dwelling,24301,84.7,Eastern Cape,Sarah Baartman,Kouga,DsTypeOfMainDwellings
+Census 2022,Municipality,Kouga,Traditional dwelling,236,0.8,Eastern Cape,Sarah Baartman,Kouga,DsTypeOfMainDwellings
+Census 2022,Municipality,Kouga,Informal dwelling,4070,14.2,Eastern Cape,Sarah Baartman,Kouga,DsTypeOfMainDwellings
+Census 2022,Municipality,Kouga,Other,74,0.3,Eastern Cape,Sarah Baartman,Kouga,DsTypeOfMainDwellings
+Census 2022,Municipality,Makana,Formal dwelling,26206,89.6,Eastern Cape,Sarah Baartman,Makana,DsTypeOfMainDwellings
+Census 2022,Municipality,Makana,Traditional dwelling,338,1.2,Eastern Cape,Sarah Baartman,Makana,DsTypeOfMainDwellings
+Census 2022,Municipality,Makana,Informal dwelling,2574,8.8,Eastern Cape,Sarah Baartman,Makana,DsTypeOfMainDwellings
+Census 2022,Municipality,Makana,Other,120,0.4,Eastern Cape,Sarah Baartman,Makana,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndlambe,Formal dwelling,29493,90.9,Eastern Cape,Sarah Baartman,Ndlambe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndlambe,Traditional dwelling,273,0.8,Eastern Cape,Sarah Baartman,Ndlambe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndlambe,Informal dwelling,2593,8.0,Eastern Cape,Sarah Baartman,Ndlambe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndlambe,Other,80,0.2,Eastern Cape,Sarah Baartman,Ndlambe,DsTypeOfMainDwellings
+Census 2022,Municipality,Sundays River Valley,Formal dwelling,16702,87.8,Eastern Cape,Sarah Baartman,Sundays River Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Sundays River Valley,Traditional dwelling,511,2.7,Eastern Cape,Sarah Baartman,Sundays River Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Sundays River Valley,Informal dwelling,1772,9.3,Eastern Cape,Sarah Baartman,Sundays River Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Sundays River Valley,Other,32,0.2,Eastern Cape,Sarah Baartman,Sundays River Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafube,Formal dwelling,14303,84.7,Free State,Fezile Dabi,Mafube,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafube,Traditional dwelling,216,1.3,Free State,Fezile Dabi,Mafube,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafube,Informal dwelling,2351,13.9,Free State,Fezile Dabi,Mafube,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafube,Other,26,0.2,Free State,Fezile Dabi,Mafube,DsTypeOfMainDwellings
+Census 2022,Municipality,Metsimaholo,Formal dwelling,43311,88.3,Free State,Fezile Dabi,Metsimaholo,DsTypeOfMainDwellings
+Census 2022,Municipality,Metsimaholo,Traditional dwelling,215,0.4,Free State,Fezile Dabi,Metsimaholo,DsTypeOfMainDwellings
+Census 2022,Municipality,Metsimaholo,Informal dwelling,5364,10.9,Free State,Fezile Dabi,Metsimaholo,DsTypeOfMainDwellings
+Census 2022,Municipality,Metsimaholo,Other,170,0.3,Free State,Fezile Dabi,Metsimaholo,DsTypeOfMainDwellings
+Census 2022,Municipality,Moqhaka,Formal dwelling,38915,90.9,Free State,Fezile Dabi,Moqhaka,DsTypeOfMainDwellings
+Census 2022,Municipality,Moqhaka,Traditional dwelling,202,0.5,Free State,Fezile Dabi,Moqhaka,DsTypeOfMainDwellings
+Census 2022,Municipality,Moqhaka,Informal dwelling,3357,7.8,Free State,Fezile Dabi,Moqhaka,DsTypeOfMainDwellings
+Census 2022,Municipality,Moqhaka,Other,315,0.7,Free State,Fezile Dabi,Moqhaka,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngwathe,Formal dwelling,33560,91.2,Free State,Fezile Dabi,Ngwathe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngwathe,Traditional dwelling,181,0.5,Free State,Fezile Dabi,Ngwathe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngwathe,Informal dwelling,2718,7.4,Free State,Fezile Dabi,Ngwathe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ngwathe,Other,335,0.9,Free State,Fezile Dabi,Ngwathe,DsTypeOfMainDwellings
+Census 2022,Municipality,Masilonyana,Formal dwelling,16246,91.0,Free State,Lejweleputswa,Masilonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Masilonyana,Traditional dwelling,84,0.5,Free State,Lejweleputswa,Masilonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Masilonyana,Informal dwelling,1316,7.4,Free State,Lejweleputswa,Masilonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Masilonyana,Other,207,1.2,Free State,Lejweleputswa,Masilonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Matjhabeng,Formal dwelling,111125,88.1,Free State,Lejweleputswa,Matjhabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Matjhabeng,Traditional dwelling,440,0.3,Free State,Lejweleputswa,Matjhabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Matjhabeng,Informal dwelling,13987,11.1,Free State,Lejweleputswa,Matjhabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Matjhabeng,Other,516,0.4,Free State,Lejweleputswa,Matjhabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Nala,Formal dwelling,20632,89.6,Free State,Lejweleputswa,Nala,DsTypeOfMainDwellings
+Census 2022,Municipality,Nala,Traditional dwelling,99,0.4,Free State,Lejweleputswa,Nala,DsTypeOfMainDwellings
+Census 2022,Municipality,Nala,Informal dwelling,2197,9.5,Free State,Lejweleputswa,Nala,DsTypeOfMainDwellings
+Census 2022,Municipality,Nala,Other,99,0.4,Free State,Lejweleputswa,Nala,DsTypeOfMainDwellings
+Census 2022,Municipality,Tokologo,Formal dwelling,6739,83.6,Free State,Lejweleputswa,Tokologo,DsTypeOfMainDwellings
+Census 2022,Municipality,Tokologo,Traditional dwelling,12,0.1,Free State,Lejweleputswa,Tokologo,DsTypeOfMainDwellings
+Census 2022,Municipality,Tokologo,Informal dwelling,1125,14.0,Free State,Lejweleputswa,Tokologo,DsTypeOfMainDwellings
+Census 2022,Municipality,Tokologo,Other,185,2.3,Free State,Lejweleputswa,Tokologo,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswelopele,Formal dwelling,12613,85.2,Free State,Lejweleputswa,Tswelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswelopele,Traditional dwelling,111,0.8,Free State,Lejweleputswa,Tswelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswelopele,Informal dwelling,1984,13.4,Free State,Lejweleputswa,Tswelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswelopele,Other,91,0.6,Free State,Lejweleputswa,Tswelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Mangaung,Formal dwelling,206758,90.1,Free State,Mangaung,Mangaung,DsTypeOfMainDwellings
+Census 2022,Municipality,Mangaung,Traditional dwelling,2155,0.9,Free State,Mangaung,Mangaung,DsTypeOfMainDwellings
+Census 2022,Municipality,Mangaung,Informal dwelling,19274,8.4,Free State,Mangaung,Mangaung,DsTypeOfMainDwellings
+Census 2022,Municipality,Mangaung,Other,1239,0.5,Free State,Mangaung,Mangaung,DsTypeOfMainDwellings
+Census 2022,Municipality,Dihlabeng,Formal dwelling,35430,85.4,Free State,Thabo Mofutsanyane,Dihlabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dihlabeng,Traditional dwelling,646,1.6,Free State,Thabo Mofutsanyane,Dihlabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dihlabeng,Informal dwelling,5283,12.7,Free State,Thabo Mofutsanyane,Dihlabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dihlabeng,Other,109,0.3,Free State,Thabo Mofutsanyane,Dihlabeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Maluti a Phofung,Formal dwelling,101408,88.1,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsTypeOfMainDwellings
+Census 2022,Municipality,Maluti a Phofung,Traditional dwelling,4405,3.8,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsTypeOfMainDwellings
+Census 2022,Municipality,Maluti a Phofung,Informal dwelling,8806,7.6,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsTypeOfMainDwellings
+Census 2022,Municipality,Maluti a Phofung,Other,531,0.5,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsTypeOfMainDwellings
+Census 2022,Municipality,Mantsopa,Formal dwelling,14556,91.1,Free State,Thabo Mofutsanyane,Mantsopa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mantsopa,Traditional dwelling,275,1.7,Free State,Thabo Mofutsanyane,Mantsopa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mantsopa,Informal dwelling,986,6.2,Free State,Thabo Mofutsanyane,Mantsopa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mantsopa,Other,164,1.0,Free State,Thabo Mofutsanyane,Mantsopa,DsTypeOfMainDwellings
+Census 2022,Municipality,Nketoana,Formal dwelling,16587,84.0,Free State,Thabo Mofutsanyane,Nketoana,DsTypeOfMainDwellings
+Census 2022,Municipality,Nketoana,Traditional dwelling,148,0.8,Free State,Thabo Mofutsanyane,Nketoana,DsTypeOfMainDwellings
+Census 2022,Municipality,Nketoana,Informal dwelling,2790,14.1,Free State,Thabo Mofutsanyane,Nketoana,DsTypeOfMainDwellings
+Census 2022,Municipality,Nketoana,Other,213,1.1,Free State,Thabo Mofutsanyane,Nketoana,DsTypeOfMainDwellings
+Census 2022,Municipality,Phumelela,Formal dwelling,12937,82.9,Free State,Thabo Mofutsanyane,Phumelela,DsTypeOfMainDwellings
+Census 2022,Municipality,Phumelela,Traditional dwelling,836,5.4,Free State,Thabo Mofutsanyane,Phumelela,DsTypeOfMainDwellings
+Census 2022,Municipality,Phumelela,Informal dwelling,1765,11.3,Free State,Thabo Mofutsanyane,Phumelela,DsTypeOfMainDwellings
+Census 2022,Municipality,Phumelela,Other,67,0.4,Free State,Thabo Mofutsanyane,Phumelela,DsTypeOfMainDwellings
+Census 2022,Municipality,Setsoto,Formal dwelling,30369,83.3,Free State,Thabo Mofutsanyane,Setsoto,DsTypeOfMainDwellings
+Census 2022,Municipality,Setsoto,Traditional dwelling,349,1.0,Free State,Thabo Mofutsanyane,Setsoto,DsTypeOfMainDwellings
+Census 2022,Municipality,Setsoto,Informal dwelling,5452,14.9,Free State,Thabo Mofutsanyane,Setsoto,DsTypeOfMainDwellings
+Census 2022,Municipality,Setsoto,Other,301,0.8,Free State,Thabo Mofutsanyane,Setsoto,DsTypeOfMainDwellings
+Census 2022,Municipality,Kopanong,Formal dwelling,13797,94.6,Free State,Xhariep,Kopanong,DsTypeOfMainDwellings
+Census 2022,Municipality,Kopanong,Traditional dwelling,50,0.3,Free State,Xhariep,Kopanong,DsTypeOfMainDwellings
+Census 2022,Municipality,Kopanong,Informal dwelling,663,4.6,Free State,Xhariep,Kopanong,DsTypeOfMainDwellings
+Census 2022,Municipality,Kopanong,Other,68,0.5,Free State,Xhariep,Kopanong,DsTypeOfMainDwellings
+Census 2022,Municipality,Letsemeng,Formal dwelling,9279,84.8,Free State,Xhariep,Letsemeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Letsemeng,Traditional dwelling,33,0.3,Free State,Xhariep,Letsemeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Letsemeng,Informal dwelling,1586,14.5,Free State,Xhariep,Letsemeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Letsemeng,Other,43,0.4,Free State,Xhariep,Letsemeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Mohokare,Formal dwelling,9739,92.3,Free State,Xhariep,Mohokare,DsTypeOfMainDwellings
+Census 2022,Municipality,Mohokare,Traditional dwelling,39,0.4,Free State,Xhariep,Mohokare,DsTypeOfMainDwellings
+Census 2022,Municipality,Mohokare,Informal dwelling,689,6.5,Free State,Xhariep,Mohokare,DsTypeOfMainDwellings
+Census 2022,Municipality,Mohokare,Other,78,0.7,Free State,Xhariep,Mohokare,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Johannesburg,Formal dwelling,1654417,89.8,Gauteng,City of Johannesburg,City of Johannesburg,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Johannesburg,Traditional dwelling,3890,0.2,Gauteng,City of Johannesburg,City of Johannesburg,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Johannesburg,Informal dwelling,179028,9.7,Gauteng,City of Johannesburg,City of Johannesburg,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Johannesburg,Other,4583,0.2,Gauteng,City of Johannesburg,City of Johannesburg,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Tshwane,Formal dwelling,1141292,86.3,Gauteng,City of Tshwane,City of Tshwane,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Tshwane,Traditional dwelling,3517,0.3,Gauteng,City of Tshwane,City of Tshwane,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Tshwane,Informal dwelling,173749,13.1,Gauteng,City of Tshwane,City of Tshwane,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Tshwane,Other,3693,0.3,Gauteng,City of Tshwane,City of Tshwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Ekurhuleni,Formal dwelling,1253299,88.2,Gauteng,Ekurhuleni,Ekurhuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ekurhuleni,Traditional dwelling,4340,0.3,Gauteng,Ekurhuleni,Ekurhuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ekurhuleni,Informal dwelling,158756,11.2,Gauteng,Ekurhuleni,Ekurhuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ekurhuleni,Other,4608,0.3,Gauteng,Ekurhuleni,Ekurhuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emfuleni,Formal dwelling,268491,90.1,Gauteng,Sedibeng,Emfuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emfuleni,Traditional dwelling,866,0.3,Gauteng,Sedibeng,Emfuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emfuleni,Informal dwelling,28065,9.4,Gauteng,Sedibeng,Emfuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emfuleni,Other,488,0.2,Gauteng,Sedibeng,Emfuleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Lesedi,Formal dwelling,40499,95.1,Gauteng,Sedibeng,Lesedi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lesedi,Traditional dwelling,269,0.6,Gauteng,Sedibeng,Lesedi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lesedi,Informal dwelling,1786,4.2,Gauteng,Sedibeng,Lesedi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lesedi,Other,44,0.1,Gauteng,Sedibeng,Lesedi,DsTypeOfMainDwellings
+Census 2022,Municipality,Midvaal,Formal dwelling,33969,93.2,Gauteng,Sedibeng,Midvaal,DsTypeOfMainDwellings
+Census 2022,Municipality,Midvaal,Traditional dwelling,138,0.4,Gauteng,Sedibeng,Midvaal,DsTypeOfMainDwellings
+Census 2022,Municipality,Midvaal,Informal dwelling,2228,6.1,Gauteng,Sedibeng,Midvaal,DsTypeOfMainDwellings
+Census 2022,Municipality,Midvaal,Other,129,0.4,Gauteng,Sedibeng,Midvaal,DsTypeOfMainDwellings
+Census 2022,Municipality,Merafong City,Formal dwelling,71086,91.6,Gauteng,West Rand,Merafong City,DsTypeOfMainDwellings
+Census 2022,Municipality,Merafong City,Traditional dwelling,119,0.2,Gauteng,West Rand,Merafong City,DsTypeOfMainDwellings
+Census 2022,Municipality,Merafong City,Informal dwelling,6281,8.1,Gauteng,West Rand,Merafong City,DsTypeOfMainDwellings
+Census 2022,Municipality,Merafong City,Other,113,0.1,Gauteng,West Rand,Merafong City,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogale City,Formal dwelling,128202,85.0,Gauteng,West Rand,Mogale City,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogale City,Traditional dwelling,598,0.4,Gauteng,West Rand,Mogale City,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogale City,Informal dwelling,21495,14.3,Gauteng,West Rand,Mogale City,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogale City,Other,492,0.3,Gauteng,West Rand,Mogale City,DsTypeOfMainDwellings
+Census 2022,Municipality,Rand West City,Formal dwelling,114739,89.5,Gauteng,West Rand,Rand West City,DsTypeOfMainDwellings
+Census 2022,Municipality,Rand West City,Traditional dwelling,324,0.3,Gauteng,West Rand,Rand West City,DsTypeOfMainDwellings
+Census 2022,Municipality,Rand West City,Informal dwelling,12929,10.1,Gauteng,West Rand,Rand West City,DsTypeOfMainDwellings
+Census 2022,Municipality,Rand West City,Other,153,0.1,Gauteng,West Rand,Rand West City,DsTypeOfMainDwellings
+Census 2022,Municipality,Dannhauser,Formal dwelling,21783,85.5,KwaZulu-Natal,Amajuba,Dannhauser,DsTypeOfMainDwellings
+Census 2022,Municipality,Dannhauser,Traditional dwelling,3391,13.3,KwaZulu-Natal,Amajuba,Dannhauser,DsTypeOfMainDwellings
+Census 2022,Municipality,Dannhauser,Informal dwelling,276,1.1,KwaZulu-Natal,Amajuba,Dannhauser,DsTypeOfMainDwellings
+Census 2022,Municipality,Dannhauser,Other,29,0.1,KwaZulu-Natal,Amajuba,Dannhauser,DsTypeOfMainDwellings
+Census 2022,Municipality,Emadlangeni,Formal dwelling,6536,81.7,KwaZulu-Natal,Amajuba,Emadlangeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emadlangeni,Traditional dwelling,1079,13.5,KwaZulu-Natal,Amajuba,Emadlangeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emadlangeni,Informal dwelling,372,4.7,KwaZulu-Natal,Amajuba,Emadlangeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emadlangeni,Other,10,0.1,KwaZulu-Natal,Amajuba,Emadlangeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Newcastle,Formal dwelling,112122,96.0,KwaZulu-Natal,Amajuba,Newcastle,DsTypeOfMainDwellings
+Census 2022,Municipality,Newcastle,Traditional dwelling,2503,2.1,KwaZulu-Natal,Amajuba,Newcastle,DsTypeOfMainDwellings
+Census 2022,Municipality,Newcastle,Informal dwelling,1958,1.7,KwaZulu-Natal,Amajuba,Newcastle,DsTypeOfMainDwellings
+Census 2022,Municipality,Newcastle,Other,180,0.2,KwaZulu-Natal,Amajuba,Newcastle,DsTypeOfMainDwellings
+Census 2022,Municipality,eThekwini,Formal dwelling,1001347,89.2,KwaZulu-Natal,eThekwini,eThekwini,DsTypeOfMainDwellings
+Census 2022,Municipality,eThekwini,Traditional dwelling,18677,1.7,KwaZulu-Natal,eThekwini,eThekwini,DsTypeOfMainDwellings
+Census 2022,Municipality,eThekwini,Informal dwelling,100291,8.9,KwaZulu-Natal,eThekwini,eThekwini,DsTypeOfMainDwellings
+Census 2022,Municipality,eThekwini,Other,2422,0.2,KwaZulu-Natal,eThekwini,eThekwini,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Formal dwelling,14068,55.1,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Traditional dwelling,10322,40.4,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Informal dwelling,726,2.8,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Other,408,1.6,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Kokstad,Formal dwelling,20527,90.3,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Kokstad,Traditional dwelling,972,4.3,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Kokstad,Informal dwelling,1135,5.0,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Kokstad,Other,103,0.5,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuhlebezwe,Formal dwelling,18810,70.3,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuhlebezwe,Traditional dwelling,6783,25.4,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuhlebezwe,Informal dwelling,1087,4.1,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuhlebezwe,Other,62,0.2,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimkhulu,Formal dwelling,22723,56.7,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimkhulu,Traditional dwelling,16896,42.2,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimkhulu,Informal dwelling,264,0.7,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzimkhulu,Other,181,0.5,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsTypeOfMainDwellings
+Census 2022,Municipality,KwaDukuza,Formal dwelling,91351,94.8,KwaZulu-Natal,iLembe,KwaDukuza,DsTypeOfMainDwellings
+Census 2022,Municipality,KwaDukuza,Traditional dwelling,1317,1.4,KwaZulu-Natal,iLembe,KwaDukuza,DsTypeOfMainDwellings
+Census 2022,Municipality,KwaDukuza,Informal dwelling,3535,3.7,KwaZulu-Natal,iLembe,KwaDukuza,DsTypeOfMainDwellings
+Census 2022,Municipality,KwaDukuza,Other,166,0.2,KwaZulu-Natal,iLembe,KwaDukuza,DsTypeOfMainDwellings
+Census 2022,Municipality,Mandeni,Formal dwelling,37312,92.3,KwaZulu-Natal,iLembe,Mandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mandeni,Traditional dwelling,1829,4.5,KwaZulu-Natal,iLembe,Mandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mandeni,Informal dwelling,1208,3.0,KwaZulu-Natal,iLembe,Mandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mandeni,Other,86,0.2,KwaZulu-Natal,iLembe,Mandeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Maphumulo,Formal dwelling,13585,66.6,KwaZulu-Natal,iLembe,Maphumulo,DsTypeOfMainDwellings
+Census 2022,Municipality,Maphumulo,Traditional dwelling,6501,31.9,KwaZulu-Natal,iLembe,Maphumulo,DsTypeOfMainDwellings
+Census 2022,Municipality,Maphumulo,Informal dwelling,174,0.9,KwaZulu-Natal,iLembe,Maphumulo,DsTypeOfMainDwellings
+Census 2022,Municipality,Maphumulo,Other,137,0.7,KwaZulu-Natal,iLembe,Maphumulo,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndwedwe,Formal dwelling,21634,72.2,KwaZulu-Natal,iLembe,Ndwedwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndwedwe,Traditional dwelling,7926,26.4,KwaZulu-Natal,iLembe,Ndwedwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndwedwe,Informal dwelling,295,1.0,KwaZulu-Natal,iLembe,Ndwedwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Ndwedwe,Other,126,0.4,KwaZulu-Natal,iLembe,Ndwedwe,DsTypeOfMainDwellings
+Census 2022,Municipality,Mfolozi,Formal dwelling,25288,88.7,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsTypeOfMainDwellings
+Census 2022,Municipality,Mfolozi,Traditional dwelling,2594,9.1,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsTypeOfMainDwellings
+Census 2022,Municipality,Mfolozi,Informal dwelling,578,2.0,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsTypeOfMainDwellings
+Census 2022,Municipality,Mfolozi,Other,57,0.2,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsTypeOfMainDwellings
+Census 2022,Municipality,Mthonjaneni,Formal dwelling,11615,75.4,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mthonjaneni,Traditional dwelling,3478,22.6,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mthonjaneni,Informal dwelling,118,0.8,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsTypeOfMainDwellings
+Census 2022,Municipality,Mthonjaneni,Other,197,1.3,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkandla,Formal dwelling,9075,55.8,KwaZulu-Natal,King Cetshwayo,Nkandla,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkandla,Traditional dwelling,7010,43.1,KwaZulu-Natal,King Cetshwayo,Nkandla,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkandla,Informal dwelling,143,0.9,KwaZulu-Natal,King Cetshwayo,Nkandla,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkandla,Other,27,0.2,KwaZulu-Natal,King Cetshwayo,Nkandla,DsTypeOfMainDwellings
+Census 2022,Municipality,uMhlathuze,Formal dwelling,97417,97.0,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsTypeOfMainDwellings
+Census 2022,Municipality,uMhlathuze,Traditional dwelling,2009,2.0,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsTypeOfMainDwellings
+Census 2022,Municipality,uMhlathuze,Informal dwelling,778,0.8,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsTypeOfMainDwellings
+Census 2022,Municipality,uMhlathuze,Other,237,0.2,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsTypeOfMainDwellings
+Census 2022,Municipality,uMlalazi,Formal dwelling,36516,80.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMlalazi,Traditional dwelling,7628,16.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMlalazi,Informal dwelling,573,1.3,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMlalazi,Other,402,0.9,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ray Nkonyeni,Formal dwelling,82171,93.8,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ray Nkonyeni,Traditional dwelling,2324,2.7,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ray Nkonyeni,Informal dwelling,2922,3.3,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Ray Nkonyeni,Other,215,0.2,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Umdoni,Formal dwelling,24908,75.3,KwaZulu-Natal,Ugu,Umdoni,DsTypeOfMainDwellings
+Census 2022,Municipality,Umdoni,Traditional dwelling,5734,17.3,KwaZulu-Natal,Ugu,Umdoni,DsTypeOfMainDwellings
+Census 2022,Municipality,Umdoni,Informal dwelling,2346,7.1,KwaZulu-Natal,Ugu,Umdoni,DsTypeOfMainDwellings
+Census 2022,Municipality,Umdoni,Other,96,0.3,KwaZulu-Natal,Ugu,Umdoni,DsTypeOfMainDwellings
+Census 2022,Municipality,uMuziwabantu,Formal dwelling,17061,73.2,KwaZulu-Natal,Ugu,uMuziwabantu,DsTypeOfMainDwellings
+Census 2022,Municipality,uMuziwabantu,Traditional dwelling,6067,26.0,KwaZulu-Natal,Ugu,uMuziwabantu,DsTypeOfMainDwellings
+Census 2022,Municipality,uMuziwabantu,Informal dwelling,143,0.6,KwaZulu-Natal,Ugu,uMuziwabantu,DsTypeOfMainDwellings
+Census 2022,Municipality,uMuziwabantu,Other,48,0.2,KwaZulu-Natal,Ugu,uMuziwabantu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzumbe,Formal dwelling,22788,79.7,KwaZulu-Natal,Ugu,Umzumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzumbe,Traditional dwelling,5562,19.5,KwaZulu-Natal,Ugu,Umzumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzumbe,Informal dwelling,216,0.8,KwaZulu-Natal,Ugu,Umzumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,Umzumbe,Other,28,0.1,KwaZulu-Natal,Ugu,Umzumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,Impendle,Formal dwelling,5436,76.0,KwaZulu-Natal,Umgungundlovu,Impendle,DsTypeOfMainDwellings
+Census 2022,Municipality,Impendle,Traditional dwelling,1645,23.0,KwaZulu-Natal,Umgungundlovu,Impendle,DsTypeOfMainDwellings
+Census 2022,Municipality,Impendle,Informal dwelling,54,0.8,KwaZulu-Natal,Umgungundlovu,Impendle,DsTypeOfMainDwellings
+Census 2022,Municipality,Impendle,Other,21,0.3,KwaZulu-Natal,Umgungundlovu,Impendle,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhambathini,Formal dwelling,10330,80.3,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhambathini,Traditional dwelling,2208,17.2,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhambathini,Informal dwelling,288,2.2,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhambathini,Other,35,0.3,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsTypeOfMainDwellings
+Census 2022,Municipality,Mpofana,Formal dwelling,7684,91.1,KwaZulu-Natal,Umgungundlovu,Mpofana,DsTypeOfMainDwellings
+Census 2022,Municipality,Mpofana,Traditional dwelling,661,7.8,KwaZulu-Natal,Umgungundlovu,Mpofana,DsTypeOfMainDwellings
+Census 2022,Municipality,Mpofana,Informal dwelling,86,1.0,KwaZulu-Natal,Umgungundlovu,Mpofana,DsTypeOfMainDwellings
+Census 2022,Municipality,Mpofana,Other,6,0.1,KwaZulu-Natal,Umgungundlovu,Mpofana,DsTypeOfMainDwellings
+Census 2022,Municipality,Richmond,Formal dwelling,11101,81.7,KwaZulu-Natal,Umgungundlovu,Richmond,DsTypeOfMainDwellings
+Census 2022,Municipality,Richmond,Traditional dwelling,2215,16.3,KwaZulu-Natal,Umgungundlovu,Richmond,DsTypeOfMainDwellings
+Census 2022,Municipality,Richmond,Informal dwelling,228,1.7,KwaZulu-Natal,Umgungundlovu,Richmond,DsTypeOfMainDwellings
+Census 2022,Municipality,Richmond,Other,35,0.3,KwaZulu-Natal,Umgungundlovu,Richmond,DsTypeOfMainDwellings
+Census 2022,Municipality,The Msunduzi,Formal dwelling,193482,90.5,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsTypeOfMainDwellings
+Census 2022,Municipality,The Msunduzi,Traditional dwelling,9462,4.4,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsTypeOfMainDwellings
+Census 2022,Municipality,The Msunduzi,Informal dwelling,10268,4.8,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsTypeOfMainDwellings
+Census 2022,Municipality,The Msunduzi,Other,515,0.2,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMngeni,Formal dwelling,24457,90.3,KwaZulu-Natal,Umgungundlovu,uMngeni,DsTypeOfMainDwellings
+Census 2022,Municipality,uMngeni,Traditional dwelling,819,3.0,KwaZulu-Natal,Umgungundlovu,uMngeni,DsTypeOfMainDwellings
+Census 2022,Municipality,uMngeni,Informal dwelling,1771,6.5,KwaZulu-Natal,Umgungundlovu,uMngeni,DsTypeOfMainDwellings
+Census 2022,Municipality,uMngeni,Other,48,0.2,KwaZulu-Natal,Umgungundlovu,uMngeni,DsTypeOfMainDwellings
+Census 2022,Municipality,uMshwathi,Formal dwelling,20215,80.9,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMshwathi,Traditional dwelling,4223,16.9,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMshwathi,Informal dwelling,489,2.0,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsTypeOfMainDwellings
+Census 2022,Municipality,uMshwathi,Other,60,0.2,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsTypeOfMainDwellings
+Census 2022,Municipality,Big Five Hlabisa,Formal dwelling,21199,91.6,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsTypeOfMainDwellings
+Census 2022,Municipality,Big Five Hlabisa,Traditional dwelling,1665,7.2,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsTypeOfMainDwellings
+Census 2022,Municipality,Big Five Hlabisa,Informal dwelling,186,0.8,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsTypeOfMainDwellings
+Census 2022,Municipality,Big Five Hlabisa,Other,86,0.4,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsTypeOfMainDwellings
+Census 2022,Municipality,Jozini,Formal dwelling,31771,88.7,KwaZulu-Natal,Umkhanyakude,Jozini,DsTypeOfMainDwellings
+Census 2022,Municipality,Jozini,Traditional dwelling,2901,8.1,KwaZulu-Natal,Umkhanyakude,Jozini,DsTypeOfMainDwellings
+Census 2022,Municipality,Jozini,Informal dwelling,965,2.7,KwaZulu-Natal,Umkhanyakude,Jozini,DsTypeOfMainDwellings
+Census 2022,Municipality,Jozini,Other,187,0.5,KwaZulu-Natal,Umkhanyakude,Jozini,DsTypeOfMainDwellings
+Census 2022,Municipality,Mtubatuba,Formal dwelling,32884,92.8,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsTypeOfMainDwellings
+Census 2022,Municipality,Mtubatuba,Traditional dwelling,1758,5.0,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsTypeOfMainDwellings
+Census 2022,Municipality,Mtubatuba,Informal dwelling,651,1.8,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsTypeOfMainDwellings
+Census 2022,Municipality,Mtubatuba,Other,128,0.4,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsTypeOfMainDwellings
+Census 2022,Municipality,Umhlabuyalingana,Formal dwelling,31224,90.0,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsTypeOfMainDwellings
+Census 2022,Municipality,Umhlabuyalingana,Traditional dwelling,2904,8.4,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsTypeOfMainDwellings
+Census 2022,Municipality,Umhlabuyalingana,Informal dwelling,408,1.2,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsTypeOfMainDwellings
+Census 2022,Municipality,Umhlabuyalingana,Other,149,0.4,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsTypeOfMainDwellings
+Census 2022,Municipality,Endumeni,Formal dwelling,22625,94.4,KwaZulu-Natal,Umzinyathi,Endumeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Endumeni,Traditional dwelling,744,3.1,KwaZulu-Natal,Umzinyathi,Endumeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Endumeni,Informal dwelling,542,2.3,KwaZulu-Natal,Umzinyathi,Endumeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Endumeni,Other,48,0.2,KwaZulu-Natal,Umzinyathi,Endumeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Msinga,Formal dwelling,19717,55.4,KwaZulu-Natal,Umzinyathi,Msinga,DsTypeOfMainDwellings
+Census 2022,Municipality,Msinga,Traditional dwelling,15612,43.9,KwaZulu-Natal,Umzinyathi,Msinga,DsTypeOfMainDwellings
+Census 2022,Municipality,Msinga,Informal dwelling,75,0.2,KwaZulu-Natal,Umzinyathi,Msinga,DsTypeOfMainDwellings
+Census 2022,Municipality,Msinga,Other,157,0.4,KwaZulu-Natal,Umzinyathi,Msinga,DsTypeOfMainDwellings
+Census 2022,Municipality,Nqutu,Formal dwelling,25380,75.5,KwaZulu-Natal,Umzinyathi,Nqutu,DsTypeOfMainDwellings
+Census 2022,Municipality,Nqutu,Traditional dwelling,7868,23.4,KwaZulu-Natal,Umzinyathi,Nqutu,DsTypeOfMainDwellings
+Census 2022,Municipality,Nqutu,Informal dwelling,316,0.9,KwaZulu-Natal,Umzinyathi,Nqutu,DsTypeOfMainDwellings
+Census 2022,Municipality,Nqutu,Other,53,0.2,KwaZulu-Natal,Umzinyathi,Nqutu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umvoti,Formal dwelling,22573,69.9,KwaZulu-Natal,Umzinyathi,Umvoti,DsTypeOfMainDwellings
+Census 2022,Municipality,Umvoti,Traditional dwelling,8839,27.4,KwaZulu-Natal,Umzinyathi,Umvoti,DsTypeOfMainDwellings
+Census 2022,Municipality,Umvoti,Informal dwelling,793,2.5,KwaZulu-Natal,Umzinyathi,Umvoti,DsTypeOfMainDwellings
+Census 2022,Municipality,Umvoti,Other,85,0.3,KwaZulu-Natal,Umzinyathi,Umvoti,DsTypeOfMainDwellings
+Census 2022,Municipality,Alfred Duma,Formal dwelling,84570,89.3,KwaZulu-Natal,Uthukela,Alfred Duma,DsTypeOfMainDwellings
+Census 2022,Municipality,Alfred Duma,Traditional dwelling,8627,9.1,KwaZulu-Natal,Uthukela,Alfred Duma,DsTypeOfMainDwellings
+Census 2022,Municipality,Alfred Duma,Informal dwelling,1107,1.2,KwaZulu-Natal,Uthukela,Alfred Duma,DsTypeOfMainDwellings
+Census 2022,Municipality,Alfred Duma,Other,381,0.4,KwaZulu-Natal,Uthukela,Alfred Duma,DsTypeOfMainDwellings
+Census 2022,Municipality,Inkosi Langalibalele,Formal dwelling,40405,83.5,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsTypeOfMainDwellings
+Census 2022,Municipality,Inkosi Langalibalele,Traditional dwelling,7204,14.9,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsTypeOfMainDwellings
+Census 2022,Municipality,Inkosi Langalibalele,Informal dwelling,668,1.4,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsTypeOfMainDwellings
+Census 2022,Municipality,Inkosi Langalibalele,Other,139,0.3,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsTypeOfMainDwellings
+Census 2022,Municipality,Okhahlamba,Formal dwelling,19910,68.4,KwaZulu-Natal,Uthukela,Okhahlamba,DsTypeOfMainDwellings
+Census 2022,Municipality,Okhahlamba,Traditional dwelling,8397,28.9,KwaZulu-Natal,Uthukela,Okhahlamba,DsTypeOfMainDwellings
+Census 2022,Municipality,Okhahlamba,Informal dwelling,740,2.5,KwaZulu-Natal,Uthukela,Okhahlamba,DsTypeOfMainDwellings
+Census 2022,Municipality,Okhahlamba,Other,48,0.2,KwaZulu-Natal,Uthukela,Okhahlamba,DsTypeOfMainDwellings
+Census 2022,Municipality,Abaqulusi,Formal dwelling,42739,84.4,KwaZulu-Natal,Zululand,Abaqulusi,DsTypeOfMainDwellings
+Census 2022,Municipality,Abaqulusi,Traditional dwelling,5925,11.7,KwaZulu-Natal,Zululand,Abaqulusi,DsTypeOfMainDwellings
+Census 2022,Municipality,Abaqulusi,Informal dwelling,1707,3.4,KwaZulu-Natal,Zululand,Abaqulusi,DsTypeOfMainDwellings
+Census 2022,Municipality,Abaqulusi,Other,262,0.5,KwaZulu-Natal,Zululand,Abaqulusi,DsTypeOfMainDwellings
+Census 2022,Municipality,eDumbe,Formal dwelling,14716,82.1,KwaZulu-Natal,Zululand,eDumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,eDumbe,Traditional dwelling,3102,17.3,KwaZulu-Natal,Zululand,eDumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,eDumbe,Informal dwelling,72,0.4,KwaZulu-Natal,Zululand,eDumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,eDumbe,Other,32,0.2,KwaZulu-Natal,Zululand,eDumbe,DsTypeOfMainDwellings
+Census 2022,Municipality,Nongoma,Formal dwelling,28391,88.0,KwaZulu-Natal,Zululand,Nongoma,DsTypeOfMainDwellings
+Census 2022,Municipality,Nongoma,Traditional dwelling,3426,10.6,KwaZulu-Natal,Zululand,Nongoma,DsTypeOfMainDwellings
+Census 2022,Municipality,Nongoma,Informal dwelling,300,0.9,KwaZulu-Natal,Zululand,Nongoma,DsTypeOfMainDwellings
+Census 2022,Municipality,Nongoma,Other,149,0.5,KwaZulu-Natal,Zululand,Nongoma,DsTypeOfMainDwellings
+Census 2022,Municipality,Ulundi,Formal dwelling,30722,84.9,KwaZulu-Natal,Zululand,Ulundi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ulundi,Traditional dwelling,4950,13.7,KwaZulu-Natal,Zululand,Ulundi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ulundi,Informal dwelling,414,1.1,KwaZulu-Natal,Zululand,Ulundi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ulundi,Other,91,0.3,KwaZulu-Natal,Zululand,Ulundi,DsTypeOfMainDwellings
+Census 2022,Municipality,uPhongolo,Formal dwelling,26989,94.3,KwaZulu-Natal,Zululand,uPhongolo,DsTypeOfMainDwellings
+Census 2022,Municipality,uPhongolo,Traditional dwelling,1120,3.9,KwaZulu-Natal,Zululand,uPhongolo,DsTypeOfMainDwellings
+Census 2022,Municipality,uPhongolo,Informal dwelling,408,1.4,KwaZulu-Natal,Zululand,uPhongolo,DsTypeOfMainDwellings
+Census 2022,Municipality,uPhongolo,Other,101,0.4,KwaZulu-Natal,Zululand,uPhongolo,DsTypeOfMainDwellings
+Census 2022,Municipality,Blouberg,Formal dwelling,55573,96.5,Limpopo,Capricorn,Blouberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Blouberg,Traditional dwelling,586,1.0,Limpopo,Capricorn,Blouberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Blouberg,Informal dwelling,1174,2.0,Limpopo,Capricorn,Blouberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Blouberg,Other,241,0.4,Limpopo,Capricorn,Blouberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Lepele-Nkumpi,Formal dwelling,75987,97.1,Limpopo,Capricorn,Lepele-Nkumpi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lepele-Nkumpi,Traditional dwelling,890,1.1,Limpopo,Capricorn,Lepele-Nkumpi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lepele-Nkumpi,Informal dwelling,1071,1.4,Limpopo,Capricorn,Lepele-Nkumpi,DsTypeOfMainDwellings
+Census 2022,Municipality,Lepele-Nkumpi,Other,269,0.3,Limpopo,Capricorn,Lepele-Nkumpi,DsTypeOfMainDwellings
+Census 2022,Municipality,Molemole,Formal dwelling,40537,96.7,Limpopo,Capricorn,Molemole,DsTypeOfMainDwellings
+Census 2022,Municipality,Molemole,Traditional dwelling,918,2.2,Limpopo,Capricorn,Molemole,DsTypeOfMainDwellings
+Census 2022,Municipality,Molemole,Informal dwelling,392,0.9,Limpopo,Capricorn,Molemole,DsTypeOfMainDwellings
+Census 2022,Municipality,Molemole,Other,91,0.2,Limpopo,Capricorn,Molemole,DsTypeOfMainDwellings
+Census 2022,Municipality,Polokwane,Formal dwelling,236941,95.0,Limpopo,Capricorn,Polokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Polokwane,Traditional dwelling,3140,1.3,Limpopo,Capricorn,Polokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Polokwane,Informal dwelling,8613,3.5,Limpopo,Capricorn,Polokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Polokwane,Other,750,0.3,Limpopo,Capricorn,Polokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Ba-Phalaborwa,Formal dwelling,50653,98.1,Limpopo,Mopani,Ba-Phalaborwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ba-Phalaborwa,Traditional dwelling,741,1.4,Limpopo,Mopani,Ba-Phalaborwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ba-Phalaborwa,Informal dwelling,132,0.3,Limpopo,Mopani,Ba-Phalaborwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ba-Phalaborwa,Other,124,0.2,Limpopo,Mopani,Ba-Phalaborwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Giyani,Formal dwelling,73776,92.5,Limpopo,Mopani,Greater Giyani,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Giyani,Traditional dwelling,5093,6.4,Limpopo,Mopani,Greater Giyani,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Giyani,Informal dwelling,726,0.9,Limpopo,Mopani,Greater Giyani,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Giyani,Other,140,0.2,Limpopo,Mopani,Greater Giyani,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Letaba,Formal dwelling,61580,94.4,Limpopo,Mopani,Greater Letaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Letaba,Traditional dwelling,2437,3.7,Limpopo,Mopani,Greater Letaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Letaba,Informal dwelling,1130,1.7,Limpopo,Mopani,Greater Letaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Letaba,Other,74,0.1,Limpopo,Mopani,Greater Letaba,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Tzaneen,Formal dwelling,125867,97.1,Limpopo,Mopani,Greater Tzaneen,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Tzaneen,Traditional dwelling,1784,1.4,Limpopo,Mopani,Greater Tzaneen,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Tzaneen,Informal dwelling,1267,1.0,Limpopo,Mopani,Greater Tzaneen,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Tzaneen,Other,660,0.5,Limpopo,Mopani,Greater Tzaneen,DsTypeOfMainDwellings
+Census 2022,Municipality,Maruleng,Formal dwelling,30982,96.9,Limpopo,Mopani,Maruleng,DsTypeOfMainDwellings
+Census 2022,Municipality,Maruleng,Traditional dwelling,541,1.7,Limpopo,Mopani,Maruleng,DsTypeOfMainDwellings
+Census 2022,Municipality,Maruleng,Informal dwelling,162,0.5,Limpopo,Mopani,Maruleng,DsTypeOfMainDwellings
+Census 2022,Municipality,Maruleng,Other,284,0.9,Limpopo,Mopani,Maruleng,DsTypeOfMainDwellings
+Census 2022,Municipality,Elias Motsoaledi,Formal dwelling,74998,94.8,Limpopo,Sekhukhune,Elias Motsoaledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Elias Motsoaledi,Traditional dwelling,1468,1.9,Limpopo,Sekhukhune,Elias Motsoaledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Elias Motsoaledi,Informal dwelling,2370,3.0,Limpopo,Sekhukhune,Elias Motsoaledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Elias Motsoaledi,Other,301,0.4,Limpopo,Sekhukhune,Elias Motsoaledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ephraim Mogale,Formal dwelling,34858,97.0,Limpopo,Sekhukhune,Ephraim Mogale,DsTypeOfMainDwellings
+Census 2022,Municipality,Ephraim Mogale,Traditional dwelling,446,1.2,Limpopo,Sekhukhune,Ephraim Mogale,DsTypeOfMainDwellings
+Census 2022,Municipality,Ephraim Mogale,Informal dwelling,538,1.5,Limpopo,Sekhukhune,Ephraim Mogale,DsTypeOfMainDwellings
+Census 2022,Municipality,Ephraim Mogale,Other,111,0.3,Limpopo,Sekhukhune,Ephraim Mogale,DsTypeOfMainDwellings
+Census 2022,Municipality,Fetakgomo Tubatse,Formal dwelling,139165,94.6,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsTypeOfMainDwellings
+Census 2022,Municipality,Fetakgomo Tubatse,Traditional dwelling,2494,1.7,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsTypeOfMainDwellings
+Census 2022,Municipality,Fetakgomo Tubatse,Informal dwelling,4670,3.2,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsTypeOfMainDwellings
+Census 2022,Municipality,Fetakgomo Tubatse,Other,838,0.6,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhuduthamaga,Formal dwelling,76081,96.9,Limpopo,Sekhukhune,Makhuduthamaga,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhuduthamaga,Traditional dwelling,807,1.0,Limpopo,Sekhukhune,Makhuduthamaga,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhuduthamaga,Informal dwelling,1368,1.7,Limpopo,Sekhukhune,Makhuduthamaga,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhuduthamaga,Other,241,0.3,Limpopo,Sekhukhune,Makhuduthamaga,DsTypeOfMainDwellings
+Census 2022,Municipality,Collins Chabane,Formal dwelling,98422,91.0,Limpopo,Vhembe,Collins Chabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Collins Chabane,Traditional dwelling,7840,7.2,Limpopo,Vhembe,Collins Chabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Collins Chabane,Informal dwelling,748,0.7,Limpopo,Vhembe,Collins Chabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Collins Chabane,Other,1149,1.1,Limpopo,Vhembe,Collins Chabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhado,Formal dwelling,132944,94.7,Limpopo,Vhembe,Makhado,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhado,Traditional dwelling,4469,3.2,Limpopo,Vhembe,Makhado,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhado,Informal dwelling,2664,1.9,Limpopo,Vhembe,Makhado,DsTypeOfMainDwellings
+Census 2022,Municipality,Makhado,Other,261,0.2,Limpopo,Vhembe,Makhado,DsTypeOfMainDwellings
+Census 2022,Municipality,Musina,Formal dwelling,41728,90.8,Limpopo,Vhembe,Musina,DsTypeOfMainDwellings
+Census 2022,Municipality,Musina,Traditional dwelling,1280,2.8,Limpopo,Vhembe,Musina,DsTypeOfMainDwellings
+Census 2022,Municipality,Musina,Informal dwelling,2762,6.0,Limpopo,Vhembe,Musina,DsTypeOfMainDwellings
+Census 2022,Municipality,Musina,Other,164,0.4,Limpopo,Vhembe,Musina,DsTypeOfMainDwellings
+Census 2022,Municipality,Thulamela,Formal dwelling,137427,96.4,Limpopo,Vhembe,Thulamela,DsTypeOfMainDwellings
+Census 2022,Municipality,Thulamela,Traditional dwelling,3996,2.8,Limpopo,Vhembe,Thulamela,DsTypeOfMainDwellings
+Census 2022,Municipality,Thulamela,Informal dwelling,793,0.6,Limpopo,Vhembe,Thulamela,DsTypeOfMainDwellings
+Census 2022,Municipality,Thulamela,Other,312,0.2,Limpopo,Vhembe,Thulamela,DsTypeOfMainDwellings
+Census 2022,Municipality,Bela-Bela,Formal dwelling,19905,88.7,Limpopo,Waterberg,Bela-Bela,DsTypeOfMainDwellings
+Census 2022,Municipality,Bela-Bela,Traditional dwelling,56,0.3,Limpopo,Waterberg,Bela-Bela,DsTypeOfMainDwellings
+Census 2022,Municipality,Bela-Bela,Informal dwelling,2454,10.9,Limpopo,Waterberg,Bela-Bela,DsTypeOfMainDwellings
+Census 2022,Municipality,Bela-Bela,Other,34,0.2,Limpopo,Waterberg,Bela-Bela,DsTypeOfMainDwellings
+Census 2022,Municipality,Lephalale,Formal dwelling,38294,87.4,Limpopo,Waterberg,Lephalale,DsTypeOfMainDwellings
+Census 2022,Municipality,Lephalale,Traditional dwelling,312,0.7,Limpopo,Waterberg,Lephalale,DsTypeOfMainDwellings
+Census 2022,Municipality,Lephalale,Informal dwelling,4931,11.2,Limpopo,Waterberg,Lephalale,DsTypeOfMainDwellings
+Census 2022,Municipality,Lephalale,Other,296,0.7,Limpopo,Waterberg,Lephalale,DsTypeOfMainDwellings
+Census 2022,Municipality,Modimolle-Mookgophong,Formal dwelling,40591,88.0,Limpopo,Waterberg,Modimolle-Mookgophong,DsTypeOfMainDwellings
+Census 2022,Municipality,Modimolle-Mookgophong,Traditional dwelling,256,0.6,Limpopo,Waterberg,Modimolle-Mookgophong,DsTypeOfMainDwellings
+Census 2022,Municipality,Modimolle-Mookgophong,Informal dwelling,5098,11.1,Limpopo,Waterberg,Modimolle-Mookgophong,DsTypeOfMainDwellings
+Census 2022,Municipality,Modimolle-Mookgophong,Other,174,0.4,Limpopo,Waterberg,Modimolle-Mookgophong,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogalakwena,Formal dwelling,106336,97.3,Limpopo,Waterberg,Mogalakwena,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogalakwena,Traditional dwelling,501,0.5,Limpopo,Waterberg,Mogalakwena,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogalakwena,Informal dwelling,2269,2.1,Limpopo,Waterberg,Mogalakwena,DsTypeOfMainDwellings
+Census 2022,Municipality,Mogalakwena,Other,188,0.2,Limpopo,Waterberg,Mogalakwena,DsTypeOfMainDwellings
+Census 2022,Municipality,Thabazimbi,Formal dwelling,22426,83.6,Limpopo,Waterberg,Thabazimbi,DsTypeOfMainDwellings
+Census 2022,Municipality,Thabazimbi,Traditional dwelling,335,1.2,Limpopo,Waterberg,Thabazimbi,DsTypeOfMainDwellings
+Census 2022,Municipality,Thabazimbi,Informal dwelling,3966,14.8,Limpopo,Waterberg,Thabazimbi,DsTypeOfMainDwellings
+Census 2022,Municipality,Thabazimbi,Other,105,0.4,Limpopo,Waterberg,Thabazimbi,DsTypeOfMainDwellings
+Census 2022,Municipality,Bushbuckridge,Formal dwelling,164787,98.1,Mpumalanga,Ehlanzeni,Bushbuckridge,DsTypeOfMainDwellings
+Census 2022,Municipality,Bushbuckridge,Traditional dwelling,2140,1.3,Mpumalanga,Ehlanzeni,Bushbuckridge,DsTypeOfMainDwellings
+Census 2022,Municipality,Bushbuckridge,Informal dwelling,812,0.5,Mpumalanga,Ehlanzeni,Bushbuckridge,DsTypeOfMainDwellings
+Census 2022,Municipality,Bushbuckridge,Other,188,0.1,Mpumalanga,Ehlanzeni,Bushbuckridge,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Mbombela,Formal dwelling,206769,96.2,Mpumalanga,Ehlanzeni,City of Mbombela,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Mbombela,Traditional dwelling,2833,1.3,Mpumalanga,Ehlanzeni,City of Mbombela,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Mbombela,Informal dwelling,4614,2.1,Mpumalanga,Ehlanzeni,City of Mbombela,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Mbombela,Other,788,0.4,Mpumalanga,Ehlanzeni,City of Mbombela,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkomazi,Formal dwelling,129255,96.4,Mpumalanga,Ehlanzeni,Nkomazi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkomazi,Traditional dwelling,1613,1.2,Mpumalanga,Ehlanzeni,Nkomazi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkomazi,Informal dwelling,3060,2.3,Mpumalanga,Ehlanzeni,Nkomazi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nkomazi,Other,215,0.2,Mpumalanga,Ehlanzeni,Nkomazi,DsTypeOfMainDwellings
+Census 2022,Municipality,Thaba Chweu,Formal dwelling,35986,83.1,Mpumalanga,Ehlanzeni,Thaba Chweu,DsTypeOfMainDwellings
+Census 2022,Municipality,Thaba Chweu,Traditional dwelling,324,0.7,Mpumalanga,Ehlanzeni,Thaba Chweu,DsTypeOfMainDwellings
+Census 2022,Municipality,Thaba Chweu,Informal dwelling,6860,15.8,Mpumalanga,Ehlanzeni,Thaba Chweu,DsTypeOfMainDwellings
+Census 2022,Municipality,Thaba Chweu,Other,126,0.3,Mpumalanga,Ehlanzeni,Thaba Chweu,DsTypeOfMainDwellings
+Census 2022,Municipality,Chief Albert Luthuli,Formal dwelling,59005,93.2,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsTypeOfMainDwellings
+Census 2022,Municipality,Chief Albert Luthuli,Traditional dwelling,2374,3.8,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsTypeOfMainDwellings
+Census 2022,Municipality,Chief Albert Luthuli,Informal dwelling,1823,2.9,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsTypeOfMainDwellings
+Census 2022,Municipality,Chief Albert Luthuli,Other,101,0.2,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsTypeOfMainDwellings
+Census 2022,Municipality,Dipaleseng,Formal dwelling,11651,88.7,Mpumalanga,Gert Sibande,Dipaleseng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dipaleseng,Traditional dwelling,170,1.3,Mpumalanga,Gert Sibande,Dipaleseng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dipaleseng,Informal dwelling,1273,9.7,Mpumalanga,Gert Sibande,Dipaleseng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dipaleseng,Other,34,0.3,Mpumalanga,Gert Sibande,Dipaleseng,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Formal dwelling,29589,89.7,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Traditional dwelling,1389,4.2,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Informal dwelling,1935,5.9,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Other,58,0.2,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsTypeOfMainDwellings
+Census 2022,Municipality,Govan Mbeki,Formal dwelling,89774,86.4,Mpumalanga,Gert Sibande,Govan Mbeki,DsTypeOfMainDwellings
+Census 2022,Municipality,Govan Mbeki,Traditional dwelling,1170,1.1,Mpumalanga,Gert Sibande,Govan Mbeki,DsTypeOfMainDwellings
+Census 2022,Municipality,Govan Mbeki,Informal dwelling,12567,12.1,Mpumalanga,Gert Sibande,Govan Mbeki,DsTypeOfMainDwellings
+Census 2022,Municipality,Govan Mbeki,Other,353,0.3,Mpumalanga,Gert Sibande,Govan Mbeki,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa,Formal dwelling,34143,88.5,Mpumalanga,Gert Sibande,Lekwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa,Traditional dwelling,602,1.6,Mpumalanga,Gert Sibande,Lekwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa,Informal dwelling,3669,9.5,Mpumalanga,Gert Sibande,Lekwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa,Other,169,0.4,Mpumalanga,Gert Sibande,Lekwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhondo,Formal dwelling,51216,87.5,Mpumalanga,Gert Sibande,Mkhondo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhondo,Traditional dwelling,5113,8.7,Mpumalanga,Gert Sibande,Mkhondo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhondo,Informal dwelling,1970,3.4,Mpumalanga,Gert Sibande,Mkhondo,DsTypeOfMainDwellings
+Census 2022,Municipality,Mkhondo,Other,205,0.4,Mpumalanga,Gert Sibande,Mkhondo,DsTypeOfMainDwellings
+Census 2022,Municipality,Msukaligwa,Formal dwelling,57325,84.5,Mpumalanga,Gert Sibande,Msukaligwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Msukaligwa,Traditional dwelling,2892,4.3,Mpumalanga,Gert Sibande,Msukaligwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Msukaligwa,Informal dwelling,7354,10.8,Mpumalanga,Gert Sibande,Msukaligwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Msukaligwa,Other,256,0.4,Mpumalanga,Gert Sibande,Msukaligwa,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr JS Moroka,Formal dwelling,70839,95.0,Mpumalanga,Nkangala,Dr JS Moroka,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr JS Moroka,Traditional dwelling,832,1.1,Mpumalanga,Nkangala,Dr JS Moroka,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr JS Moroka,Informal dwelling,2719,3.6,Mpumalanga,Nkangala,Dr JS Moroka,DsTypeOfMainDwellings
+Census 2022,Municipality,Dr JS Moroka,Other,190,0.3,Mpumalanga,Nkangala,Dr JS Moroka,DsTypeOfMainDwellings
+Census 2022,Municipality,Emakhazeni,Formal dwelling,18621,94.9,Mpumalanga,Nkangala,Emakhazeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emakhazeni,Traditional dwelling,196,1.0,Mpumalanga,Nkangala,Emakhazeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emakhazeni,Informal dwelling,768,3.9,Mpumalanga,Nkangala,Emakhazeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emakhazeni,Other,28,0.1,Mpumalanga,Nkangala,Emakhazeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Formal dwelling,144874,88.0,Mpumalanga,Nkangala,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Traditional dwelling,800,0.5,Mpumalanga,Nkangala,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Informal dwelling,18489,11.2,Mpumalanga,Nkangala,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emalahleni,Other,409,0.2,Mpumalanga,Nkangala,Emalahleni,DsTypeOfMainDwellings
+Census 2022,Municipality,Steve Tshwete,Formal dwelling,72479,90.5,Mpumalanga,Nkangala,Steve Tshwete,DsTypeOfMainDwellings
+Census 2022,Municipality,Steve Tshwete,Traditional dwelling,479,0.6,Mpumalanga,Nkangala,Steve Tshwete,DsTypeOfMainDwellings
+Census 2022,Municipality,Steve Tshwete,Informal dwelling,6955,8.7,Mpumalanga,Nkangala,Steve Tshwete,DsTypeOfMainDwellings
+Census 2022,Municipality,Steve Tshwete,Other,138,0.2,Mpumalanga,Nkangala,Steve Tshwete,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembisile,Formal dwelling,105260,95.2,Mpumalanga,Nkangala,Thembisile,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembisile,Traditional dwelling,2024,1.8,Mpumalanga,Nkangala,Thembisile,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembisile,Informal dwelling,3056,2.8,Mpumalanga,Nkangala,Thembisile,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembisile,Other,223,0.2,Mpumalanga,Nkangala,Thembisile,DsTypeOfMainDwellings
+Census 2022,Municipality,Victor Khanye,Formal dwelling,29066,86.0,Mpumalanga,Nkangala,Victor Khanye,DsTypeOfMainDwellings
+Census 2022,Municipality,Victor Khanye,Traditional dwelling,156,0.5,Mpumalanga,Nkangala,Victor Khanye,DsTypeOfMainDwellings
+Census 2022,Municipality,Victor Khanye,Informal dwelling,4505,13.3,Mpumalanga,Nkangala,Victor Khanye,DsTypeOfMainDwellings
+Census 2022,Municipality,Victor Khanye,Other,59,0.2,Mpumalanga,Nkangala,Victor Khanye,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgetlengrivier,Formal dwelling,13583,89.5,North West,Bojanala,Kgetlengrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgetlengrivier,Traditional dwelling,75,0.5,North West,Bojanala,Kgetlengrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgetlengrivier,Informal dwelling,1438,9.5,North West,Bojanala,Kgetlengrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgetlengrivier,Other,87,0.6,North West,Bojanala,Kgetlengrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Madibeng,Formal dwelling,132399,76.4,North West,Bojanala,Madibeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Madibeng,Traditional dwelling,1208,0.7,North West,Bojanala,Madibeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Madibeng,Informal dwelling,38633,22.3,North West,Bojanala,Madibeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Madibeng,Other,948,0.5,North West,Bojanala,Madibeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Moretele,Formal dwelling,55040,91.6,North West,Bojanala,Moretele,DsTypeOfMainDwellings
+Census 2022,Municipality,Moretele,Traditional dwelling,276,0.5,North West,Bojanala,Moretele,DsTypeOfMainDwellings
+Census 2022,Municipality,Moretele,Informal dwelling,4495,7.5,North West,Bojanala,Moretele,DsTypeOfMainDwellings
+Census 2022,Municipality,Moretele,Other,247,0.4,North West,Bojanala,Moretele,DsTypeOfMainDwellings
+Census 2022,Municipality,Moses Kotane,Formal dwelling,71454,90.0,North West,Bojanala,Moses Kotane,DsTypeOfMainDwellings
+Census 2022,Municipality,Moses Kotane,Traditional dwelling,912,1.1,North West,Bojanala,Moses Kotane,DsTypeOfMainDwellings
+Census 2022,Municipality,Moses Kotane,Informal dwelling,6636,8.4,North West,Bojanala,Moses Kotane,DsTypeOfMainDwellings
+Census 2022,Municipality,Moses Kotane,Other,403,0.5,North West,Bojanala,Moses Kotane,DsTypeOfMainDwellings
+Census 2022,Municipality,Rustenburg,Formal dwelling,174860,85.9,North West,Bojanala,Rustenburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Rustenburg,Traditional dwelling,1004,0.5,North West,Bojanala,Rustenburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Rustenburg,Informal dwelling,27060,13.3,North West,Bojanala,Rustenburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Rustenburg,Other,734,0.4,North West,Bojanala,Rustenburg,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Matlosana,Formal dwelling,117014,91.2,North West,Dr Kenneth Kaunda,City of Matlosana,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Matlosana,Traditional dwelling,392,0.3,North West,Dr Kenneth Kaunda,City of Matlosana,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Matlosana,Informal dwelling,10451,8.1,North West,Dr Kenneth Kaunda,City of Matlosana,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Matlosana,Other,501,0.4,North West,Dr Kenneth Kaunda,City of Matlosana,DsTypeOfMainDwellings
+Census 2022,Municipality,JB Marks,Formal dwelling,56306,84.4,North West,Dr Kenneth Kaunda,JB Marks,DsTypeOfMainDwellings
+Census 2022,Municipality,JB Marks,Traditional dwelling,252,0.4,North West,Dr Kenneth Kaunda,JB Marks,DsTypeOfMainDwellings
+Census 2022,Municipality,JB Marks,Informal dwelling,9799,14.7,North West,Dr Kenneth Kaunda,JB Marks,DsTypeOfMainDwellings
+Census 2022,Municipality,JB Marks,Other,363,0.5,North West,Dr Kenneth Kaunda,JB Marks,DsTypeOfMainDwellings
+Census 2022,Municipality,Maquassi Hills,Formal dwelling,23364,93.2,North West,Dr Kenneth Kaunda,Maquassi Hills,DsTypeOfMainDwellings
+Census 2022,Municipality,Maquassi Hills,Traditional dwelling,41,0.2,North West,Dr Kenneth Kaunda,Maquassi Hills,DsTypeOfMainDwellings
+Census 2022,Municipality,Maquassi Hills,Informal dwelling,1538,6.1,North West,Dr Kenneth Kaunda,Maquassi Hills,DsTypeOfMainDwellings
+Census 2022,Municipality,Maquassi Hills,Other,125,0.5,North West,Dr Kenneth Kaunda,Maquassi Hills,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Taung,Formal dwelling,51199,95.6,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Taung,Traditional dwelling,558,1.0,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Taung,Informal dwelling,1600,3.0,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsTypeOfMainDwellings
+Census 2022,Municipality,Greater Taung,Other,194,0.4,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsTypeOfMainDwellings
+Census 2022,Municipality,Kagisano/Molopo,Formal dwelling,28901,96.8,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsTypeOfMainDwellings
+Census 2022,Municipality,Kagisano/Molopo,Traditional dwelling,241,0.8,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsTypeOfMainDwellings
+Census 2022,Municipality,Kagisano/Molopo,Informal dwelling,582,2.0,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsTypeOfMainDwellings
+Census 2022,Municipality,Kagisano/Molopo,Other,126,0.4,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa-Teemane,Formal dwelling,14668,95.9,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa-Teemane,Traditional dwelling,33,0.2,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa-Teemane,Informal dwelling,582,3.8,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsTypeOfMainDwellings
+Census 2022,Municipality,Lekwa-Teemane,Other,20,0.1,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsTypeOfMainDwellings
+Census 2022,Municipality,Mamusa,Formal dwelling,16057,92.9,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mamusa,Traditional dwelling,72,0.4,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mamusa,Informal dwelling,1123,6.5,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsTypeOfMainDwellings
+Census 2022,Municipality,Mamusa,Other,38,0.2,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsTypeOfMainDwellings
+Census 2022,Municipality,Naledi,Formal dwelling,14830,92.1,North West,Dr Ruth Segomotsi Mompati,Naledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Naledi,Traditional dwelling,37,0.2,North West,Dr Ruth Segomotsi Mompati,Naledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Naledi,Informal dwelling,1207,7.5,North West,Dr Ruth Segomotsi Mompati,Naledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Naledi,Other,25,0.2,North West,Dr Ruth Segomotsi Mompati,Naledi,DsTypeOfMainDwellings
+Census 2022,Municipality,Ditsobotla,Formal dwelling,38169,90.0,North West,Ngaka Modiri Molema,Ditsobotla,DsTypeOfMainDwellings
+Census 2022,Municipality,Ditsobotla,Traditional dwelling,696,1.6,North West,Ngaka Modiri Molema,Ditsobotla,DsTypeOfMainDwellings
+Census 2022,Municipality,Ditsobotla,Informal dwelling,3212,7.6,North West,Ngaka Modiri Molema,Ditsobotla,DsTypeOfMainDwellings
+Census 2022,Municipality,Ditsobotla,Other,339,0.8,North West,Ngaka Modiri Molema,Ditsobotla,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafikeng,Formal dwelling,97825,93.5,North West,Ngaka Modiri Molema,Mafikeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafikeng,Traditional dwelling,573,0.5,North West,Ngaka Modiri Molema,Mafikeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafikeng,Informal dwelling,5852,5.6,North West,Ngaka Modiri Molema,Mafikeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Mafikeng,Other,399,0.4,North West,Ngaka Modiri Molema,Mafikeng,DsTypeOfMainDwellings
+Census 2022,Municipality,Ramotshere Moiloa,Formal dwelling,42831,90.0,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ramotshere Moiloa,Traditional dwelling,638,1.3,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ramotshere Moiloa,Informal dwelling,3883,8.2,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ramotshere Moiloa,Other,246,0.5,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsTypeOfMainDwellings
+Census 2022,Municipality,Ratlou,Formal dwelling,29305,93.7,North West,Ngaka Modiri Molema,Ratlou,DsTypeOfMainDwellings
+Census 2022,Municipality,Ratlou,Traditional dwelling,950,3.0,North West,Ngaka Modiri Molema,Ratlou,DsTypeOfMainDwellings
+Census 2022,Municipality,Ratlou,Informal dwelling,912,2.9,North West,Ngaka Modiri Molema,Ratlou,DsTypeOfMainDwellings
+Census 2022,Municipality,Ratlou,Other,106,0.3,North West,Ngaka Modiri Molema,Ratlou,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswaing,Formal dwelling,26408,83.5,North West,Ngaka Modiri Molema,Tswaing,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswaing,Traditional dwelling,120,0.4,North West,Ngaka Modiri Molema,Tswaing,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswaing,Informal dwelling,4772,15.1,North West,Ngaka Modiri Molema,Tswaing,DsTypeOfMainDwellings
+Census 2022,Municipality,Tswaing,Other,318,1.0,North West,Ngaka Modiri Molema,Tswaing,DsTypeOfMainDwellings
+Census 2022,Municipality,Dikgatlong,Formal dwelling,12431,86.3,Northern Cape,Frances Baard,Dikgatlong,DsTypeOfMainDwellings
+Census 2022,Municipality,Dikgatlong,Traditional dwelling,112,0.8,Northern Cape,Frances Baard,Dikgatlong,DsTypeOfMainDwellings
+Census 2022,Municipality,Dikgatlong,Informal dwelling,1759,12.2,Northern Cape,Frances Baard,Dikgatlong,DsTypeOfMainDwellings
+Census 2022,Municipality,Dikgatlong,Other,104,0.7,Northern Cape,Frances Baard,Dikgatlong,DsTypeOfMainDwellings
+Census 2022,Municipality,Magareng,Formal dwelling,6080,89.8,Northern Cape,Frances Baard,Magareng,DsTypeOfMainDwellings
+Census 2022,Municipality,Magareng,Traditional dwelling,36,0.5,Northern Cape,Frances Baard,Magareng,DsTypeOfMainDwellings
+Census 2022,Municipality,Magareng,Informal dwelling,646,9.5,Northern Cape,Frances Baard,Magareng,DsTypeOfMainDwellings
+Census 2022,Municipality,Magareng,Other,8,0.1,Northern Cape,Frances Baard,Magareng,DsTypeOfMainDwellings
+Census 2022,Municipality,Phokwane,Formal dwelling,17353,88.5,Northern Cape,Frances Baard,Phokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Phokwane,Traditional dwelling,44,0.2,Northern Cape,Frances Baard,Phokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Phokwane,Informal dwelling,2049,10.5,Northern Cape,Frances Baard,Phokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Phokwane,Other,153,0.8,Northern Cape,Frances Baard,Phokwane,DsTypeOfMainDwellings
+Census 2022,Municipality,Sol Plaatje,Formal dwelling,58832,86.1,Northern Cape,Frances Baard,Sol Plaatje,DsTypeOfMainDwellings
+Census 2022,Municipality,Sol Plaatje,Traditional dwelling,267,0.4,Northern Cape,Frances Baard,Sol Plaatje,DsTypeOfMainDwellings
+Census 2022,Municipality,Sol Plaatje,Informal dwelling,8998,13.2,Northern Cape,Frances Baard,Sol Plaatje,DsTypeOfMainDwellings
+Census 2022,Municipality,Sol Plaatje,Other,218,0.3,Northern Cape,Frances Baard,Sol Plaatje,DsTypeOfMainDwellings
+Census 2022,Municipality,Ga-Segonyana,Formal dwelling,26414,89.9,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Ga-Segonyana,Traditional dwelling,311,1.1,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Ga-Segonyana,Informal dwelling,2457,8.4,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Ga-Segonyana,Other,197,0.7,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsTypeOfMainDwellings
+Census 2022,Municipality,Gamagara,Formal dwelling,8594,82.4,Northern Cape,John Taolo Gaetsewe,Gamagara,DsTypeOfMainDwellings
+Census 2022,Municipality,Gamagara,Traditional dwelling,20,0.2,Northern Cape,John Taolo Gaetsewe,Gamagara,DsTypeOfMainDwellings
+Census 2022,Municipality,Gamagara,Informal dwelling,1561,15.0,Northern Cape,John Taolo Gaetsewe,Gamagara,DsTypeOfMainDwellings
+Census 2022,Municipality,Gamagara,Other,256,2.5,Northern Cape,John Taolo Gaetsewe,Gamagara,DsTypeOfMainDwellings
+Census 2022,Municipality,Joe Morolong,Formal dwelling,23507,88.6,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsTypeOfMainDwellings
+Census 2022,Municipality,Joe Morolong,Traditional dwelling,1840,6.9,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsTypeOfMainDwellings
+Census 2022,Municipality,Joe Morolong,Informal dwelling,1022,3.9,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsTypeOfMainDwellings
+Census 2022,Municipality,Joe Morolong,Other,167,0.6,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsTypeOfMainDwellings
+Census 2022,Municipality,Hantam,Formal dwelling,4801,90.1,Northern Cape,Namakwa,Hantam,DsTypeOfMainDwellings
+Census 2022,Municipality,Hantam,Traditional dwelling,20,0.4,Northern Cape,Namakwa,Hantam,DsTypeOfMainDwellings
+Census 2022,Municipality,Hantam,Informal dwelling,480,9.0,Northern Cape,Namakwa,Hantam,DsTypeOfMainDwellings
+Census 2022,Municipality,Hantam,Other,26,0.5,Northern Cape,Namakwa,Hantam,DsTypeOfMainDwellings
+Census 2022,Municipality,Kamiesberg,Formal dwelling,3433,96.0,Northern Cape,Namakwa,Kamiesberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kamiesberg,Traditional dwelling,23,0.6,Northern Cape,Namakwa,Kamiesberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kamiesberg,Informal dwelling,106,3.0,Northern Cape,Namakwa,Kamiesberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kamiesberg,Other,14,0.4,Northern Cape,Namakwa,Kamiesberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Karoo Hoogland,Formal dwelling,2775,96.2,Northern Cape,Namakwa,Karoo Hoogland,DsTypeOfMainDwellings
+Census 2022,Municipality,Karoo Hoogland,Traditional dwelling,8,0.3,Northern Cape,Namakwa,Karoo Hoogland,DsTypeOfMainDwellings
+Census 2022,Municipality,Karoo Hoogland,Informal dwelling,94,3.3,Northern Cape,Namakwa,Karoo Hoogland,DsTypeOfMainDwellings
+Census 2022,Municipality,Karoo Hoogland,Other,8,0.3,Northern Cape,Namakwa,Karoo Hoogland,DsTypeOfMainDwellings
+Census 2022,Municipality,Khâi-Ma,Formal dwelling,1812,93.5,Northern Cape,Namakwa,Khâi-Ma,DsTypeOfMainDwellings
+Census 2022,Municipality,Khâi-Ma,Traditional dwelling,16,0.8,Northern Cape,Namakwa,Khâi-Ma,DsTypeOfMainDwellings
+Census 2022,Municipality,Khâi-Ma,Informal dwelling,82,4.3,Northern Cape,Namakwa,Khâi-Ma,DsTypeOfMainDwellings
+Census 2022,Municipality,Khâi-Ma,Other,28,1.5,Northern Cape,Namakwa,Khâi-Ma,DsTypeOfMainDwellings
+Census 2022,Municipality,Nama Khoi,Formal dwelling,13989,96.0,Northern Cape,Namakwa,Nama Khoi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nama Khoi,Traditional dwelling,346,2.4,Northern Cape,Namakwa,Nama Khoi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nama Khoi,Informal dwelling,206,1.4,Northern Cape,Namakwa,Nama Khoi,DsTypeOfMainDwellings
+Census 2022,Municipality,Nama Khoi,Other,37,0.3,Northern Cape,Namakwa,Nama Khoi,DsTypeOfMainDwellings
+Census 2022,Municipality,Richtersveld,Formal dwelling,5536,98.1,Northern Cape,Namakwa,Richtersveld,DsTypeOfMainDwellings
+Census 2022,Municipality,Richtersveld,Traditional dwelling,19,0.3,Northern Cape,Namakwa,Richtersveld,DsTypeOfMainDwellings
+Census 2022,Municipality,Richtersveld,Informal dwelling,75,1.3,Northern Cape,Namakwa,Richtersveld,DsTypeOfMainDwellings
+Census 2022,Municipality,Richtersveld,Other,14,0.2,Northern Cape,Namakwa,Richtersveld,DsTypeOfMainDwellings
+Census 2022,Municipality,Emthanjeni,Formal dwelling,10114,95.2,Northern Cape,Pixley ka Seme,Emthanjeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emthanjeni,Traditional dwelling,39,0.4,Northern Cape,Pixley ka Seme,Emthanjeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emthanjeni,Informal dwelling,460,4.3,Northern Cape,Pixley ka Seme,Emthanjeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Emthanjeni,Other,9,0.1,Northern Cape,Pixley ka Seme,Emthanjeni,DsTypeOfMainDwellings
+Census 2022,Municipality,Kareeberg,Formal dwelling,2280,85.2,Northern Cape,Pixley ka Seme,Kareeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kareeberg,Traditional dwelling,12,0.4,Northern Cape,Pixley ka Seme,Kareeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kareeberg,Informal dwelling,353,13.2,Northern Cape,Pixley ka Seme,Kareeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Kareeberg,Other,32,1.2,Northern Cape,Pixley ka Seme,Kareeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Renosterberg,Formal dwelling,2798,92.8,Northern Cape,Pixley ka Seme,Renosterberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Renosterberg,Traditional dwelling,1,0.0,Northern Cape,Pixley ka Seme,Renosterberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Renosterberg,Informal dwelling,209,6.9,Northern Cape,Pixley ka Seme,Renosterberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Renosterberg,Other,8,0.3,Northern Cape,Pixley ka Seme,Renosterberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyancuma,Formal dwelling,9988,74.4,Northern Cape,Pixley ka Seme,Siyancuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyancuma,Traditional dwelling,86,0.6,Northern Cape,Pixley ka Seme,Siyancuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyancuma,Informal dwelling,3180,23.7,Northern Cape,Pixley ka Seme,Siyancuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyancuma,Other,169,1.3,Northern Cape,Pixley ka Seme,Siyancuma,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyathemba,Formal dwelling,5872,87.1,Northern Cape,Pixley ka Seme,Siyathemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyathemba,Traditional dwelling,11,0.2,Northern Cape,Pixley ka Seme,Siyathemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyathemba,Informal dwelling,844,12.5,Northern Cape,Pixley ka Seme,Siyathemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Siyathemba,Other,12,0.2,Northern Cape,Pixley ka Seme,Siyathemba,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembelihle,Formal dwelling,3546,68.1,Northern Cape,Pixley ka Seme,Thembelihle,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembelihle,Traditional dwelling,10,0.2,Northern Cape,Pixley ka Seme,Thembelihle,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembelihle,Informal dwelling,1642,31.5,Northern Cape,Pixley ka Seme,Thembelihle,DsTypeOfMainDwellings
+Census 2022,Municipality,Thembelihle,Other,12,0.2,Northern Cape,Pixley ka Seme,Thembelihle,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuntu,Formal dwelling,3785,94.9,Northern Cape,Pixley ka Seme,Ubuntu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuntu,Traditional dwelling,15,0.4,Northern Cape,Pixley ka Seme,Ubuntu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuntu,Informal dwelling,187,4.7,Northern Cape,Pixley ka Seme,Ubuntu,DsTypeOfMainDwellings
+Census 2022,Municipality,Ubuntu,Other,4,0.1,Northern Cape,Pixley ka Seme,Ubuntu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umsobomvu,Formal dwelling,7634,94.7,Northern Cape,Pixley ka Seme,Umsobomvu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umsobomvu,Traditional dwelling,61,0.8,Northern Cape,Pixley ka Seme,Umsobomvu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umsobomvu,Informal dwelling,320,4.0,Northern Cape,Pixley ka Seme,Umsobomvu,DsTypeOfMainDwellings
+Census 2022,Municipality,Umsobomvu,Other,42,0.5,Northern Cape,Pixley ka Seme,Umsobomvu,DsTypeOfMainDwellings
+Census 2022,Municipality,!Kheis,Formal dwelling,3296,66.3,Northern Cape,Z F Mgcawu,!Kheis,DsTypeOfMainDwellings
+Census 2022,Municipality,!Kheis,Traditional dwelling,614,12.4,Northern Cape,Z F Mgcawu,!Kheis,DsTypeOfMainDwellings
+Census 2022,Municipality,!Kheis,Informal dwelling,984,19.8,Northern Cape,Z F Mgcawu,!Kheis,DsTypeOfMainDwellings
+Census 2022,Municipality,!Kheis,Other,74,1.5,Northern Cape,Z F Mgcawu,!Kheis,DsTypeOfMainDwellings
+Census 2022,Municipality,Dawid Kruiper,Formal dwelling,21750,71.5,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsTypeOfMainDwellings
+Census 2022,Municipality,Dawid Kruiper,Traditional dwelling,84,0.3,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsTypeOfMainDwellings
+Census 2022,Municipality,Dawid Kruiper,Informal dwelling,8468,27.8,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsTypeOfMainDwellings
+Census 2022,Municipality,Dawid Kruiper,Other,132,0.4,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsTypeOfMainDwellings
+Census 2022,Municipality,Kai !Garib,Formal dwelling,17576,86.3,Northern Cape,Z F Mgcawu,Kai !Garib,DsTypeOfMainDwellings
+Census 2022,Municipality,Kai !Garib,Traditional dwelling,403,2.0,Northern Cape,Z F Mgcawu,Kai !Garib,DsTypeOfMainDwellings
+Census 2022,Municipality,Kai !Garib,Informal dwelling,2310,11.3,Northern Cape,Z F Mgcawu,Kai !Garib,DsTypeOfMainDwellings
+Census 2022,Municipality,Kai !Garib,Other,78,0.4,Northern Cape,Z F Mgcawu,Kai !Garib,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgatelopele,Formal dwelling,4785,90.5,Northern Cape,Z F Mgcawu,Kgatelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgatelopele,Traditional dwelling,8,0.2,Northern Cape,Z F Mgcawu,Kgatelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgatelopele,Informal dwelling,478,9.0,Northern Cape,Z F Mgcawu,Kgatelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Kgatelopele,Other,15,0.3,Northern Cape,Z F Mgcawu,Kgatelopele,DsTypeOfMainDwellings
+Census 2022,Municipality,Tsantsabane,Formal dwelling,7610,81.1,Northern Cape,Z F Mgcawu,Tsantsabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Tsantsabane,Traditional dwelling,135,1.4,Northern Cape,Z F Mgcawu,Tsantsabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Tsantsabane,Informal dwelling,1538,16.4,Northern Cape,Z F Mgcawu,Tsantsabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Tsantsabane,Other,98,1.0,Northern Cape,Z F Mgcawu,Tsantsabane,DsTypeOfMainDwellings
+Census 2022,Municipality,Breede Valley,Formal dwelling,47623,87.7,Western Cape,Cape Winelands,Breede Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Breede Valley,Traditional dwelling,392,0.7,Western Cape,Cape Winelands,Breede Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Breede Valley,Informal dwelling,6126,11.3,Western Cape,Cape Winelands,Breede Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Breede Valley,Other,143,0.3,Western Cape,Cape Winelands,Breede Valley,DsTypeOfMainDwellings
+Census 2022,Municipality,Drakenstein,Formal dwelling,69083,90.0,Western Cape,Cape Winelands,Drakenstein,DsTypeOfMainDwellings
+Census 2022,Municipality,Drakenstein,Traditional dwelling,359,0.5,Western Cape,Cape Winelands,Drakenstein,DsTypeOfMainDwellings
+Census 2022,Municipality,Drakenstein,Informal dwelling,7140,9.3,Western Cape,Cape Winelands,Drakenstein,DsTypeOfMainDwellings
+Census 2022,Municipality,Drakenstein,Other,195,0.3,Western Cape,Cape Winelands,Drakenstein,DsTypeOfMainDwellings
+Census 2022,Municipality,Langeberg,Formal dwelling,23264,91.7,Western Cape,Cape Winelands,Langeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Langeberg,Traditional dwelling,272,1.1,Western Cape,Cape Winelands,Langeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Langeberg,Informal dwelling,1778,7.0,Western Cape,Cape Winelands,Langeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Langeberg,Other,55,0.2,Western Cape,Cape Winelands,Langeberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Stellenbosch,Formal dwelling,52063,87.3,Western Cape,Cape Winelands,Stellenbosch,DsTypeOfMainDwellings
+Census 2022,Municipality,Stellenbosch,Traditional dwelling,398,0.7,Western Cape,Cape Winelands,Stellenbosch,DsTypeOfMainDwellings
+Census 2022,Municipality,Stellenbosch,Informal dwelling,7051,11.8,Western Cape,Cape Winelands,Stellenbosch,DsTypeOfMainDwellings
+Census 2022,Municipality,Stellenbosch,Other,114,0.2,Western Cape,Cape Winelands,Stellenbosch,DsTypeOfMainDwellings
+Census 2022,Municipality,Witzenberg,Formal dwelling,22998,87.7,Western Cape,Cape Winelands,Witzenberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Witzenberg,Traditional dwelling,216,0.8,Western Cape,Cape Winelands,Witzenberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Witzenberg,Informal dwelling,2943,11.2,Western Cape,Cape Winelands,Witzenberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Witzenberg,Other,70,0.3,Western Cape,Cape Winelands,Witzenberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Beaufort West,Formal dwelling,19104,99.4,Western Cape,Central Karoo,Beaufort West,DsTypeOfMainDwellings
+Census 2022,Municipality,Beaufort West,Traditional dwelling,35,0.2,Western Cape,Central Karoo,Beaufort West,DsTypeOfMainDwellings
+Census 2022,Municipality,Beaufort West,Informal dwelling,70,0.4,Western Cape,Central Karoo,Beaufort West,DsTypeOfMainDwellings
+Census 2022,Municipality,Beaufort West,Other,7,0.0,Western Cape,Central Karoo,Beaufort West,DsTypeOfMainDwellings
+Census 2022,Municipality,Laingsburg,Formal dwelling,3187,96.2,Western Cape,Central Karoo,Laingsburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Laingsburg,Traditional dwelling,27,0.8,Western Cape,Central Karoo,Laingsburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Laingsburg,Informal dwelling,79,2.4,Western Cape,Central Karoo,Laingsburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Laingsburg,Other,21,0.6,Western Cape,Central Karoo,Laingsburg,DsTypeOfMainDwellings
+Census 2022,Municipality,Prince Albert,Formal dwelling,4670,98.1,Western Cape,Central Karoo,Prince Albert,DsTypeOfMainDwellings
+Census 2022,Municipality,Prince Albert,Traditional dwelling,13,0.3,Western Cape,Central Karoo,Prince Albert,DsTypeOfMainDwellings
+Census 2022,Municipality,Prince Albert,Informal dwelling,76,1.6,Western Cape,Central Karoo,Prince Albert,DsTypeOfMainDwellings
+Census 2022,Municipality,Prince Albert,Other,2,0.0,Western Cape,Central Karoo,Prince Albert,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Cape Town,Formal dwelling,1271679,87.5,Western Cape,City of Cape Town,City of Cape Town,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Cape Town,Traditional dwelling,7419,0.5,Western Cape,City of Cape Town,City of Cape Town,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Cape Town,Informal dwelling,170115,11.7,Western Cape,City of Cape Town,City of Cape Town,DsTypeOfMainDwellings
+Census 2022,Municipality,City of Cape Town,Other,3632,0.2,Western Cape,City of Cape Town,City of Cape Town,DsTypeOfMainDwellings
+Census 2022,Municipality,Bitou,Formal dwelling,18651,85.4,Western Cape,Garden Route,Bitou,DsTypeOfMainDwellings
+Census 2022,Municipality,Bitou,Traditional dwelling,98,0.4,Western Cape,Garden Route,Bitou,DsTypeOfMainDwellings
+Census 2022,Municipality,Bitou,Informal dwelling,3049,14.0,Western Cape,Garden Route,Bitou,DsTypeOfMainDwellings
+Census 2022,Municipality,Bitou,Other,50,0.2,Western Cape,Garden Route,Bitou,DsTypeOfMainDwellings
+Census 2022,Municipality,George,Formal dwelling,75014,87.3,Western Cape,Garden Route,George,DsTypeOfMainDwellings
+Census 2022,Municipality,George,Traditional dwelling,760,0.9,Western Cape,Garden Route,George,DsTypeOfMainDwellings
+Census 2022,Municipality,George,Informal dwelling,9987,11.6,Western Cape,Garden Route,George,DsTypeOfMainDwellings
+Census 2022,Municipality,George,Other,170,0.2,Western Cape,Garden Route,George,DsTypeOfMainDwellings
+Census 2022,Municipality,Hessequa,Formal dwelling,21279,95.3,Western Cape,Garden Route,Hessequa,DsTypeOfMainDwellings
+Census 2022,Municipality,Hessequa,Traditional dwelling,198,0.9,Western Cape,Garden Route,Hessequa,DsTypeOfMainDwellings
+Census 2022,Municipality,Hessequa,Informal dwelling,814,3.6,Western Cape,Garden Route,Hessequa,DsTypeOfMainDwellings
+Census 2022,Municipality,Hessequa,Other,43,0.2,Western Cape,Garden Route,Hessequa,DsTypeOfMainDwellings
+Census 2022,Municipality,Kannaland,Formal dwelling,8273,95.2,Western Cape,Garden Route,Kannaland,DsTypeOfMainDwellings
+Census 2022,Municipality,Kannaland,Traditional dwelling,101,1.2,Western Cape,Garden Route,Kannaland,DsTypeOfMainDwellings
+Census 2022,Municipality,Kannaland,Informal dwelling,282,3.2,Western Cape,Garden Route,Kannaland,DsTypeOfMainDwellings
+Census 2022,Municipality,Kannaland,Other,30,0.3,Western Cape,Garden Route,Kannaland,DsTypeOfMainDwellings
+Census 2022,Municipality,Knysna,Formal dwelling,27127,83.7,Western Cape,Garden Route,Knysna,DsTypeOfMainDwellings
+Census 2022,Municipality,Knysna,Traditional dwelling,568,1.8,Western Cape,Garden Route,Knysna,DsTypeOfMainDwellings
+Census 2022,Municipality,Knysna,Informal dwelling,4611,14.2,Western Cape,Garden Route,Knysna,DsTypeOfMainDwellings
+Census 2022,Municipality,Knysna,Other,91,0.3,Western Cape,Garden Route,Knysna,DsTypeOfMainDwellings
+Census 2022,Municipality,Mossel Bay,Formal dwelling,49000,92.5,Western Cape,Garden Route,Mossel Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Mossel Bay,Traditional dwelling,778,1.5,Western Cape,Garden Route,Mossel Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Mossel Bay,Informal dwelling,3063,5.8,Western Cape,Garden Route,Mossel Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Mossel Bay,Other,144,0.3,Western Cape,Garden Route,Mossel Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Oudtshoorn,Formal dwelling,28467,89.5,Western Cape,Garden Route,Oudtshoorn,DsTypeOfMainDwellings
+Census 2022,Municipality,Oudtshoorn,Traditional dwelling,551,1.7,Western Cape,Garden Route,Oudtshoorn,DsTypeOfMainDwellings
+Census 2022,Municipality,Oudtshoorn,Informal dwelling,2697,8.5,Western Cape,Garden Route,Oudtshoorn,DsTypeOfMainDwellings
+Census 2022,Municipality,Oudtshoorn,Other,81,0.3,Western Cape,Garden Route,Oudtshoorn,DsTypeOfMainDwellings
+Census 2022,Municipality,Cape Agulhas,Formal dwelling,15310,94.4,Western Cape,Overberg,Cape Agulhas,DsTypeOfMainDwellings
+Census 2022,Municipality,Cape Agulhas,Traditional dwelling,56,0.3,Western Cape,Overberg,Cape Agulhas,DsTypeOfMainDwellings
+Census 2022,Municipality,Cape Agulhas,Informal dwelling,837,5.2,Western Cape,Overberg,Cape Agulhas,DsTypeOfMainDwellings
+Census 2022,Municipality,Cape Agulhas,Other,16,0.1,Western Cape,Overberg,Cape Agulhas,DsTypeOfMainDwellings
+Census 2022,Municipality,Overstrand,Formal dwelling,54103,90.2,Western Cape,Overberg,Overstrand,DsTypeOfMainDwellings
+Census 2022,Municipality,Overstrand,Traditional dwelling,364,0.6,Western Cape,Overberg,Overstrand,DsTypeOfMainDwellings
+Census 2022,Municipality,Overstrand,Informal dwelling,5347,8.9,Western Cape,Overberg,Overstrand,DsTypeOfMainDwellings
+Census 2022,Municipality,Overstrand,Other,166,0.3,Western Cape,Overberg,Overstrand,DsTypeOfMainDwellings
+Census 2022,Municipality,Swellendam,Formal dwelling,14064,90.9,Western Cape,Overberg,Swellendam,DsTypeOfMainDwellings
+Census 2022,Municipality,Swellendam,Traditional dwelling,100,0.6,Western Cape,Overberg,Swellendam,DsTypeOfMainDwellings
+Census 2022,Municipality,Swellendam,Informal dwelling,1281,8.3,Western Cape,Overberg,Swellendam,DsTypeOfMainDwellings
+Census 2022,Municipality,Swellendam,Other,31,0.2,Western Cape,Overberg,Swellendam,DsTypeOfMainDwellings
+Census 2022,Municipality,Theewaterskloof,Formal dwelling,34509,80.0,Western Cape,Overberg,Theewaterskloof,DsTypeOfMainDwellings
+Census 2022,Municipality,Theewaterskloof,Traditional dwelling,405,0.9,Western Cape,Overberg,Theewaterskloof,DsTypeOfMainDwellings
+Census 2022,Municipality,Theewaterskloof,Informal dwelling,8076,18.7,Western Cape,Overberg,Theewaterskloof,DsTypeOfMainDwellings
+Census 2022,Municipality,Theewaterskloof,Other,131,0.3,Western Cape,Overberg,Theewaterskloof,DsTypeOfMainDwellings
+Census 2022,Municipality,Bergrivier,Formal dwelling,18699,91.6,Western Cape,West Coast,Bergrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Bergrivier,Traditional dwelling,282,1.4,Western Cape,West Coast,Bergrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Bergrivier,Informal dwelling,1315,6.4,Western Cape,West Coast,Bergrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Bergrivier,Other,117,0.6,Western Cape,West Coast,Bergrivier,DsTypeOfMainDwellings
+Census 2022,Municipality,Cederberg,Formal dwelling,11953,75.1,Western Cape,West Coast,Cederberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Cederberg,Traditional dwelling,1070,6.7,Western Cape,West Coast,Cederberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Cederberg,Informal dwelling,2865,18.0,Western Cape,West Coast,Cederberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Cederberg,Other,24,0.2,Western Cape,West Coast,Cederberg,DsTypeOfMainDwellings
+Census 2022,Municipality,Matzikama,Formal dwelling,17045,89.2,Western Cape,West Coast,Matzikama,DsTypeOfMainDwellings
+Census 2022,Municipality,Matzikama,Traditional dwelling,115,0.6,Western Cape,West Coast,Matzikama,DsTypeOfMainDwellings
+Census 2022,Municipality,Matzikama,Informal dwelling,1827,9.6,Western Cape,West Coast,Matzikama,DsTypeOfMainDwellings
+Census 2022,Municipality,Matzikama,Other,115,0.6,Western Cape,West Coast,Matzikama,DsTypeOfMainDwellings
+Census 2022,Municipality,Saldanha Bay,Formal dwelling,44345,87.7,Western Cape,West Coast,Saldanha Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Saldanha Bay,Traditional dwelling,217,0.4,Western Cape,West Coast,Saldanha Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Saldanha Bay,Informal dwelling,5882,11.6,Western Cape,West Coast,Saldanha Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Saldanha Bay,Other,116,0.2,Western Cape,West Coast,Saldanha Bay,DsTypeOfMainDwellings
+Census 2022,Municipality,Swartland,Formal dwelling,40133,89.5,Western Cape,West Coast,Swartland,DsTypeOfMainDwellings
+Census 2022,Municipality,Swartland,Traditional dwelling,638,1.4,Western Cape,West Coast,Swartland,DsTypeOfMainDwellings
+Census 2022,Municipality,Swartland,Informal dwelling,3864,8.6,Western Cape,West Coast,Swartland,DsTypeOfMainDwellings
+Census 2022,Municipality,Swartland,Other,221,0.5,Western Cape,West Coast,Swartland,DsTypeOfMainDwellings

@@ -1,0 +1,427 @@
+timeSeriesDesc,geoLevelDesc,geoLevelValueDesc,label,counts,countsPercentage,countsMales,countsPercentageMales,countsFemales,countsPercentageFemales,Province,District,Municipality,ReportType
+Census 2022,Municipality,Matatiele,Yes,69647,79.8,,,,,Eastern Cape,Alfred Nzo,Matatiele,DsSchoolAttendences
+Census 2022,Municipality,Matatiele,No,17593,20.2,,,,,Eastern Cape,Alfred Nzo,Matatiele,DsSchoolAttendences
+Census 2022,Municipality,Ntabankulu,Yes,48732,79.4,,,,,Eastern Cape,Alfred Nzo,Ntabankulu,DsSchoolAttendences
+Census 2022,Municipality,Ntabankulu,No,12672,20.6,,,,,Eastern Cape,Alfred Nzo,Ntabankulu,DsSchoolAttendences
+Census 2022,Municipality,Umzimvubu,Yes,65484,78.3,,,,,Eastern Cape,Alfred Nzo,Umzimvubu,DsSchoolAttendences
+Census 2022,Municipality,Umzimvubu,No,18175,21.7,,,,,Eastern Cape,Alfred Nzo,Umzimvubu,DsSchoolAttendences
+Census 2022,Municipality,Winnie Madikizela-Mandela,Yes,124900,82.0,,,,,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsSchoolAttendences
+Census 2022,Municipality,Winnie Madikizela-Mandela,No,27463,18.0,,,,,Eastern Cape,Alfred Nzo,Winnie Madikizela-Mandela,DsSchoolAttendences
+Census 2022,Municipality,Amahlathi,Yes,30076,77.4,,,,,Eastern Cape,Amathole,Amahlathi,DsSchoolAttendences
+Census 2022,Municipality,Amahlathi,No,8765,22.6,,,,,Eastern Cape,Amathole,Amahlathi,DsSchoolAttendences
+Census 2022,Municipality,Great Kei,Yes,7933,76.8,,,,,Eastern Cape,Amathole,Great Kei,DsSchoolAttendences
+Census 2022,Municipality,Great Kei,No,2397,23.2,,,,,Eastern Cape,Amathole,Great Kei,DsSchoolAttendences
+Census 2022,Municipality,Mbhashe,Yes,74458,81.7,,,,,Eastern Cape,Amathole,Mbhashe,DsSchoolAttendences
+Census 2022,Municipality,Mbhashe,No,16716,18.3,,,,,Eastern Cape,Amathole,Mbhashe,DsSchoolAttendences
+Census 2022,Municipality,Mnquma,Yes,63221,79.6,,,,,Eastern Cape,Amathole,Mnquma,DsSchoolAttendences
+Census 2022,Municipality,Mnquma,No,16213,20.4,,,,,Eastern Cape,Amathole,Mnquma,DsSchoolAttendences
+Census 2022,Municipality,Ngqushwa,Yes,17299,79.7,,,,,Eastern Cape,Amathole,Ngqushwa,DsSchoolAttendences
+Census 2022,Municipality,Ngqushwa,No,4410,20.3,,,,,Eastern Cape,Amathole,Ngqushwa,DsSchoolAttendences
+Census 2022,Municipality,Raymond Mhlaba,Yes,44823,77.5,,,,,Eastern Cape,Amathole,Raymond Mhlaba,DsSchoolAttendences
+Census 2022,Municipality,Raymond Mhlaba,No,13029,22.5,,,,,Eastern Cape,Amathole,Raymond Mhlaba,DsSchoolAttendences
+Census 2022,Municipality,Buffalo City,Yes,233425,76.3,,,,,Eastern Cape,Buffalo City,Buffalo City,DsSchoolAttendences
+Census 2022,Municipality,Buffalo City,No,72556,23.7,,,,,Eastern Cape,Buffalo City,Buffalo City,DsSchoolAttendences
+Census 2022,Municipality,Emalahleni,Yes,35069,79.8,,,,,Eastern Cape,Chris Hani,Emalahleni,DsSchoolAttendences
+Census 2022,Municipality,Emalahleni,No,8900,20.2,,,,,Eastern Cape,Chris Hani,Emalahleni,DsSchoolAttendences
+Census 2022,Municipality,Engcobo,Yes,40794,82.7,,,,,Eastern Cape,Chris Hani,Engcobo,DsSchoolAttendences
+Census 2022,Municipality,Engcobo,No,8543,17.3,,,,,Eastern Cape,Chris Hani,Engcobo,DsSchoolAttendences
+Census 2022,Municipality,Enoch Mgijima,Yes,78797,77.1,,,,,Eastern Cape,Chris Hani,Enoch Mgijima,DsSchoolAttendences
+Census 2022,Municipality,Enoch Mgijima,No,23414,22.9,,,,,Eastern Cape,Chris Hani,Enoch Mgijima,DsSchoolAttendences
+Census 2022,Municipality,Intsika Yethu,Yes,34744,79.4,,,,,Eastern Cape,Chris Hani,Intsika Yethu,DsSchoolAttendences
+Census 2022,Municipality,Intsika Yethu,No,9004,20.6,,,,,Eastern Cape,Chris Hani,Intsika Yethu,DsSchoolAttendences
+Census 2022,Municipality,Inxuba Yethemba,Yes,18411,71.8,,,,,Eastern Cape,Chris Hani,Inxuba Yethemba,DsSchoolAttendences
+Census 2022,Municipality,Inxuba Yethemba,No,7222,28.2,,,,,Eastern Cape,Chris Hani,Inxuba Yethemba,DsSchoolAttendences
+Census 2022,Municipality,Sakhisizwe,Yes,16808,76.3,,,,,Eastern Cape,Chris Hani,Sakhisizwe,DsSchoolAttendences
+Census 2022,Municipality,Sakhisizwe,No,5216,23.7,,,,,Eastern Cape,Chris Hani,Sakhisizwe,DsSchoolAttendences
+Census 2022,Municipality,Elundini,Yes,39753,78.5,,,,,Eastern Cape,Joe Gqabi,Elundini,DsSchoolAttendences
+Census 2022,Municipality,Elundini,No,10900,21.5,,,,,Eastern Cape,Joe Gqabi,Elundini,DsSchoolAttendences
+Census 2022,Municipality,Senqu,Yes,42377,78.7,,,,,Eastern Cape,Joe Gqabi,Senqu,DsSchoolAttendences
+Census 2022,Municipality,Senqu,No,11476,21.3,,,,,Eastern Cape,Joe Gqabi,Senqu,DsSchoolAttendences
+Census 2022,Municipality,Walter Sisulu,Yes,26505,73.4,,,,,Eastern Cape,Joe Gqabi,Walter Sisulu,DsSchoolAttendences
+Census 2022,Municipality,Walter Sisulu,No,9604,26.6,,,,,Eastern Cape,Joe Gqabi,Walter Sisulu,DsSchoolAttendences
+Census 2022,Municipality,Nelson Mandela Bay,Yes,255462,71.8,,,,,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsSchoolAttendences
+Census 2022,Municipality,Nelson Mandela Bay,No,100168,28.2,,,,,Eastern Cape,Nelson Mandela Bay,Nelson Mandela Bay,DsSchoolAttendences
+Census 2022,Municipality,King Sabata Dalindyebo,Yes,141030,80.1,,,,,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsSchoolAttendences
+Census 2022,Municipality,King Sabata Dalindyebo,No,35115,19.9,,,,,Eastern Cape,O.R. Tambo,King Sabata Dalindyebo,DsSchoolAttendences
+Census 2022,Municipality,Mhlontlo,Yes,55642,79.6,,,,,Eastern Cape,O.R. Tambo,Mhlontlo,DsSchoolAttendences
+Census 2022,Municipality,Mhlontlo,No,14260,20.4,,,,,Eastern Cape,O.R. Tambo,Mhlontlo,DsSchoolAttendences
+Census 2022,Municipality,Ngquza Hill,Yes,122737,80.8,,,,,Eastern Cape,O.R. Tambo,Ngquza Hill,DsSchoolAttendences
+Census 2022,Municipality,Ngquza Hill,No,29233,19.2,,,,,Eastern Cape,O.R. Tambo,Ngquza Hill,DsSchoolAttendences
+Census 2022,Municipality,Nyandeni,Yes,99190,78.6,,,,,Eastern Cape,O.R. Tambo,Nyandeni,DsSchoolAttendences
+Census 2022,Municipality,Nyandeni,No,26962,21.4,,,,,Eastern Cape,O.R. Tambo,Nyandeni,DsSchoolAttendences
+Census 2022,Municipality,Port St Johns,Yes,59748,80.6,,,,,Eastern Cape,O.R. Tambo,Port St Johns,DsSchoolAttendences
+Census 2022,Municipality,Port St Johns,No,14390,19.4,,,,,Eastern Cape,O.R. Tambo,Port St Johns,DsSchoolAttendences
+Census 2022,Municipality,Blue Crane Route,Yes,10653,68.5,,,,,Eastern Cape,Sarah Baartman,Blue Crane Route,DsSchoolAttendences
+Census 2022,Municipality,Blue Crane Route,No,4905,31.5,,,,,Eastern Cape,Sarah Baartman,Blue Crane Route,DsSchoolAttendences
+Census 2022,Municipality,Dr Beyers Naude,Yes,22689,65.1,,,,,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsSchoolAttendences
+Census 2022,Municipality,Dr Beyers Naude,No,12181,34.9,,,,,Eastern Cape,Sarah Baartman,Dr Beyers Naude,DsSchoolAttendences
+Census 2022,Municipality,Kou-Kamma,Yes,8186,66.0,,,,,Eastern Cape,Sarah Baartman,Kou-Kamma,DsSchoolAttendences
+Census 2022,Municipality,Kou-Kamma,No,4215,34.0,,,,,Eastern Cape,Sarah Baartman,Kou-Kamma,DsSchoolAttendences
+Census 2022,Municipality,Kouga,Yes,19821,67.5,,,,,Eastern Cape,Sarah Baartman,Kouga,DsSchoolAttendences
+Census 2022,Municipality,Kouga,No,9538,32.5,,,,,Eastern Cape,Sarah Baartman,Kouga,DsSchoolAttendences
+Census 2022,Municipality,Makana,Yes,22021,75.3,,,,,Eastern Cape,Sarah Baartman,Makana,DsSchoolAttendences
+Census 2022,Municipality,Makana,No,7213,24.7,,,,,Eastern Cape,Sarah Baartman,Makana,DsSchoolAttendences
+Census 2022,Municipality,Ndlambe,Yes,17031,73.3,,,,,Eastern Cape,Sarah Baartman,Ndlambe,DsSchoolAttendences
+Census 2022,Municipality,Ndlambe,No,6215,26.7,,,,,Eastern Cape,Sarah Baartman,Ndlambe,DsSchoolAttendences
+Census 2022,Municipality,Sundays River Valley,Yes,10148,62.5,,,,,Eastern Cape,Sarah Baartman,Sundays River Valley,DsSchoolAttendences
+Census 2022,Municipality,Sundays River Valley,No,6099,37.5,,,,,Eastern Cape,Sarah Baartman,Sundays River Valley,DsSchoolAttendences
+Census 2022,Municipality,Mafube,Yes,15470,75.1,,,,,Free State,Fezile Dabi,Mafube,DsSchoolAttendences
+Census 2022,Municipality,Mafube,No,5132,24.9,,,,,Free State,Fezile Dabi,Mafube,DsSchoolAttendences
+Census 2022,Municipality,Metsimaholo,Yes,38730,76.3,,,,,Free State,Fezile Dabi,Metsimaholo,DsSchoolAttendences
+Census 2022,Municipality,Metsimaholo,No,12061,23.7,,,,,Free State,Fezile Dabi,Metsimaholo,DsSchoolAttendences
+Census 2022,Municipality,Moqhaka,Yes,37328,77.3,,,,,Free State,Fezile Dabi,Moqhaka,DsSchoolAttendences
+Census 2022,Municipality,Moqhaka,No,10980,22.7,,,,,Free State,Fezile Dabi,Moqhaka,DsSchoolAttendences
+Census 2022,Municipality,Ngwathe,Yes,32426,74.6,,,,,Free State,Fezile Dabi,Ngwathe,DsSchoolAttendences
+Census 2022,Municipality,Ngwathe,No,11068,25.4,,,,,Free State,Fezile Dabi,Ngwathe,DsSchoolAttendences
+Census 2022,Municipality,Masilonyana,Yes,16808,76.6,,,,,Free State,Lejweleputswa,Masilonyana,DsSchoolAttendences
+Census 2022,Municipality,Masilonyana,No,5143,23.4,,,,,Free State,Lejweleputswa,Masilonyana,DsSchoolAttendences
+Census 2022,Municipality,Matjhabeng,Yes,112067,77.2,,,,,Free State,Lejweleputswa,Matjhabeng,DsSchoolAttendences
+Census 2022,Municipality,Matjhabeng,No,33154,22.8,,,,,Free State,Lejweleputswa,Matjhabeng,DsSchoolAttendences
+Census 2022,Municipality,Nala,Yes,23496,74.7,,,,,Free State,Lejweleputswa,Nala,DsSchoolAttendences
+Census 2022,Municipality,Nala,No,7942,25.3,,,,,Free State,Lejweleputswa,Nala,DsSchoolAttendences
+Census 2022,Municipality,Tokologo,Yes,7638,72.0,,,,,Free State,Lejweleputswa,Tokologo,DsSchoolAttendences
+Census 2022,Municipality,Tokologo,No,2976,28.0,,,,,Free State,Lejweleputswa,Tokologo,DsSchoolAttendences
+Census 2022,Municipality,Tswelopele,Yes,15704,74.5,,,,,Free State,Lejweleputswa,Tswelopele,DsSchoolAttendences
+Census 2022,Municipality,Tswelopele,No,5366,25.5,,,,,Free State,Lejweleputswa,Tswelopele,DsSchoolAttendences
+Census 2022,Municipality,Mangaung,Yes,203457,77.2,,,,,Free State,Mangaung,Mangaung,DsSchoolAttendences
+Census 2022,Municipality,Mangaung,No,60045,22.8,,,,,Free State,Mangaung,Mangaung,DsSchoolAttendences
+Census 2022,Municipality,Dihlabeng,Yes,31000,75.2,,,,,Free State,Thabo Mofutsanyane,Dihlabeng,DsSchoolAttendences
+Census 2022,Municipality,Dihlabeng,No,10218,24.8,,,,,Free State,Thabo Mofutsanyane,Dihlabeng,DsSchoolAttendences
+Census 2022,Municipality,Maluti a Phofung,Yes,113419,79.4,,,,,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsSchoolAttendences
+Census 2022,Municipality,Maluti a Phofung,No,29367,20.6,,,,,Free State,Thabo Mofutsanyane,Maluti a Phofung,DsSchoolAttendences
+Census 2022,Municipality,Mantsopa,Yes,14523,76.1,,,,,Free State,Thabo Mofutsanyane,Mantsopa,DsSchoolAttendences
+Census 2022,Municipality,Mantsopa,No,4558,23.9,,,,,Free State,Thabo Mofutsanyane,Mantsopa,DsSchoolAttendences
+Census 2022,Municipality,Nketoana,Yes,17055,77.2,,,,,Free State,Thabo Mofutsanyane,Nketoana,DsSchoolAttendences
+Census 2022,Municipality,Nketoana,No,5026,22.8,,,,,Free State,Thabo Mofutsanyane,Nketoana,DsSchoolAttendences
+Census 2022,Municipality,Phumelela,Yes,13090,74.1,,,,,Free State,Thabo Mofutsanyane,Phumelela,DsSchoolAttendences
+Census 2022,Municipality,Phumelela,No,4581,25.9,,,,,Free State,Thabo Mofutsanyane,Phumelela,DsSchoolAttendences
+Census 2022,Municipality,Setsoto,Yes,34689,78.0,,,,,Free State,Thabo Mofutsanyane,Setsoto,DsSchoolAttendences
+Census 2022,Municipality,Setsoto,No,9760,22.0,,,,,Free State,Thabo Mofutsanyane,Setsoto,DsSchoolAttendences
+Census 2022,Municipality,Kopanong,Yes,12659,73.8,,,,,Free State,Xhariep,Kopanong,DsSchoolAttendences
+Census 2022,Municipality,Kopanong,No,4493,26.2,,,,,Free State,Xhariep,Kopanong,DsSchoolAttendences
+Census 2022,Municipality,Letsemeng,Yes,9830,65.5,,,,,Free State,Xhariep,Letsemeng,DsSchoolAttendences
+Census 2022,Municipality,Letsemeng,No,5180,34.5,,,,,Free State,Xhariep,Letsemeng,DsSchoolAttendences
+Census 2022,Municipality,Mohokare,Yes,10099,80.9,,,,,Free State,Xhariep,Mohokare,DsSchoolAttendences
+Census 2022,Municipality,Mohokare,No,2393,19.2,,,,,Free State,Xhariep,Mohokare,DsSchoolAttendences
+Census 2022,Municipality,City of Johannesburg,Yes,871485,66.7,,,,,Gauteng,City of Johannesburg,City of Johannesburg,DsSchoolAttendences
+Census 2022,Municipality,City of Johannesburg,No,434226,33.3,,,,,Gauteng,City of Johannesburg,City of Johannesburg,DsSchoolAttendences
+Census 2022,Municipality,City of Tshwane,Yes,829564,72.5,,,,,Gauteng,City of Tshwane,City of Tshwane,DsSchoolAttendences
+Census 2022,Municipality,City of Tshwane,No,315159,27.5,,,,,Gauteng,City of Tshwane,City of Tshwane,DsSchoolAttendences
+Census 2022,Municipality,Ekurhuleni,Yes,778437,68.2,,,,,Gauteng,Ekurhuleni,Ekurhuleni,DsSchoolAttendences
+Census 2022,Municipality,Ekurhuleni,No,363475,31.8,,,,,Gauteng,Ekurhuleni,Ekurhuleni,DsSchoolAttendences
+Census 2022,Municipality,Emfuleni,Yes,211970,72.8,,,,,Gauteng,Sedibeng,Emfuleni,DsSchoolAttendences
+Census 2022,Municipality,Emfuleni,No,79078,27.2,,,,,Gauteng,Sedibeng,Emfuleni,DsSchoolAttendences
+Census 2022,Municipality,Lesedi,Yes,30079,71.5,,,,,Gauteng,Sedibeng,Lesedi,DsSchoolAttendences
+Census 2022,Municipality,Lesedi,No,11992,28.5,,,,,Gauteng,Sedibeng,Lesedi,DsSchoolAttendences
+Census 2022,Municipality,Midvaal,Yes,21990,70.6,,,,,Gauteng,Sedibeng,Midvaal,DsSchoolAttendences
+Census 2022,Municipality,Midvaal,No,9167,29.4,,,,,Gauteng,Sedibeng,Midvaal,DsSchoolAttendences
+Census 2022,Municipality,Merafong City,Yes,47618,70.1,,,,,Gauteng,West Rand,Merafong City,DsSchoolAttendences
+Census 2022,Municipality,Merafong City,No,20355,29.9,,,,,Gauteng,West Rand,Merafong City,DsSchoolAttendences
+Census 2022,Municipality,Mogale City,Yes,88812,68.8,,,,,Gauteng,West Rand,Mogale City,DsSchoolAttendences
+Census 2022,Municipality,Mogale City,No,40182,31.2,,,,,Gauteng,West Rand,Mogale City,DsSchoolAttendences
+Census 2022,Municipality,Rand West City,Yes,71636,68.4,,,,,Gauteng,West Rand,Rand West City,DsSchoolAttendences
+Census 2022,Municipality,Rand West City,No,33110,31.6,,,,,Gauteng,West Rand,Rand West City,DsSchoolAttendences
+Census 2022,Municipality,Dannhauser,Yes,43383,77.0,,,,,KwaZulu-Natal,Amajuba,Dannhauser,DsSchoolAttendences
+Census 2022,Municipality,Dannhauser,No,12925,23.0,,,,,KwaZulu-Natal,Amajuba,Dannhauser,DsSchoolAttendences
+Census 2022,Municipality,Emadlangeni,Yes,9772,73.0,,,,,KwaZulu-Natal,Amajuba,Emadlangeni,DsSchoolAttendences
+Census 2022,Municipality,Emadlangeni,No,3605,26.9,,,,,KwaZulu-Natal,Amajuba,Emadlangeni,DsSchoolAttendences
+Census 2022,Municipality,Newcastle,Yes,138539,76.4,,,,,KwaZulu-Natal,Amajuba,Newcastle,DsSchoolAttendences
+Census 2022,Municipality,Newcastle,No,42910,23.6,,,,,KwaZulu-Natal,Amajuba,Newcastle,DsSchoolAttendences
+Census 2022,Municipality,eThekwini,Yes,805314,67.7,,,,,KwaZulu-Natal,eThekwini,eThekwini,DsSchoolAttendences
+Census 2022,Municipality,eThekwini,No,384002,32.3,,,,,KwaZulu-Natal,eThekwini,eThekwini,DsSchoolAttendences
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,Yes,38809,80.7,,,,,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsSchoolAttendences
+Census 2022,Municipality,Dr Nkosazana Dlamini Zuma,No,9256,19.3,,,,,KwaZulu-Natal,Harry Gwala,Dr Nkosazana Dlamini Zuma,DsSchoolAttendences
+Census 2022,Municipality,Greater Kokstad,Yes,21774,75.6,,,,,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsSchoolAttendences
+Census 2022,Municipality,Greater Kokstad,No,7029,24.4,,,,,KwaZulu-Natal,Harry Gwala,Greater Kokstad,DsSchoolAttendences
+Census 2022,Municipality,Ubuhlebezwe,Yes,38783,78.2,,,,,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsSchoolAttendences
+Census 2022,Municipality,Ubuhlebezwe,No,10819,21.8,,,,,KwaZulu-Natal,Harry Gwala,Ubuhlebezwe,DsSchoolAttendences
+Census 2022,Municipality,Umzimkhulu,Yes,73865,81.2,,,,,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsSchoolAttendences
+Census 2022,Municipality,Umzimkhulu,No,17134,18.8,,,,,KwaZulu-Natal,Harry Gwala,Umzimkhulu,DsSchoolAttendences
+Census 2022,Municipality,KwaDukuza,Yes,69882,68.6,,,,,KwaZulu-Natal,iLembe,KwaDukuza,DsSchoolAttendences
+Census 2022,Municipality,KwaDukuza,No,31951,31.4,,,,,KwaZulu-Natal,iLembe,KwaDukuza,DsSchoolAttendences
+Census 2022,Municipality,Mandeni,Yes,48410,75.4,,,,,KwaZulu-Natal,iLembe,Mandeni,DsSchoolAttendences
+Census 2022,Municipality,Mandeni,No,15788,24.6,,,,,KwaZulu-Natal,iLembe,Mandeni,DsSchoolAttendences
+Census 2022,Municipality,Maphumulo,Yes,34308,79.3,,,,,KwaZulu-Natal,iLembe,Maphumulo,DsSchoolAttendences
+Census 2022,Municipality,Maphumulo,No,8979,20.7,,,,,KwaZulu-Natal,iLembe,Maphumulo,DsSchoolAttendences
+Census 2022,Municipality,Ndwedwe,Yes,46790,77.7,,,,,KwaZulu-Natal,iLembe,Ndwedwe,DsSchoolAttendences
+Census 2022,Municipality,Ndwedwe,No,13451,22.3,,,,,KwaZulu-Natal,iLembe,Ndwedwe,DsSchoolAttendences
+Census 2022,Municipality,Mfolozi,Yes,43435,74.9,,,,,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsSchoolAttendences
+Census 2022,Municipality,Mfolozi,No,14580,25.1,,,,,KwaZulu-Natal,King Cetshwayo,Mfolozi,DsSchoolAttendences
+Census 2022,Municipality,Mthonjaneni,Yes,28030,78.7,,,,,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsSchoolAttendences
+Census 2022,Municipality,Mthonjaneni,No,7603,21.3,,,,,KwaZulu-Natal,King Cetshwayo,Mthonjaneni,DsSchoolAttendences
+Census 2022,Municipality,Nkandla,Yes,33442,83.7,,,,,KwaZulu-Natal,King Cetshwayo,Nkandla,DsSchoolAttendences
+Census 2022,Municipality,Nkandla,No,6526,16.3,,,,,KwaZulu-Natal,King Cetshwayo,Nkandla,DsSchoolAttendences
+Census 2022,Municipality,uMhlathuze,Yes,99060,73.3,,,,,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsSchoolAttendences
+Census 2022,Municipality,uMhlathuze,No,36174,26.7,,,,,KwaZulu-Natal,King Cetshwayo,uMhlathuze,DsSchoolAttendences
+Census 2022,Municipality,uMlalazi,Yes,66784,78.0,,,,,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsSchoolAttendences
+Census 2022,Municipality,uMlalazi,No,18870,22.0,,,,,KwaZulu-Natal,King Cetshwayo,uMlalazi,DsSchoolAttendences
+Census 2022,Municipality,Ray Nkonyeni,Yes,91483,76.2,,,,,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsSchoolAttendences
+Census 2022,Municipality,Ray Nkonyeni,No,28527,23.8,,,,,KwaZulu-Natal,Ugu,Ray Nkonyeni,DsSchoolAttendences
+Census 2022,Municipality,Umdoni,Yes,35370,71.0,,,,,KwaZulu-Natal,Ugu,Umdoni,DsSchoolAttendences
+Census 2022,Municipality,Umdoni,No,14418,29.0,,,,,KwaZulu-Natal,Ugu,Umdoni,DsSchoolAttendences
+Census 2022,Municipality,uMuziwabantu,Yes,39536,83.2,,,,,KwaZulu-Natal,Ugu,uMuziwabantu,DsSchoolAttendences
+Census 2022,Municipality,uMuziwabantu,No,8004,16.8,,,,,KwaZulu-Natal,Ugu,uMuziwabantu,DsSchoolAttendences
+Census 2022,Municipality,Umzumbe,Yes,40015,77.3,,,,,KwaZulu-Natal,Ugu,Umzumbe,DsSchoolAttendences
+Census 2022,Municipality,Umzumbe,No,11779,22.7,,,,,KwaZulu-Natal,Ugu,Umzumbe,DsSchoolAttendences
+Census 2022,Municipality,Impendle,Yes,10847,79.0,,,,,KwaZulu-Natal,Umgungundlovu,Impendle,DsSchoolAttendences
+Census 2022,Municipality,Impendle,No,2890,21.0,,,,,KwaZulu-Natal,Umgungundlovu,Impendle,DsSchoolAttendences
+Census 2022,Municipality,Mkhambathini,Yes,14484,73.1,,,,,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsSchoolAttendences
+Census 2022,Municipality,Mkhambathini,No,5328,26.9,,,,,KwaZulu-Natal,Umgungundlovu,Mkhambathini,DsSchoolAttendences
+Census 2022,Municipality,Mpofana,Yes,7532,68.2,,,,,KwaZulu-Natal,Umgungundlovu,Mpofana,DsSchoolAttendences
+Census 2022,Municipality,Mpofana,No,3520,31.8,,,,,KwaZulu-Natal,Umgungundlovu,Mpofana,DsSchoolAttendences
+Census 2022,Municipality,Richmond,Yes,15194,72.0,,,,,KwaZulu-Natal,Umgungundlovu,Richmond,DsSchoolAttendences
+Census 2022,Municipality,Richmond,No,5907,28.0,,,,,KwaZulu-Natal,Umgungundlovu,Richmond,DsSchoolAttendences
+Census 2022,Municipality,The Msunduzi,Yes,177803,71.3,,,,,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsSchoolAttendences
+Census 2022,Municipality,The Msunduzi,No,71727,28.7,,,,,KwaZulu-Natal,Umgungundlovu,The Msunduzi,DsSchoolAttendences
+Census 2022,Municipality,uMngeni,Yes,20726,71.3,,,,,KwaZulu-Natal,Umgungundlovu,uMngeni,DsSchoolAttendences
+Census 2022,Municipality,uMngeni,No,8360,28.7,,,,,KwaZulu-Natal,Umgungundlovu,uMngeni,DsSchoolAttendences
+Census 2022,Municipality,uMshwathi,Yes,30980,74.0,,,,,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsSchoolAttendences
+Census 2022,Municipality,uMshwathi,No,10902,26.0,,,,,KwaZulu-Natal,Umgungundlovu,uMshwathi,DsSchoolAttendences
+Census 2022,Municipality,Big Five Hlabisa,Yes,39789,81.2,,,,,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsSchoolAttendences
+Census 2022,Municipality,Big Five Hlabisa,No,9223,18.8,,,,,KwaZulu-Natal,Umkhanyakude,Big Five Hlabisa,DsSchoolAttendences
+Census 2022,Municipality,Jozini,Yes,59806,80.1,,,,,KwaZulu-Natal,Umkhanyakude,Jozini,DsSchoolAttendences
+Census 2022,Municipality,Jozini,No,14859,19.9,,,,,KwaZulu-Natal,Umkhanyakude,Jozini,DsSchoolAttendences
+Census 2022,Municipality,Mtubatuba,Yes,62894,78.6,,,,,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsSchoolAttendences
+Census 2022,Municipality,Mtubatuba,No,17137,21.4,,,,,KwaZulu-Natal,Umkhanyakude,Mtubatuba,DsSchoolAttendences
+Census 2022,Municipality,Umhlabuyalingana,Yes,55283,80.8,,,,,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsSchoolAttendences
+Census 2022,Municipality,Umhlabuyalingana,No,13098,19.2,,,,,KwaZulu-Natal,Umkhanyakude,Umhlabuyalingana,DsSchoolAttendences
+Census 2022,Municipality,Endumeni,Yes,25547,74.0,,,,,KwaZulu-Natal,Umzinyathi,Endumeni,DsSchoolAttendences
+Census 2022,Municipality,Endumeni,No,8984,26.0,,,,,KwaZulu-Natal,Umzinyathi,Endumeni,DsSchoolAttendences
+Census 2022,Municipality,Msinga,Yes,71047,82.1,,,,,KwaZulu-Natal,Umzinyathi,Msinga,DsSchoolAttendences
+Census 2022,Municipality,Msinga,No,15530,17.9,,,,,KwaZulu-Natal,Umzinyathi,Msinga,DsSchoolAttendences
+Census 2022,Municipality,Nqutu,Yes,67230,81.8,,,,,KwaZulu-Natal,Umzinyathi,Nqutu,DsSchoolAttendences
+Census 2022,Municipality,Nqutu,No,14925,18.2,,,,,KwaZulu-Natal,Umzinyathi,Nqutu,DsSchoolAttendences
+Census 2022,Municipality,Umvoti,Yes,40524,77.6,,,,,KwaZulu-Natal,Umzinyathi,Umvoti,DsSchoolAttendences
+Census 2022,Municipality,Umvoti,No,11681,22.4,,,,,KwaZulu-Natal,Umzinyathi,Umvoti,DsSchoolAttendences
+Census 2022,Municipality,Alfred Duma,Yes,113242,76.3,,,,,KwaZulu-Natal,Uthukela,Alfred Duma,DsSchoolAttendences
+Census 2022,Municipality,Alfred Duma,No,35145,23.7,,,,,KwaZulu-Natal,Uthukela,Alfred Duma,DsSchoolAttendences
+Census 2022,Municipality,Inkosi Langalibalele,Yes,62741,74.7,,,,,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsSchoolAttendences
+Census 2022,Municipality,Inkosi Langalibalele,No,21254,25.3,,,,,KwaZulu-Natal,Uthukela,Inkosi Langalibalele,DsSchoolAttendences
+Census 2022,Municipality,Okhahlamba,Yes,42107,79.2,,,,,KwaZulu-Natal,Uthukela,Okhahlamba,DsSchoolAttendences
+Census 2022,Municipality,Okhahlamba,No,11062,20.8,,,,,KwaZulu-Natal,Uthukela,Okhahlamba,DsSchoolAttendences
+Census 2022,Municipality,Abaqulusi,Yes,74465,79.0,,,,,KwaZulu-Natal,Zululand,Abaqulusi,DsSchoolAttendences
+Census 2022,Municipality,Abaqulusi,No,19812,21.0,,,,,KwaZulu-Natal,Zululand,Abaqulusi,DsSchoolAttendences
+Census 2022,Municipality,eDumbe,Yes,28789,76.0,,,,,KwaZulu-Natal,Zululand,eDumbe,DsSchoolAttendences
+Census 2022,Municipality,eDumbe,No,9074,24.0,,,,,KwaZulu-Natal,Zululand,eDumbe,DsSchoolAttendences
+Census 2022,Municipality,Nongoma,Yes,71767,82.6,,,,,KwaZulu-Natal,Zululand,Nongoma,DsSchoolAttendences
+Census 2022,Municipality,Nongoma,No,15082,17.4,,,,,KwaZulu-Natal,Zululand,Nongoma,DsSchoolAttendences
+Census 2022,Municipality,Ulundi,Yes,67740,80.2,,,,,KwaZulu-Natal,Zululand,Ulundi,DsSchoolAttendences
+Census 2022,Municipality,Ulundi,No,16682,19.8,,,,,KwaZulu-Natal,Zululand,Ulundi,DsSchoolAttendences
+Census 2022,Municipality,uPhongolo,Yes,47730,78.6,,,,,KwaZulu-Natal,Zululand,uPhongolo,DsSchoolAttendences
+Census 2022,Municipality,uPhongolo,No,13009,21.4,,,,,KwaZulu-Natal,Zululand,uPhongolo,DsSchoolAttendences
+Census 2022,Municipality,Blouberg,Yes,59614,83.0,,,,,Limpopo,Capricorn,Blouberg,DsSchoolAttendences
+Census 2022,Municipality,Blouberg,No,12170,17.0,,,,,Limpopo,Capricorn,Blouberg,DsSchoolAttendences
+Census 2022,Municipality,Lepele-Nkumpi,Yes,81542,80.9,,,,,Limpopo,Capricorn,Lepele-Nkumpi,DsSchoolAttendences
+Census 2022,Municipality,Lepele-Nkumpi,No,19206,19.1,,,,,Limpopo,Capricorn,Lepele-Nkumpi,DsSchoolAttendences
+Census 2022,Municipality,Molemole,Yes,36437,80.5,,,,,Limpopo,Capricorn,Molemole,DsSchoolAttendences
+Census 2022,Municipality,Molemole,No,8848,19.5,,,,,Limpopo,Capricorn,Molemole,DsSchoolAttendences
+Census 2022,Municipality,Polokwane,Yes,224479,79.0,,,,,Limpopo,Capricorn,Polokwane,DsSchoolAttendences
+Census 2022,Municipality,Polokwane,No,59664,21.0,,,,,Limpopo,Capricorn,Polokwane,DsSchoolAttendences
+Census 2022,Municipality,Ba-Phalaborwa,Yes,54740,81.8,,,,,Limpopo,Mopani,Ba-Phalaborwa,DsSchoolAttendences
+Census 2022,Municipality,Ba-Phalaborwa,No,12184,18.2,,,,,Limpopo,Mopani,Ba-Phalaborwa,DsSchoolAttendences
+Census 2022,Municipality,Greater Giyani,Yes,99474,83.9,,,,,Limpopo,Mopani,Greater Giyani,DsSchoolAttendences
+Census 2022,Municipality,Greater Giyani,No,19086,16.1,,,,,Limpopo,Mopani,Greater Giyani,DsSchoolAttendences
+Census 2022,Municipality,Greater Letaba,Yes,76245,81.4,,,,,Limpopo,Mopani,Greater Letaba,DsSchoolAttendences
+Census 2022,Municipality,Greater Letaba,No,17440,18.6,,,,,Limpopo,Mopani,Greater Letaba,DsSchoolAttendences
+Census 2022,Municipality,Greater Tzaneen,Yes,124420,78.3,,,,,Limpopo,Mopani,Greater Tzaneen,DsSchoolAttendences
+Census 2022,Municipality,Greater Tzaneen,No,34501,21.7,,,,,Limpopo,Mopani,Greater Tzaneen,DsSchoolAttendences
+Census 2022,Municipality,Maruleng,Yes,34803,79.4,,,,,Limpopo,Mopani,Maruleng,DsSchoolAttendences
+Census 2022,Municipality,Maruleng,No,9042,20.6,,,,,Limpopo,Mopani,Maruleng,DsSchoolAttendences
+Census 2022,Municipality,Elias Motsoaledi,Yes,83441,79.7,,,,,Limpopo,Sekhukhune,Elias Motsoaledi,DsSchoolAttendences
+Census 2022,Municipality,Elias Motsoaledi,No,21218,20.3,,,,,Limpopo,Sekhukhune,Elias Motsoaledi,DsSchoolAttendences
+Census 2022,Municipality,Ephraim Mogale,Yes,36255,77.9,,,,,Limpopo,Sekhukhune,Ephraim Mogale,DsSchoolAttendences
+Census 2022,Municipality,Ephraim Mogale,No,10279,22.1,,,,,Limpopo,Sekhukhune,Ephraim Mogale,DsSchoolAttendences
+Census 2022,Municipality,Fetakgomo Tubatse,Yes,162457,80.1,,,,,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsSchoolAttendences
+Census 2022,Municipality,Fetakgomo Tubatse,No,40328,19.9,,,,,Limpopo,Sekhukhune,Fetakgomo Tubatse,DsSchoolAttendences
+Census 2022,Municipality,Makhuduthamaga,Yes,103551,83.8,,,,,Limpopo,Sekhukhune,Makhuduthamaga,DsSchoolAttendences
+Census 2022,Municipality,Makhuduthamaga,No,20028,16.2,,,,,Limpopo,Sekhukhune,Makhuduthamaga,DsSchoolAttendences
+Census 2022,Municipality,Collins Chabane,Yes,145291,85.4,,,,,Limpopo,Vhembe,Collins Chabane,DsSchoolAttendences
+Census 2022,Municipality,Collins Chabane,No,24929,14.6,,,,,Limpopo,Vhembe,Collins Chabane,DsSchoolAttendences
+Census 2022,Municipality,Makhado,Yes,142353,81.9,,,,,Limpopo,Vhembe,Makhado,DsSchoolAttendences
+Census 2022,Municipality,Makhado,No,31485,18.1,,,,,Limpopo,Vhembe,Makhado,DsSchoolAttendences
+Census 2022,Municipality,Musina,Yes,30551,74.9,,,,,Limpopo,Vhembe,Musina,DsSchoolAttendences
+Census 2022,Municipality,Musina,No,10243,25.1,,,,,Limpopo,Vhembe,Musina,DsSchoolAttendences
+Census 2022,Municipality,Thulamela,Yes,170025,83.2,,,,,Limpopo,Vhembe,Thulamela,DsSchoolAttendences
+Census 2022,Municipality,Thulamela,No,34243,16.8,,,,,Limpopo,Vhembe,Thulamela,DsSchoolAttendences
+Census 2022,Municipality,Bela-Bela,Yes,13622,68.9,,,,,Limpopo,Waterberg,Bela-Bela,DsSchoolAttendences
+Census 2022,Municipality,Bela-Bela,No,6147,31.1,,,,,Limpopo,Waterberg,Bela-Bela,DsSchoolAttendences
+Census 2022,Municipality,Lephalale,Yes,30813,76.2,,,,,Limpopo,Waterberg,Lephalale,DsSchoolAttendences
+Census 2022,Municipality,Lephalale,No,9630,23.8,,,,,Limpopo,Waterberg,Lephalale,DsSchoolAttendences
+Census 2022,Municipality,Modimolle-Mookgophong,Yes,28260,69.8,,,,,Limpopo,Waterberg,Modimolle-Mookgophong,DsSchoolAttendences
+Census 2022,Municipality,Modimolle-Mookgophong,No,12256,30.2,,,,,Limpopo,Waterberg,Modimolle-Mookgophong,DsSchoolAttendences
+Census 2022,Municipality,Mogalakwena,Yes,100250,78.8,,,,,Limpopo,Waterberg,Mogalakwena,DsSchoolAttendences
+Census 2022,Municipality,Mogalakwena,No,26982,21.2,,,,,Limpopo,Waterberg,Mogalakwena,DsSchoolAttendences
+Census 2022,Municipality,Thabazimbi,Yes,11411,69.1,,,,,Limpopo,Waterberg,Thabazimbi,DsSchoolAttendences
+Census 2022,Municipality,Thabazimbi,No,5111,30.9,,,,,Limpopo,Waterberg,Thabazimbi,DsSchoolAttendences
+Census 2022,Municipality,Bushbuckridge,Yes,204775,76.6,,,,,Mpumalanga,Ehlanzeni,Bushbuckridge,DsSchoolAttendences
+Census 2022,Municipality,Bushbuckridge,No,62614,23.4,,,,,Mpumalanga,Ehlanzeni,Bushbuckridge,DsSchoolAttendences
+Census 2022,Municipality,City of Mbombela,Yes,194717,73.2,,,,,Mpumalanga,Ehlanzeni,City of Mbombela,DsSchoolAttendences
+Census 2022,Municipality,City of Mbombela,No,71275,26.8,,,,,Mpumalanga,Ehlanzeni,City of Mbombela,DsSchoolAttendences
+Census 2022,Municipality,Nkomazi,Yes,157149,74.3,,,,,Mpumalanga,Ehlanzeni,Nkomazi,DsSchoolAttendences
+Census 2022,Municipality,Nkomazi,No,54328,25.7,,,,,Mpumalanga,Ehlanzeni,Nkomazi,DsSchoolAttendences
+Census 2022,Municipality,Thaba Chweu,Yes,24827,72.8,,,,,Mpumalanga,Ehlanzeni,Thaba Chweu,DsSchoolAttendences
+Census 2022,Municipality,Thaba Chweu,No,9258,27.2,,,,,Mpumalanga,Ehlanzeni,Thaba Chweu,DsSchoolAttendences
+Census 2022,Municipality,Chief Albert Luthuli,Yes,68183,75.4,,,,,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsSchoolAttendences
+Census 2022,Municipality,Chief Albert Luthuli,No,22256,24.6,,,,,Mpumalanga,Gert Sibande,Chief Albert Luthuli,DsSchoolAttendences
+Census 2022,Municipality,Dipaleseng,Yes,8517,73.3,,,,,Mpumalanga,Gert Sibande,Dipaleseng,DsSchoolAttendences
+Census 2022,Municipality,Dipaleseng,No,3106,26.7,,,,,Mpumalanga,Gert Sibande,Dipaleseng,DsSchoolAttendences
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,Yes,27045,70.6,,,,,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsSchoolAttendences
+Census 2022,Municipality,Dr Pixley Ka Isaka Seme,No,11288,29.4,,,,,Mpumalanga,Gert Sibande,Dr Pixley Ka Isaka Seme,DsSchoolAttendences
+Census 2022,Municipality,Govan Mbeki,Yes,67105,70.2,,,,,Mpumalanga,Gert Sibande,Govan Mbeki,DsSchoolAttendences
+Census 2022,Municipality,Govan Mbeki,No,28531,29.8,,,,,Mpumalanga,Gert Sibande,Govan Mbeki,DsSchoolAttendences
+Census 2022,Municipality,Lekwa,Yes,27255,71.7,,,,,Mpumalanga,Gert Sibande,Lekwa,DsSchoolAttendences
+Census 2022,Municipality,Lekwa,No,10739,28.3,,,,,Mpumalanga,Gert Sibande,Lekwa,DsSchoolAttendences
+Census 2022,Municipality,Mkhondo,Yes,64867,71.4,,,,,Mpumalanga,Gert Sibande,Mkhondo,DsSchoolAttendences
+Census 2022,Municipality,Mkhondo,No,25998,28.6,,,,,Mpumalanga,Gert Sibande,Mkhondo,DsSchoolAttendences
+Census 2022,Municipality,Msukaligwa,Yes,45710,69.4,,,,,Mpumalanga,Gert Sibande,Msukaligwa,DsSchoolAttendences
+Census 2022,Municipality,Msukaligwa,No,20181,30.6,,,,,Mpumalanga,Gert Sibande,Msukaligwa,DsSchoolAttendences
+Census 2022,Municipality,Dr JS Moroka,Yes,85997,77.7,,,,,Mpumalanga,Nkangala,Dr JS Moroka,DsSchoolAttendences
+Census 2022,Municipality,Dr JS Moroka,No,24696,22.3,,,,,Mpumalanga,Nkangala,Dr JS Moroka,DsSchoolAttendences
+Census 2022,Municipality,Emakhazeni,Yes,10814,71.5,,,,,Mpumalanga,Nkangala,Emakhazeni,DsSchoolAttendences
+Census 2022,Municipality,Emakhazeni,No,4303,28.5,,,,,Mpumalanga,Nkangala,Emakhazeni,DsSchoolAttendences
+Census 2022,Municipality,Emalahleni,Yes,94526,70.9,,,,,Mpumalanga,Nkangala,Emalahleni,DsSchoolAttendences
+Census 2022,Municipality,Emalahleni,No,38713,29.1,,,,,Mpumalanga,Nkangala,Emalahleni,DsSchoolAttendences
+Census 2022,Municipality,Steve Tshwete,Yes,49376,69.4,,,,,Mpumalanga,Nkangala,Steve Tshwete,DsSchoolAttendences
+Census 2022,Municipality,Steve Tshwete,No,21775,30.6,,,,,Mpumalanga,Nkangala,Steve Tshwete,DsSchoolAttendences
+Census 2022,Municipality,Thembisile,Yes,108567,75.2,,,,,Mpumalanga,Nkangala,Thembisile,DsSchoolAttendences
+Census 2022,Municipality,Thembisile,No,35778,24.8,,,,,Mpumalanga,Nkangala,Thembisile,DsSchoolAttendences
+Census 2022,Municipality,Victor Khanye,Yes,21632,64.0,,,,,Mpumalanga,Nkangala,Victor Khanye,DsSchoolAttendences
+Census 2022,Municipality,Victor Khanye,No,12152,36.0,,,,,Mpumalanga,Nkangala,Victor Khanye,DsSchoolAttendences
+Census 2022,Municipality,Kgetlengrivier,Yes,13354,71.3,,,,,North West,Bojanala,Kgetlengrivier,DsSchoolAttendences
+Census 2022,Municipality,Kgetlengrivier,No,5386,28.7,,,,,North West,Bojanala,Kgetlengrivier,DsSchoolAttendences
+Census 2022,Municipality,Madibeng,Yes,116355,71.2,,,,,North West,Bojanala,Madibeng,DsSchoolAttendences
+Census 2022,Municipality,Madibeng,No,46992,28.8,,,,,North West,Bojanala,Madibeng,DsSchoolAttendences
+Census 2022,Municipality,Moretele,Yes,55304,73.7,,,,,North West,Bojanala,Moretele,DsSchoolAttendences
+Census 2022,Municipality,Moretele,No,19697,26.3,,,,,North West,Bojanala,Moretele,DsSchoolAttendences
+Census 2022,Municipality,Moses Kotane,Yes,63294,72.7,,,,,North West,Bojanala,Moses Kotane,DsSchoolAttendences
+Census 2022,Municipality,Moses Kotane,No,23758,27.3,,,,,North West,Bojanala,Moses Kotane,DsSchoolAttendences
+Census 2022,Municipality,Rustenburg,Yes,111778,68.8,,,,,North West,Bojanala,Rustenburg,DsSchoolAttendences
+Census 2022,Municipality,Rustenburg,No,50781,31.2,,,,,North West,Bojanala,Rustenburg,DsSchoolAttendences
+Census 2022,Municipality,City of Matlosana,Yes,101523,72.6,,,,,North West,Dr Kenneth Kaunda,City of Matlosana,DsSchoolAttendences
+Census 2022,Municipality,City of Matlosana,No,38352,27.4,,,,,North West,Dr Kenneth Kaunda,City of Matlosana,DsSchoolAttendences
+Census 2022,Municipality,JB Marks,Yes,49197,72.0,,,,,North West,Dr Kenneth Kaunda,JB Marks,DsSchoolAttendences
+Census 2022,Municipality,JB Marks,No,19131,28.0,,,,,North West,Dr Kenneth Kaunda,JB Marks,DsSchoolAttendences
+Census 2022,Municipality,Maquassi Hills,Yes,24661,74.5,,,,,North West,Dr Kenneth Kaunda,Maquassi Hills,DsSchoolAttendences
+Census 2022,Municipality,Maquassi Hills,No,8460,25.5,,,,,North West,Dr Kenneth Kaunda,Maquassi Hills,DsSchoolAttendences
+Census 2022,Municipality,Greater Taung,Yes,57646,76.9,,,,,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsSchoolAttendences
+Census 2022,Municipality,Greater Taung,No,17281,23.1,,,,,North West,Dr Ruth Segomotsi Mompati,Greater Taung,DsSchoolAttendences
+Census 2022,Municipality,Kagisano/Molopo,Yes,32368,76.0,,,,,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsSchoolAttendences
+Census 2022,Municipality,Kagisano/Molopo,No,10222,24.0,,,,,North West,Dr Ruth Segomotsi Mompati,Kagisano/Molopo,DsSchoolAttendences
+Census 2022,Municipality,Lekwa-Teemane,Yes,16072,74.7,,,,,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsSchoolAttendences
+Census 2022,Municipality,Lekwa-Teemane,No,5435,25.3,,,,,North West,Dr Ruth Segomotsi Mompati,Lekwa-Teemane,DsSchoolAttendences
+Census 2022,Municipality,Mamusa,Yes,19946,74.1,,,,,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsSchoolAttendences
+Census 2022,Municipality,Mamusa,No,6957,25.9,,,,,North West,Dr Ruth Segomotsi Mompati,Mamusa,DsSchoolAttendences
+Census 2022,Municipality,Naledi,Yes,16213,72.6,,,,,North West,Dr Ruth Segomotsi Mompati,Naledi,DsSchoolAttendences
+Census 2022,Municipality,Naledi,No,6116,27.4,,,,,North West,Dr Ruth Segomotsi Mompati,Naledi,DsSchoolAttendences
+Census 2022,Municipality,Ditsobotla,Yes,42060,72.0,,,,,North West,Ngaka Modiri Molema,Ditsobotla,DsSchoolAttendences
+Census 2022,Municipality,Ditsobotla,No,16357,28.0,,,,,North West,Ngaka Modiri Molema,Ditsobotla,DsSchoolAttendences
+Census 2022,Municipality,Mafikeng,Yes,93737,74.9,,,,,North West,Ngaka Modiri Molema,Mafikeng,DsSchoolAttendences
+Census 2022,Municipality,Mafikeng,No,31357,25.1,,,,,North West,Ngaka Modiri Molema,Mafikeng,DsSchoolAttendences
+Census 2022,Municipality,Ramotshere Moiloa,Yes,42307,74.8,,,,,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsSchoolAttendences
+Census 2022,Municipality,Ramotshere Moiloa,No,14277,25.2,,,,,North West,Ngaka Modiri Molema,Ramotshere Moiloa,DsSchoolAttendences
+Census 2022,Municipality,Ratlou,Yes,38765,75.4,,,,,North West,Ngaka Modiri Molema,Ratlou,DsSchoolAttendences
+Census 2022,Municipality,Ratlou,No,12631,24.6,,,,,North West,Ngaka Modiri Molema,Ratlou,DsSchoolAttendences
+Census 2022,Municipality,Tswaing,Yes,35045,71.7,,,,,North West,Ngaka Modiri Molema,Tswaing,DsSchoolAttendences
+Census 2022,Municipality,Tswaing,No,13809,28.3,,,,,North West,Ngaka Modiri Molema,Tswaing,DsSchoolAttendences
+Census 2022,Municipality,Dikgatlong,Yes,13618,65.6,,,,,Northern Cape,Frances Baard,Dikgatlong,DsSchoolAttendences
+Census 2022,Municipality,Dikgatlong,No,7142,34.4,,,,,Northern Cape,Frances Baard,Dikgatlong,DsSchoolAttendences
+Census 2022,Municipality,Magareng,Yes,6556,71.2,,,,,Northern Cape,Frances Baard,Magareng,DsSchoolAttendences
+Census 2022,Municipality,Magareng,No,2655,28.8,,,,,Northern Cape,Frances Baard,Magareng,DsSchoolAttendences
+Census 2022,Municipality,Phokwane,Yes,21057,72.8,,,,,Northern Cape,Frances Baard,Phokwane,DsSchoolAttendences
+Census 2022,Municipality,Phokwane,No,7856,27.2,,,,,Northern Cape,Frances Baard,Phokwane,DsSchoolAttendences
+Census 2022,Municipality,Sol Plaatje,Yes,64962,71.4,,,,,Northern Cape,Frances Baard,Sol Plaatje,DsSchoolAttendences
+Census 2022,Municipality,Sol Plaatje,No,25999,28.6,,,,,Northern Cape,Frances Baard,Sol Plaatje,DsSchoolAttendences
+Census 2022,Municipality,Ga-Segonyana,Yes,31275,74.7,,,,,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsSchoolAttendences
+Census 2022,Municipality,Ga-Segonyana,No,10607,25.3,,,,,Northern Cape,John Taolo Gaetsewe,Ga-Segonyana,DsSchoolAttendences
+Census 2022,Municipality,Gamagara,Yes,5980,68.4,,,,,Northern Cape,John Taolo Gaetsewe,Gamagara,DsSchoolAttendences
+Census 2022,Municipality,Gamagara,No,2765,31.6,,,,,Northern Cape,John Taolo Gaetsewe,Gamagara,DsSchoolAttendences
+Census 2022,Municipality,Joe Morolong,Yes,41963,82.6,,,,,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsSchoolAttendences
+Census 2022,Municipality,Joe Morolong,No,8862,17.4,,,,,Northern Cape,John Taolo Gaetsewe,Joe Morolong,DsSchoolAttendences
+Census 2022,Municipality,Hantam,Yes,4587,62.9,,,,,Northern Cape,Namakwa,Hantam,DsSchoolAttendences
+Census 2022,Municipality,Hantam,No,2704,37.1,,,,,Northern Cape,Namakwa,Hantam,DsSchoolAttendences
+Census 2022,Municipality,Kamiesberg,Yes,3145,65.4,,,,,Northern Cape,Namakwa,Kamiesberg,DsSchoolAttendences
+Census 2022,Municipality,Kamiesberg,No,1665,34.6,,,,,Northern Cape,Namakwa,Kamiesberg,DsSchoolAttendences
+Census 2022,Municipality,Karoo Hoogland,Yes,2420,62.8,,,,,Northern Cape,Namakwa,Karoo Hoogland,DsSchoolAttendences
+Census 2022,Municipality,Karoo Hoogland,No,1434,37.2,,,,,Northern Cape,Namakwa,Karoo Hoogland,DsSchoolAttendences
+Census 2022,Municipality,Khâi-Ma,Yes,1683,61.0,,,,,Northern Cape,Namakwa,Khâi-Ma,DsSchoolAttendences
+Census 2022,Municipality,Khâi-Ma,No,1074,39.0,,,,,Northern Cape,Namakwa,Khâi-Ma,DsSchoolAttendences
+Census 2022,Municipality,Nama Khoi,Yes,12312,63.3,,,,,Northern Cape,Namakwa,Nama Khoi,DsSchoolAttendences
+Census 2022,Municipality,Nama Khoi,No,7138,36.7,,,,,Northern Cape,Namakwa,Nama Khoi,DsSchoolAttendences
+Census 2022,Municipality,Richtersveld,Yes,5087,68.7,,,,,Northern Cape,Namakwa,Richtersveld,DsSchoolAttendences
+Census 2022,Municipality,Richtersveld,No,2317,31.3,,,,,Northern Cape,Namakwa,Richtersveld,DsSchoolAttendences
+Census 2022,Municipality,Emthanjeni,Yes,11577,67.7,,,,,Northern Cape,Pixley ka Seme,Emthanjeni,DsSchoolAttendences
+Census 2022,Municipality,Emthanjeni,No,5528,32.3,,,,,Northern Cape,Pixley ka Seme,Emthanjeni,DsSchoolAttendences
+Census 2022,Municipality,Kareeberg,Yes,2478,64.9,,,,,Northern Cape,Pixley ka Seme,Kareeberg,DsSchoolAttendences
+Census 2022,Municipality,Kareeberg,No,1340,35.1,,,,,Northern Cape,Pixley ka Seme,Kareeberg,DsSchoolAttendences
+Census 2022,Municipality,Renosterberg,Yes,2375,67.1,,,,,Northern Cape,Pixley ka Seme,Renosterberg,DsSchoolAttendences
+Census 2022,Municipality,Renosterberg,No,1168,33.0,,,,,Northern Cape,Pixley ka Seme,Renosterberg,DsSchoolAttendences
+Census 2022,Municipality,Siyancuma,Yes,13159,67.3,,,,,Northern Cape,Pixley ka Seme,Siyancuma,DsSchoolAttendences
+Census 2022,Municipality,Siyancuma,No,6396,32.7,,,,,Northern Cape,Pixley ka Seme,Siyancuma,DsSchoolAttendences
+Census 2022,Municipality,Siyathemba,Yes,6008,64.8,,,,,Northern Cape,Pixley ka Seme,Siyathemba,DsSchoolAttendences
+Census 2022,Municipality,Siyathemba,No,3262,35.2,,,,,Northern Cape,Pixley ka Seme,Siyathemba,DsSchoolAttendences
+Census 2022,Municipality,Thembelihle,Yes,5302,68.7,,,,,Northern Cape,Pixley ka Seme,Thembelihle,DsSchoolAttendences
+Census 2022,Municipality,Thembelihle,No,2418,31.3,,,,,Northern Cape,Pixley ka Seme,Thembelihle,DsSchoolAttendences
+Census 2022,Municipality,Ubuntu,Yes,3963,67.7,,,,,Northern Cape,Pixley ka Seme,Ubuntu,DsSchoolAttendences
+Census 2022,Municipality,Ubuntu,No,1894,32.3,,,,,Northern Cape,Pixley ka Seme,Ubuntu,DsSchoolAttendences
+Census 2022,Municipality,Umsobomvu,Yes,7765,70.6,,,,,Northern Cape,Pixley ka Seme,Umsobomvu,DsSchoolAttendences
+Census 2022,Municipality,Umsobomvu,No,3238,29.4,,,,,Northern Cape,Pixley ka Seme,Umsobomvu,DsSchoolAttendences
+Census 2022,Municipality,!Kheis,Yes,5640,66.0,,,,,Northern Cape,Z F Mgcawu,!Kheis,DsSchoolAttendences
+Census 2022,Municipality,!Kheis,No,2900,34.0,,,,,Northern Cape,Z F Mgcawu,!Kheis,DsSchoolAttendences
+Census 2022,Municipality,Dawid Kruiper,Yes,30164,66.6,,,,,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsSchoolAttendences
+Census 2022,Municipality,Dawid Kruiper,No,15105,33.4,,,,,Northern Cape,Z F Mgcawu,Dawid Kruiper,DsSchoolAttendences
+Census 2022,Municipality,Kai !Garib,Yes,19446,65.7,,,,,Northern Cape,Z F Mgcawu,Kai !Garib,DsSchoolAttendences
+Census 2022,Municipality,Kai !Garib,No,10170,34.3,,,,,Northern Cape,Z F Mgcawu,Kai !Garib,DsSchoolAttendences
+Census 2022,Municipality,Kgatelopele,Yes,4812,70.9,,,,,Northern Cape,Z F Mgcawu,Kgatelopele,DsSchoolAttendences
+Census 2022,Municipality,Kgatelopele,No,1980,29.2,,,,,Northern Cape,Z F Mgcawu,Kgatelopele,DsSchoolAttendences
+Census 2022,Municipality,Tsantsabane,Yes,6326,66.0,,,,,Northern Cape,Z F Mgcawu,Tsantsabane,DsSchoolAttendences
+Census 2022,Municipality,Tsantsabane,No,3259,34.0,,,,,Northern Cape,Z F Mgcawu,Tsantsabane,DsSchoolAttendences
+Census 2022,Municipality,Breede Valley,Yes,41482,64.4,,,,,Western Cape,Cape Winelands,Breede Valley,DsSchoolAttendences
+Census 2022,Municipality,Breede Valley,No,22890,35.6,,,,,Western Cape,Cape Winelands,Breede Valley,DsSchoolAttendences
+Census 2022,Municipality,Drakenstein,Yes,53091,65.8,,,,,Western Cape,Cape Winelands,Drakenstein,DsSchoolAttendences
+Census 2022,Municipality,Drakenstein,No,27604,34.2,,,,,Western Cape,Cape Winelands,Drakenstein,DsSchoolAttendences
+Census 2022,Municipality,Langeberg,Yes,16981,62.1,,,,,Western Cape,Cape Winelands,Langeberg,DsSchoolAttendences
+Census 2022,Municipality,Langeberg,No,10364,37.9,,,,,Western Cape,Cape Winelands,Langeberg,DsSchoolAttendences
+Census 2022,Municipality,Stellenbosch,Yes,37475,69.8,,,,,Western Cape,Cape Winelands,Stellenbosch,DsSchoolAttendences
+Census 2022,Municipality,Stellenbosch,No,16201,30.2,,,,,Western Cape,Cape Winelands,Stellenbosch,DsSchoolAttendences
+Census 2022,Municipality,Witzenberg,Yes,18319,58.5,,,,,Western Cape,Cape Winelands,Witzenberg,DsSchoolAttendences
+Census 2022,Municipality,Witzenberg,No,13002,41.5,,,,,Western Cape,Cape Winelands,Witzenberg,DsSchoolAttendences
+Census 2022,Municipality,Beaufort West,Yes,17184,65.8,,,,,Western Cape,Central Karoo,Beaufort West,DsSchoolAttendences
+Census 2022,Municipality,Beaufort West,No,8935,34.2,,,,,Western Cape,Central Karoo,Beaufort West,DsSchoolAttendences
+Census 2022,Municipality,Laingsburg,Yes,1945,52.0,,,,,Western Cape,Central Karoo,Laingsburg,DsSchoolAttendences
+Census 2022,Municipality,Laingsburg,No,1797,48.0,,,,,Western Cape,Central Karoo,Laingsburg,DsSchoolAttendences
+Census 2022,Municipality,Prince Albert,Yes,3636,61.4,,,,,Western Cape,Central Karoo,Prince Albert,DsSchoolAttendences
+Census 2022,Municipality,Prince Albert,No,2290,38.6,,,,,Western Cape,Central Karoo,Prince Albert,DsSchoolAttendences
+Census 2022,Municipality,City of Cape Town,Yes,934103,68.8,,,,,Western Cape,City of Cape Town,City of Cape Town,DsSchoolAttendences
+Census 2022,Municipality,City of Cape Town,No,423932,31.2,,,,,Western Cape,City of Cape Town,City of Cape Town,DsSchoolAttendences
+Census 2022,Municipality,Bitou,Yes,12640,68.0,,,,,Western Cape,Garden Route,Bitou,DsSchoolAttendences
+Census 2022,Municipality,Bitou,No,5948,32.0,,,,,Western Cape,Garden Route,Bitou,DsSchoolAttendences
+Census 2022,Municipality,George,Yes,56628,64.7,,,,,Western Cape,Garden Route,George,DsSchoolAttendences
+Census 2022,Municipality,George,No,30962,35.3,,,,,Western Cape,Garden Route,George,DsSchoolAttendences
+Census 2022,Municipality,Hessequa,Yes,11576,58.8,,,,,Western Cape,Garden Route,Hessequa,DsSchoolAttendences
+Census 2022,Municipality,Hessequa,No,8095,41.2,,,,,Western Cape,Garden Route,Hessequa,DsSchoolAttendences
+Census 2022,Municipality,Kannaland,Yes,5971,59.4,,,,,Western Cape,Garden Route,Kannaland,DsSchoolAttendences
+Census 2022,Municipality,Kannaland,No,4083,40.6,,,,,Western Cape,Garden Route,Kannaland,DsSchoolAttendences
+Census 2022,Municipality,Knysna,Yes,17588,67.3,,,,,Western Cape,Garden Route,Knysna,DsSchoolAttendences
+Census 2022,Municipality,Knysna,No,8536,32.7,,,,,Western Cape,Garden Route,Knysna,DsSchoolAttendences
+Census 2022,Municipality,Mossel Bay,Yes,21472,62.6,,,,,Western Cape,Garden Route,Mossel Bay,DsSchoolAttendences
+Census 2022,Municipality,Mossel Bay,No,12826,37.4,,,,,Western Cape,Garden Route,Mossel Bay,DsSchoolAttendences
+Census 2022,Municipality,Oudtshoorn,Yes,28119,63.4,,,,,Western Cape,Garden Route,Oudtshoorn,DsSchoolAttendences
+Census 2022,Municipality,Oudtshoorn,No,16262,36.6,,,,,Western Cape,Garden Route,Oudtshoorn,DsSchoolAttendences
+Census 2022,Municipality,Cape Agulhas,Yes,5843,57.8,,,,,Western Cape,Overberg,Cape Agulhas,DsSchoolAttendences
+Census 2022,Municipality,Cape Agulhas,No,4263,42.2,,,,,Western Cape,Overberg,Cape Agulhas,DsSchoolAttendences
+Census 2022,Municipality,Overstrand,Yes,19452,62.4,,,,,Western Cape,Overberg,Overstrand,DsSchoolAttendences
+Census 2022,Municipality,Overstrand,No,11733,37.6,,,,,Western Cape,Overberg,Overstrand,DsSchoolAttendences
+Census 2022,Municipality,Swellendam,Yes,8374,61.3,,,,,Western Cape,Overberg,Swellendam,DsSchoolAttendences
+Census 2022,Municipality,Swellendam,No,5293,38.7,,,,,Western Cape,Overberg,Swellendam,DsSchoolAttendences
+Census 2022,Municipality,Theewaterskloof,Yes,24627,61.0,,,,,Western Cape,Overberg,Theewaterskloof,DsSchoolAttendences
+Census 2022,Municipality,Theewaterskloof,No,15727,39.0,,,,,Western Cape,Overberg,Theewaterskloof,DsSchoolAttendences
+Census 2022,Municipality,Bergrivier,Yes,12764,61.8,,,,,Western Cape,West Coast,Bergrivier,DsSchoolAttendences
+Census 2022,Municipality,Bergrivier,No,7887,38.2,,,,,Western Cape,West Coast,Bergrivier,DsSchoolAttendences
+Census 2022,Municipality,Cederberg,Yes,8762,54.3,,,,,Western Cape,West Coast,Cederberg,DsSchoolAttendences
+Census 2022,Municipality,Cederberg,No,7379,45.7,,,,,Western Cape,West Coast,Cederberg,DsSchoolAttendences
+Census 2022,Municipality,Matzikama,Yes,13313,62.0,,,,,Western Cape,West Coast,Matzikama,DsSchoolAttendences
+Census 2022,Municipality,Matzikama,No,8158,38.0,,,,,Western Cape,West Coast,Matzikama,DsSchoolAttendences
+Census 2022,Municipality,Saldanha Bay,Yes,30574,66.9,,,,,Western Cape,West Coast,Saldanha Bay,DsSchoolAttendences
+Census 2022,Municipality,Saldanha Bay,No,15151,33.1,,,,,Western Cape,West Coast,Saldanha Bay,DsSchoolAttendences
+Census 2022,Municipality,Swartland,Yes,28523,64.6,,,,,Western Cape,West Coast,Swartland,DsSchoolAttendences
+Census 2022,Municipality,Swartland,No,15655,35.4,,,,,Western Cape,West Coast,Swartland,DsSchoolAttendences
